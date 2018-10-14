@@ -1,14 +1,13 @@
 # SITE CONFIGURATION
 baseurl: ""
 url: "https://learnwell.github.io"
-title: Type on Strap # site's title
-description: "A website with blog posts and pages" # used by search engines
-
+title: learnwell # site's title
+description: Learn Well, Retain Forever. # used by search engines
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type on Strap # blog's title
+  title: learnwell # blog's title
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
