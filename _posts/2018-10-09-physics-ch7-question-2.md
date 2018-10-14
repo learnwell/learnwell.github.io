@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Physics CH7 Question #2"
+tags: [math]
+
+---
+
 > A light object and a heavy object have the same kinetic energy. Which has the greater momentum? Explain.
 
 
@@ -27,5 +34,6 @@ $$
 eyJoaXN0b3J5IjpbLTIwMDE1NzA3MjldfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjkyMzg2NTVdfQ==
+eyJoaXN0b3J5IjpbLTE3NjM5NDg0NzYsLTExMjkyMzg2NTVdfQ
+==
 -->
