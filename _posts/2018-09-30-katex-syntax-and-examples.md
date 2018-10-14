@@ -12,12 +12,10 @@ tags: []
 1. LaTeX [reference](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference)
 2. KaTeX [reference](https://katex.org/docs/supported.html)
 3. `$$\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.$$`
-
 	$$
 	\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
 	$$
 4. `$$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$`
-
 	$$
 	x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}
 	$$
@@ -67,5 +65,5 @@ MCwtMTQ5MTcyNDIzNiwtMTg4MjczMjY5NSwxMjA0MzU1OTA3LC
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMDk3NjgzOF19
+eyJoaXN0b3J5IjpbMTUxODI5NTMzMF19
 -->
