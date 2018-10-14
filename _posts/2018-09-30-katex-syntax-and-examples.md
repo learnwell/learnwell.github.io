@@ -39,6 +39,7 @@ y^(a+b)^ then something like x~y,z~
 9. `This formula $f(x)  = x^2$ is an example.`
 This formula $f(x)  = x^2$ is an example.
 10. `$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$`
+
 $\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$ 
 
 ### Work In Progress: GitHub Pages Integration
@@ -66,5 +67,5 @@ MCwtMTQ5MTcyNDIzNiwtMTg4MjczMjY5NSwxMjA0MzU1OTA3LC
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyODU4NjY0NF19
+eyJoaXN0b3J5IjpbLTE4OTMzMDUxMTRdfQ==
 -->
