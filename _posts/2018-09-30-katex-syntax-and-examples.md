@@ -17,14 +17,17 @@ tags: []
 	\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
 	$$
 4. `$$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$`
+
 	$$
 	x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}
 	$$
 5. `$${x}_{1,2}=\frac{-b\pm \sqrt{b^2-4ac}}{2a}$$`
+
 	$$
 	{x}_{1,2}=\frac{-b\pm \sqrt{b^2-4ac}}{2a}  
 	$$
 6. `$$f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi$$`
+
 	$$
 	f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi
 	$$
@@ -64,5 +67,5 @@ MCwtMTQ5MTcyNDIzNiwtMTg4MjczMjY5NSwxMjA0MzU1OTA3LC
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTA2OTE1MzJdfQ==
+eyJoaXN0b3J5IjpbLTk3OTU5MjUwNiwtMTcxMDY5MTUzMl19
 -->
