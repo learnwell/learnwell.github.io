@@ -7,7 +7,8 @@
 * Cannot insert any sort of space or indicate any separation between mathematical equations. They look like a run on sentence which greatly reduces their beauty and students’ understanding.
 * Export as Text is useless when math is involved.
 * Export as HTML is poorly formatted when math is involved.
+* Export as PDF is less than satisfactory when math is involved.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEwMzI0Mjc0LC0yODQ3NjIxOSwtMTU5OT
-QzNTgzLDIwNDMyMzMxMzQsODU2NTEwNzhdfQ==
+eyJoaXN0b3J5IjpbMjA0MjI2NzMyNywtMjg0NzYyMTksLTE1OT
+k0MzU4MywyMDQzMjMzMTM0LDg1NjUxMDc4XX0=
 -->
