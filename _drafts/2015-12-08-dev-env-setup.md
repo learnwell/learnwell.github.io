@@ -1,15 +1,15 @@
 ---
 
 layout: post
-title: the title goes here
+title: Developer Environment Setup
 author: pulkit
 tags: []
 
 ---
 
-Dev environment setup:
+## Dev environment setup:
 
-Technology Stack Rampup:
+## Technology Stack Rampup:
 Finish a course about using chrome dev tools, its completely free: https://www.codeschool.com/courses/discover-devtools, use your shoppinpal email account to signup/login.
 GIT course from codeschool are optional:
 [OPTIONAL] https://www.codeschool.com/paths/git
@@ -123,5 +123,5 @@ https://training.play-with-docker.com/
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3Mzg1MTAzMl19
+eyJoaXN0b3J5IjpbLTExNTYwNTY0MTVdfQ==
 -->
