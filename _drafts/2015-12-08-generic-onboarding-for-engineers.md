@@ -22,19 +22,16 @@ Pefecting newhire onboarding is essential for companies of any size. The templat
 		1. [ ] Create your own account
 		2. [ ] Get access to company repos
 	4. Lastpass or 1Pass
-store all passwords using lastpass chrome extension
-do not save passwords using native google chrome feature (insecure)
-Slack
-create account, download desktop and mobile apps
-connect to team Shoppinpal
-Skype
-add team members as contacts
-HubStaff
-join using company email
-Sourcetree
-Clone your bitbucket repo in sourcetree desktop app
-Flycut
-for Mac users
+		1. store all passwords using lastpass chrome extension
+		1. do not save passwords using native google chrome feature (insecure)
+	5. Skype
+		1. add team members as contacts
+	6. HubStaff or Keka
+		1. join using company email
+	1. Sourcetree
+		1. Clone your bitbucket repo in sourcetree desktop app
+	1. Flycut
+		1. Must have for Mac users
 
 Provision Access:
 Added Kamal to the ShoppinPal organization’s team on GitHub.com: https://github.com/orgs/ShoppinPal/teams/developers
@@ -157,5 +154,6 @@ https://training.play-with-docker.com/
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NTExNTc4NiwyOTM5MDE3MjZdfQ==
+eyJoaXN0b3J5IjpbMjA1NDEyNzE4MSwxMzg1MTE1Nzg2LDI5Mz
+kwMTcyNl19
 -->
