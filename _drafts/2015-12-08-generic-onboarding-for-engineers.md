@@ -4,16 +4,16 @@
 layout: post
 title: Generic Onboading for Software Engineers
 author: pulkit
-tags: [onboard,setup]
+tags: [onboard,FTE,new hire]
 
 ---
 
+### Accounts worth having/setting-up
 
-Create new accounts in following websites, and download desktop/mobile apps(optional):
-
-gDrive
-Get a company email account
-Search through all the technical goodness
+1. Create new accounts at following websites, and download desktop and/or mobile apps (*recommended*):
+	1. gDrive
+		1. Get a company email account
+		3. Search through all the technical goodness
 For example, find the document with keywords around nodejs profiling
 We use it for storage and for notes sharing
 Gitlab
@@ -158,5 +158,5 @@ https://training.play-with-docker.com/
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MzAxODA1M119
+eyJoaXN0b3J5IjpbLTExODg3NTgzMDddfQ==
 -->
