@@ -14,13 +14,15 @@ Pefecting newhire onboarding is essential for companies of any size. The templat
 
 1. Create new accounts at following websites, and download desktop and/or mobile apps (*recommended*):
 	1. gDrive
-		1. Get a company email account
-		2. Search through all the technical goodness (knowledgebase)
-		3. Use it for storage and for notes sharing
-	1. Gitlab
+		1. [ ] Get a company email account
+		2. [ ] Search through all the technical goodness (knowledgebase)
+		3. [ ] Use it for storage and for notes sharing
+	2. Gitlab
 		1. Use company email account and get access
-	1. Github
-same tasks as in bitbucket
+	3. Github
+		1. Ceate your own account
+		2. get access to company repos
+	4. 
 Lastpass
 store all passwords using lastpass chrome extension
 do not save passwords using native google chrome feature (insecure)
@@ -157,5 +159,5 @@ https://training.play-with-docker.com/
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkzOTAxNzI2XX0=
+eyJoaXN0b3J5IjpbMTU2MTQyOTYyMSwyOTM5MDE3MjZdfQ==
 -->
