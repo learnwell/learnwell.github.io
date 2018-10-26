@@ -8,7 +8,8 @@ tags: [onboard,FTE,new hire]
 
 ---
 
-Getting newhire on-boarding pit
+Pefecting newhire onboarding is essential for companies of any size. The template offered here provides a starting point for onboarding software engineers. You should hack 
+
 ### Accounts worth having/setting-up
 
 1. Create new accounts at following websites, and download desktop and/or mobile apps (*recommended*):
@@ -156,5 +157,5 @@ https://training.play-with-docker.com/
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTA3NzU5XX0=
+eyJoaXN0b3J5IjpbLTEwODUwNzA5MjddfQ==
 -->
