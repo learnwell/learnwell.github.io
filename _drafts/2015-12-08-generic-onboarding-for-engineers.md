@@ -16,12 +16,11 @@ Pefecting newhire onboarding is essential for companies of any size. The templat
 		1. [ ] Get a company email account
 		2. [ ] Search through all the technical goodness (knowledgebase)
 		3. [ ] Use it for storage and for notes sharing
-	2. Gitlab
+	2. GSuite
+		1. [ ] Setup Mail, Calendar etc.
+	3. Gitlab
 		1. [ ] Use company email account and get access
-	3. Github
-		1. [ ] Create your own account
-		2. [ ] Get access to company repos
-	4. Lastpass or 1Pass
+	4. Lastpass
 		1. [ ] store all passwords using lastpass chrome extension
 		2. [ ] disable password saving via native browser
 	5. Skype
@@ -154,6 +153,6 @@ https://training.play-with-docker.com/
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMTE1NzA3MiwxMzg1MTE1Nzg2LDI5Mz
-kwMTcyNl19
+eyJoaXN0b3J5IjpbLTExMDYwMDU1OTYsMTM4NTExNTc4NiwyOT
+M5MDE3MjZdfQ==
 -->
