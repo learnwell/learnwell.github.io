@@ -21,19 +21,17 @@ Pefecting newhire onboarding is essential for companies of any size. The templat
 	3. Gitlab
 		1. [ ] Use company email account and get access
 	4. Lastpass
-		1. [ ] store all passwords using lastpass chrome extension
-		2. [ ] disable password saving via native browser
+		1. [ ] Store all passwords using lastpass chrome extension
+		2. [ ] Disable password saving via native browser
 	5. Skype
-		4. [ ]  add team members as contacts
+		1. [ ] Add team members as contacts
+		2. [ ] If you need to call landlines, ask for company reimbursement or company card to pay for them.
 	6. HubStaff or Keka
-		1. [ ] join using company email
+		1. [ ] Join using company email
 	7. Sourcetree
 		1. [ ] Clone your bitbucket repo in sourcetree desktop app
 	8. Flycut
-		1. Must have for Mac users
-
-Provision Access:
-Added Kamal to the ShoppinPal organization’s team on GitHub.com: https://github.com/orgs/ShoppinPal/teams/developers
+		1. [ ] Must have for Mac users
 
 Dev environment setup:
 
@@ -153,6 +151,6 @@ https://training.play-with-docker.com/
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDYwMDU1OTYsMTM4NTExNTc4NiwyOT
+eyJoaXN0b3J5IjpbLTIwNTczMjE3ODYsMTM4NTExNTc4NiwyOT
 M5MDE3MjZdfQ==
 -->
