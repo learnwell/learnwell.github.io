@@ -8,11 +8,7 @@ tags: []
 
 ---
 
-## Short & sweet
-Get it from here:
-https://gist.github.com/pulkitsinghal/077fd7d083c9c4fe7336
-
-## With explanations
+Whether you are setting up you local `'nix` machine or your remote one, having the terminal history configured properly is a great boon and best practice.
 
 ```
 export HISTCONTROL=erasedups
@@ -21,7 +17,12 @@ export HISTSIZE=10000
 export HISTIGNORE="&:[ ]*:exit:clear:ls:cd:pwd"
 ```
 
+## Reference(s)
+
+* https://gist.github.com/pulkitsinghal/077fd7d083c9c4fe7336
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTk5NTczMjZdfQ==
+eyJoaXN0b3J5IjpbNjIxOTAzNDldfQ==
 -->
