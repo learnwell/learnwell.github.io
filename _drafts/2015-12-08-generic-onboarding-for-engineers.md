@@ -22,15 +22,15 @@ Pefecting newhire onboarding is essential for companies of any size. The templat
 		1. [ ] Create your own account
 		2. [ ] Get access to company repos
 	4. Lastpass or 1Pass
-		1. store all passwords using lastpass chrome extension
-		1. do not save passwords using native google chrome feature (insecure)
+		1. [ ] store all passwords using lastpass chrome extension
+		2. [ ] disable password saving via native browser
 	5. Skype
-		1. add team members as contacts
+		4. [ ]  add team members as contacts
 	6. HubStaff or Keka
-		1. join using company email
-	1. Sourcetree
-		1. Clone your bitbucket repo in sourcetree desktop app
-	1. Flycut
+		1. [ ] join using company email
+	7. Sourcetree
+		1. [ ] Clone your bitbucket repo in sourcetree desktop app
+	8. Flycut
 		1. Must have for Mac users
 
 Provision Access:
@@ -154,6 +154,6 @@ https://training.play-with-docker.com/
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NDEyNzE4MSwxMzg1MTE1Nzg2LDI5Mz
+eyJoaXN0b3J5IjpbMjAzMTE1NzA3MiwxMzg1MTE1Nzg2LDI5Mz
 kwMTcyNl19
 -->
