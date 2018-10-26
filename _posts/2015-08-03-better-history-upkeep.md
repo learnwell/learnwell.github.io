@@ -4,7 +4,7 @@
 layout: post
 title: An ideal `bash_profile` - better history upkeep
 author: pulkit
-tags: []
+tags: [history,CLI,terminal,bashrc,bash,profile]
 
 ---
 
@@ -24,5 +24,5 @@ export HISTIGNORE="&:[ ]*:exit:clear:ls:cd:pwd"
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIxOTAzNDldfQ==
+eyJoaXN0b3J5IjpbMzIzNjU3MzEzXX0=
 -->
