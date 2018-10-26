@@ -8,18 +8,16 @@ tags: [onboard,FTE,new hire]
 
 ---
 
+Getting newhire on-boarding pit
 ### Accounts worth having/setting-up
 
 1. Create new accounts at following websites, and download desktop and/or mobile apps (*recommended*):
 	1. gDrive
 		1. Get a company email account
-		3. Search through all the technical goodness
-For example, find the document with keywords around nodejs profiling
-We use it for storage and for notes sharing
-Gitlab
-Get access
-create a repository
-share your last project
+		2. Search through all the technical goodness
+		3. Use it for storage and for notes sharing
+	1. Gitlab
+		1. Get access to
 Github
 same tasks as in bitbucket
 Lastpass
@@ -158,5 +156,5 @@ https://training.play-with-docker.com/
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODg3NTgzMDddfQ==
+eyJoaXN0b3J5IjpbLTE4NTA3NzU5XX0=
 -->
