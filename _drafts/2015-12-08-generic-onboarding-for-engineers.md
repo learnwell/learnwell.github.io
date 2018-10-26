@@ -8,18 +8,18 @@ tags: [onboard,FTE,new hire]
 
 ---
 
-Pefecting newhire onboarding is essential for companies of any size. The template offered here provides a starting point for onboarding software engineers. You should hack 
+Pefecting newhire onboarding is essential for companies of any size. The template offered here provides a starting point for onboarding software engineers. You should hack on it and adjust it to fit the needs of your business.
 
 ### Accounts worth having/setting-up
 
 1. Create new accounts at following websites, and download desktop and/or mobile apps (*recommended*):
 	1. gDrive
 		1. Get a company email account
-		2. Search through all the technical goodness
+		2. Search through all the technical goodness (knowledgebase)
 		3. Use it for storage and for notes sharing
 	1. Gitlab
-		1. Get access to
-Github
+		1. Use company email account and get access
+	1. Github
 same tasks as in bitbucket
 Lastpass
 store all passwords using lastpass chrome extension
@@ -157,5 +157,5 @@ https://training.play-with-docker.com/
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODUwNzA5MjddfQ==
+eyJoaXN0b3J5IjpbMjkzOTAxNzI2XX0=
 -->
