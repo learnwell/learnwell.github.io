@@ -11,6 +11,9 @@ Training, here, refers to generating content to retrain oneself and/or others at
 
 In good humor I often abbreviate all three as [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) which is probably a far less enjoyable domain.
 
+This list was prepared (and is kept up-to-date) with the following goals in mind:
+1. when looking for a training platform that allows me to create quizzes or lecture content that can allow rich content like developer-code to be present in it. Not to run but to display as part of the content, do you have this ability?
+
 1. Moodle
     1. [www.moodlecloud.com](www.moodlecloud.com)
     2. [https://moodlecloud.com/app/en/portal/view/learnwell](https://moodlecloud.com/app/en/portal/view/learnwell)
@@ -69,14 +72,14 @@ In good humor I often abbreviate all three as [ETL](https://en.wikipedia.org/wik
     1. [https://www.udemy.com/how-to-create-a-course-for-your-business/learn/v4/overview](https://www.udemy.com/how-to-create-a-course-for-your-business/learn/v4/overview)
     1. [https://support.udemy.com/hc/en-us/articles/229231627-Create-a-Multiple-Choice-Quiz](https://support.udemy.com/hc/en-us/articles/229231627-Create-a-Multiple-Choice-Quiz)
     1. UDEMY for business support - [https://support.udemy.com/hc/en-us/categories/204174328](https://support.udemy.com/hc/en-us/categories/204174328)
-1. Content Platforms That Support Markdown
+15. Content Platforms That Support Markdown
     1. ???
 16. Google's[ course](https://edu.google.com/openonline/) builder
     1. is it dead or alive?
-17. SoloL
-I'm looking for a training platform that allows me to create quizzes or lecture content that can allow rich content like developer-code to be present in it. Not to run but to display as part of the content, do you have this ability?
+17. [SoloLearn](https://www.sololearn.com/)
+	1.  Has a `C++` online playground
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5OTE2NzI5MCwtMTA2ODMwNTMyNF19
+eyJoaXN0b3J5IjpbLTcwMTE5OTE1LC0xMDY4MzA1MzI0XX0=
 -->
