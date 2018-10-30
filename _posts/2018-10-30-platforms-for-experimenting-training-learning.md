@@ -65,16 +65,11 @@ In good humor I often abbreviate all three as [ETL](https://en.wikipedia.org/wik
 13. [litmos.com](http://litmos.com)
 14. Udemy
     1. Pricing for training your team [https://business.udemy.com/pricing/](https://business.udemy.com/pricing/)
-
-        17. BUT this is not the same as pricing for creating courses that are only accessible by your local team
-
-    23. [https://www.udemy.com/how-to-create-a-course-for-your-business/learn/v4/overview](https://www.udemy.com/how-to-create-a-course-for-your-business/learn/v4/overview)
-
-    24. [https://support.udemy.com/hc/en-us/articles/229231627-Create-a-Multiple-Choice-Quiz](https://support.udemy.com/hc/en-us/articles/229231627-Create-a-Multiple-Choice-Quiz)
-
-    25. UDEMY for business support - [https://support.udemy.com/hc/en-us/categories/204174328](https://support.udemy.com/hc/en-us/categories/204174328)
-
-15. Content Platforms That Support Markdown
+        1. BUT this is not the same as pricing for creating courses that are only accessible by your local team
+    1. [https://www.udemy.com/how-to-create-a-course-for-your-business/learn/v4/overview](https://www.udemy.com/how-to-create-a-course-for-your-business/learn/v4/overview)
+    1. [https://support.udemy.com/hc/en-us/articles/229231627-Create-a-Multiple-Choice-Quiz](https://support.udemy.com/hc/en-us/articles/229231627-Create-a-Multiple-Choice-Quiz)
+    1. UDEMY for business support - [https://support.udemy.com/hc/en-us/categories/204174328](https://support.udemy.com/hc/en-us/categories/204174328)
+1. Content Platforms That Support Markdown
 
     26. ???
 
@@ -86,6 +81,5 @@ I'm looking for a training platform that allows me to create quizzes or lecture 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDU2ODMxMTUsLTEwNjgzMDUzMjRdfQ
-==
+eyJoaXN0b3J5IjpbNDY4NTY0MjkyLC0xMDY4MzA1MzI0XX0=
 -->
