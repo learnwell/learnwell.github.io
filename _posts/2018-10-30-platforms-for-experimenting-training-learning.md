@@ -17,9 +17,11 @@ This list was prepared (and is kept up-to-date) with the following goals in mind
 3. easy to host
 4. easy to share
 5. easy to touch base regularly via reminders or notifications to stay up-to-date
-6. allows  to create quizzes or lecture content that can allow rich content like developer-code to be present in it. Not to run but to display as part of the content, do you have this ability?
+6. allows quizzes to be created
+7. supports markdown
+	* embedding developer-code in content. Not to run but to display as part of the content, do you have this ability?
 
-7. Moodle
+9. Moodle
     1. [www.moodlecloud.com](www.moodlecloud.com)
     2. [https://moodlecloud.com/app/en/portal/view/learnwell](https://moodlecloud.com/app/en/portal/view/learnwell)
         1. To login to the portal, your username is your site URL, and your password is your Moodle admin password
@@ -28,14 +30,14 @@ This list was prepared (and is kept up-to-date) with the following goals in mind
         1. It was developed within the Moodle Community
         1. [https://docs.moodle.org/35/en/GIFT_format](https://docs.moodle.org/35/en/GIFT_format)
     4. [https://learnwell.moodlecloud.com/](https://learnwell.moodlecloud.com/)
-8. Thinkific - [https://www.thinkific.com/tour/](https://www.thinkific.com/tour/)
+10. Thinkific - [https://www.thinkific.com/tour/](https://www.thinkific.com/tour/)
     1. Manage who can enroll on your courses using Private and Hidden Courses
         1. [http://help.thinkific.com/support/solutions/articles/216720-manage-who-can-enrol-on-your-courses-using-private-and-hidden-courses](http://help.thinkific.com/support/solutions/articles/216720-manage-who-can-enrol-on-your-courses-using-private-and-hidden-courses)
     1. Create & Enroll Users in a Course
         1. [http://thinkific.freshdesk.com/support/solutions/articles/216809-create-enroll-users-in-a-course](http://thinkific.freshdesk.com/support/solutions/articles/216809-create-enroll-users-in-a-course)
     1. If you belong to the Business Plan ($99/moth) and above, Thinkific will automatically create your account at Accredible, and we cover the cost!
         1. You can make it even simpler for customers to redeem their offer by sending them to your course or bundle landing page via a URL where the discount will already be applied. All you need to do is add the following to the end of the normal URL for the page: **?coupon=CODE** 
-9. Codio
+11. Codio
     1. Apparently they entered the training platform + ready made VM game too!
         1. [Codio Guides](https://codio.com/docs/ide/tools/guides/), a rich content authoring tool for publishing content that allows students to view instructions while they edit their code.
         1. [https://codio.com/docs/ide/tools/guides/#key-features](https://codio.com/docs/ide/tools/guides/#key-features)
@@ -44,48 +46,48 @@ This list was prepared (and is kept up-to-date) with the following goals in mind
         1. [https://bitbucket.org/codiocontent/guides-cheat-sheet](https://bitbucket.org/codiocontent/guides-cheat-sheet)
     1. [https://codio.com/home/courses/new/](https://codio.com/home/courses/new/)
     1. [https://codio.com/docs/quickstart/](https://codio.com/docs/quickstart/)
-10. CodeCademy
+12. CodeCademy
     1. [http://www.codecademy.com/create/creator](http://www.codecademy.com/create/creator)
         1. [http://techcrunch.com/2012/01/30/codecademy-becomes-a-platform-now-anyone-can-write-programming-tutorials/](http://techcrunch.com/2012/01/30/codecademy-becomes-a-platform-now-anyone-can-write-programming-tutorials/)
     1. submission correctness test
         1. [http://www.codecademy.com/blog/14-the-jquery-expect-library](http://www.codecademy.com/blog/14-the-jquery-expect-library)
         1. [https://gist.github.com/fanaugen/4980604](https://gist.github.com/fanaugen/4980604)
-11. [teachable.com](http://teachable.com) - previously known as [UseFedora](https://usefedora.com/)
+13. [teachable.com](http://teachable.com) - previously known as [UseFedora](https://usefedora.com/)
     1. it has some content i created last year
     1. ADMIN - [https://shoppinpal.teachable.com/admin](https://shoppinpal.teachable.com/admin)
     1. USER - [https://shoppinpal.teachable.com](https://shoppinpal.teachable.com)
-12. LearnShell
+14. LearnShell
     1. [https://www.learnshell.org/en/Contributing_Tutorials](https://www.learnshell.org/en/Contributing_Tutorials)
     1. [https://github.com/ronreiter/interactive-tutorials](https://github.com/ronreiter/interactive-tutorials)
-13. NodeSchool.io
+15. NodeSchool.io
     1. [http://nodeschool.io/building-workshops.html](http://nodeschool.io/building-workshops.html)
         1. [https://www.npmjs.com/package/workshopper](https://www.npmjs.com/package/workshopper)
         1. [https://www.npmjs.com/package/adventure](https://www.npmjs.com/package/adventure)
     1. [http://nodeschool.io/#workshopper-list](http://nodeschool.io/#workshopper-list)
-14. examtime.com or [goconqr.com](http://goconqr.com)
+16. examtime.com or [goconqr.com](http://goconqr.com)
     1. can now **send courses**[ privately](https://www.goconqr.com/en/info/goconqr-campus-private-links-quote).
     1. [https://www.goconqr.com/payments/payments](https://www.goconqr.com/payments/payments)
         1. With premium you have the ability to create private resources, go ad free and upload 1GB of media for $21.95 per year
-15. Versal
-16. [teamtreehouse.com](http://teamtreehouse.com)
-17. freecodecamp.com - no content creation available
-18. digitalchalk.com - $99 per month only when annual subscription is purchased
-19. [litmos.com](http://litmos.com)
-20. Udemy
+17. Versal
+18. [teamtreehouse.com](http://teamtreehouse.com)
+19. freecodecamp.com - no content creation available
+20. digitalchalk.com - $99 per month only when annual subscription is purchased
+21. [litmos.com](http://litmos.com)
+22. Udemy
     1. Pricing for training your team [https://business.udemy.com/pricing/](https://business.udemy.com/pricing/)
         1. BUT this is not the same as pricing for creating courses that are only accessible by your local team
     1. [https://www.udemy.com/how-to-create-a-course-for-your-business/learn/v4/overview](https://www.udemy.com/how-to-create-a-course-for-your-business/learn/v4/overview)
     1. [https://support.udemy.com/hc/en-us/articles/229231627-Create-a-Multiple-Choice-Quiz](https://support.udemy.com/hc/en-us/articles/229231627-Create-a-Multiple-Choice-Quiz)
     1. UDEMY for business support - [https://support.udemy.com/hc/en-us/categories/204174328](https://support.udemy.com/hc/en-us/categories/204174328)
-21. Content Platforms That Support Markdown
+23. Content Platforms That Support Markdown
     1. ???
-22. Google's[ course](https://edu.google.com/openonline/) builder
+24. Google's[ course](https://edu.google.com/openonline/) builder
     1. is it dead or alive?
-23. [SoloLearn](https://www.sololearn.com/)
+25. [SoloLearn](https://www.sololearn.com/)
 	1.  Has a `C++` online playground
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTAyNDc3ODYsLTEwNjgzMDUzMjRdfQ
+eyJoaXN0b3J5IjpbLTE1NjUzMjQ2MzcsLTEwNjgzMDUzMjRdfQ
 ==
 -->
