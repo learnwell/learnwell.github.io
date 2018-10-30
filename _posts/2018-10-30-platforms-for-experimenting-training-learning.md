@@ -7,6 +7,8 @@ tags: [experiment,train,learn,content,generation]
 
 ---
 
+## Summary
+
 Training, here, refers to generating content to retrain oneself and/or others at a later point in time. This is good practice as it serves to keep one up-to-date and you don't feel like everyday work caused tunnel vision and loss of expertise in other domains that you once used to know.
 
 In good humor I often abbreviate all three as [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) which is probably a far less enjoyable domain.
@@ -91,5 +93,5 @@ This list was prepared (and is kept up-to-date) with the following goals in mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg3NzYxOTg0LC0xMDY4MzA1MzI0XX0=
+eyJoaXN0b3J5IjpbLTE1NDU0MzA2MiwtMTA2ODMwNTMyNF19
 -->
