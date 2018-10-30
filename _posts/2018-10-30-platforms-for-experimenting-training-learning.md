@@ -11,6 +11,7 @@ Training, here, refers to generating content to retrain oneself and/or others at
 
 In good humor I often abbreviate all three as [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) which is probably a far less enjoyable domain.
 
+## Goal(s)
 This list was prepared (and is kept up-to-date) with the following goals in mind:
 1. platform won't just disappear one day causing loss of content
 2. minimize the need to transform content into another format
@@ -18,10 +19,12 @@ This list was prepared (and is kept up-to-date) with the following goals in mind
 4. easy to share
 5. easy to touch base regularly via reminders or notifications to stay up-to-date
 6. allows quizzes to be created
-7. supports markdown
-	* embedding developer-code in content. Not to run but to display as part of the content, do you have this ability?
+7. allows rich content like developer-code to be present in it. Not to run but to display as part of the content.
+8. terminal and remote machine present within browser, if possible.
 
-9. Moodle
+## Platforms
+
+1. Moodle
     1. [www.moodlecloud.com](www.moodlecloud.com)
     2. [https://moodlecloud.com/app/en/portal/view/learnwell](https://moodlecloud.com/app/en/portal/view/learnwell)
         1. To login to the portal, your username is your site URL, and your password is your Moodle admin password
@@ -88,6 +91,5 @@ This list was prepared (and is kept up-to-date) with the following goals in mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjUzMjQ2MzcsLTEwNjgzMDUzMjRdfQ
-==
+eyJoaXN0b3J5IjpbMjg3NzYxOTg0LC0xMDY4MzA1MzI0XX0=
 -->
