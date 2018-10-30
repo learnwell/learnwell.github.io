@@ -70,16 +70,13 @@ In good humor I often abbreviate all three as [ETL](https://en.wikipedia.org/wik
     1. [https://support.udemy.com/hc/en-us/articles/229231627-Create-a-Multiple-Choice-Quiz](https://support.udemy.com/hc/en-us/articles/229231627-Create-a-Multiple-Choice-Quiz)
     1. UDEMY for business support - [https://support.udemy.com/hc/en-us/categories/204174328](https://support.udemy.com/hc/en-us/categories/204174328)
 1. Content Platforms That Support Markdown
-
-    26. ???
-
+    1. ???
 16. Google's[ course](https://edu.google.com/openonline/) builder
-
-    27. is it dead or alive?
-
+    1. is it dead or alive?
+17. SoloL
 I'm looking for a training platform that allows me to create quizzes or lecture content that can allow rich content like developer-code to be present in it. Not to run but to display as part of the content, do you have this ability?
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY4NTY0MjkyLC0xMDY4MzA1MzI0XX0=
+eyJoaXN0b3J5IjpbLTc5OTE2NzI5MCwtMTA2ODMwNTMyNF19
 -->
