@@ -43,50 +43,28 @@ In good humor I often abbreviate all three as [ETL](https://en.wikipedia.org/wik
         1. [http://www.codecademy.com/blog/14-the-jquery-expect-library](http://www.codecademy.com/blog/14-the-jquery-expect-library)
         1. [https://gist.github.com/fanaugen/4980604](https://gist.github.com/fanaugen/4980604)
 5. [teachable.com](http://teachable.com) - previously known as [UseFedora](https://usefedora.com/)
-
-    13. it has some content i created last year
-
-    14. ADMIN - [https://shoppinpal.teachable.com/admin](https://shoppinpal.teachable.com/admin)
-
-    15. USER - [https://shoppinpal.teachable.com](https://shoppinpal.teachable.com)
-
+    1. it has some content i created last year
+    1. ADMIN - [https://shoppinpal.teachable.com/admin](https://shoppinpal.teachable.com/admin)
+    1. USER - [https://shoppinpal.teachable.com](https://shoppinpal.teachable.com)
 6. LearnShell
-
-    16. [https://www.learnshell.org/en/Contributing_Tutorials](https://www.learnshell.org/en/Contributing_Tutorials)
-
-    17. [https://github.com/ronreiter/interactive-tutorials](https://github.com/ronreiter/interactive-tutorials)
-
+    1. [https://www.learnshell.org/en/Contributing_Tutorials](https://www.learnshell.org/en/Contributing_Tutorials)
+    1. [https://github.com/ronreiter/interactive-tutorials](https://github.com/ronreiter/interactive-tutorials)
 7. NodeSchool.io
-
-    18. [http://nodeschool.io/building-workshops.html](http://nodeschool.io/building-workshops.html)
-
-        14. [https://www.npmjs.com/package/workshopper](https://www.npmjs.com/package/workshopper)
-
-        15. [https://www.npmjs.com/package/adventure](https://www.npmjs.com/package/adventure)
-
-    19. [http://nodeschool.io/#workshopper-list](http://nodeschool.io/#workshopper-list)
-
+    1. [http://nodeschool.io/building-workshops.html](http://nodeschool.io/building-workshops.html)
+        1. [https://www.npmjs.com/package/workshopper](https://www.npmjs.com/package/workshopper)
+        1. [https://www.npmjs.com/package/adventure](https://www.npmjs.com/package/adventure)
+    1. [http://nodeschool.io/#workshopper-list](http://nodeschool.io/#workshopper-list)
 8. examtime.com or [goconqr.com](http://goconqr.com)
-
-    20. can now **send courses**[ privately](https://www.goconqr.com/en/info/goconqr-campus-private-links-quote).
-
-    21. [https://www.goconqr.com/payments/payments](https://www.goconqr.com/payments/payments)
-
-        16. With premium you have the ability to create private resources, go ad free and upload 1GB of media for $21.95 per year
-
+    1. can now **send courses**[ privately](https://www.goconqr.com/en/info/goconqr-campus-private-links-quote).
+    1. [https://www.goconqr.com/payments/payments](https://www.goconqr.com/payments/payments)
+        1. With premium you have the ability to create private resources, go ad free and upload 1GB of media for $21.95 per year
 9. Versal
-
 10. [teamtreehouse.com](http://teamtreehouse.com)
-
 11. freecodecamp.com - no content creation available
-
 12. digitalchalk.com - $99 per month only when annual subscription is purchased
-
 13. [litmos.com](http://litmos.com)
-
 14. Udemy
-
-    22. Pricing for training your team [https://business.udemy.com/pricing/](https://business.udemy.com/pricing/)
+    1. Pricing for training your team [https://business.udemy.com/pricing/](https://business.udemy.com/pricing/)
 
         17. BUT this is not the same as pricing for creating courses that are only accessible by your local team
 
@@ -108,6 +86,6 @@ I'm looking for a training platform that allows me to create quizzes or lecture 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODY5OTY5NjgsLTEwNjgzMDUzMjRdfQ
+eyJoaXN0b3J5IjpbLTIxMDU2ODMxMTUsLTEwNjgzMDUzMjRdfQ
 ==
 -->
