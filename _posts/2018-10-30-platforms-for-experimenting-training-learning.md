@@ -29,32 +29,19 @@ In good humor I often abbreviate all three as [ETL](https://en.wikipedia.org/wik
         1. You can make it even simpler for customers to redeem their offer by sending them to your course or bundle landing page via a URL where the discount will already be applied. All you need to do is add the following to the end of the normal URL for the page: **?coupon=CODE** 
 3. Codio
     1. Apparently they entered the training platform + ready made VM game too!
-        8. [Codio Guides](https://codio.com/docs/ide/tools/guides/), a rich content authoring tool for publishing content that allows students to view instructions while they edit their code.
-
-        9. [https://codio.com/docs/ide/tools/guides/#key-features](https://codio.com/docs/ide/tools/guides/#key-features)
-
+        1. [Codio Guides](https://codio.com/docs/ide/tools/guides/), a rich content authoring tool for publishing content that allows students to view instructions while they edit their code.
+        1. [https://codio.com/docs/ide/tools/guides/#key-features](https://codio.com/docs/ide/tools/guides/#key-features)
             1. Allow you to write rich, multi section content using simple markdown. It’s incredibly easy.
-
-            2. Not only can you structure your content into sections, but the Guide can automatically open and close code files as well as run terminal commands.
-
-        10. [https://bitbucket.org/codiocontent/guides-cheat-sheet](https://bitbucket.org/codiocontent/guides-cheat-sheet)
-
-    9. [https://codio.com/home/courses/new/](https://codio.com/home/courses/new/)
-
-    10. [https://codio.com/docs/quickstart/](https://codio.com/docs/quickstart/)
-
+           1. Not only can you structure your content into sections, but the Guide can automatically open and close code files as well as run terminal commands.
+        1. [https://bitbucket.org/codiocontent/guides-cheat-sheet](https://bitbucket.org/codiocontent/guides-cheat-sheet)
+    1. [https://codio.com/home/courses/new/](https://codio.com/home/courses/new/)
+    1. [https://codio.com/docs/quickstart/](https://codio.com/docs/quickstart/)
 4. CodeCademy
-
-    11. [http://www.codecademy.com/create/creator](http://www.codecademy.com/create/creator)
-
-        11. [http://techcrunch.com/2012/01/30/codecademy-becomes-a-platform-now-anyone-can-write-programming-tutorials/](http://techcrunch.com/2012/01/30/codecademy-becomes-a-platform-now-anyone-can-write-programming-tutorials/)
-
-    12. submission correctness test
-
-        12. [http://www.codecademy.com/blog/14-the-jquery-expect-library](http://www.codecademy.com/blog/14-the-jquery-expect-library)
-
-        13. [https://gist.github.com/fanaugen/4980604](https://gist.github.com/fanaugen/4980604)
-
+    1. [http://www.codecademy.com/create/creator](http://www.codecademy.com/create/creator)
+        1. [http://techcrunch.com/2012/01/30/codecademy-becomes-a-platform-now-anyone-can-write-programming-tutorials/](http://techcrunch.com/2012/01/30/codecademy-becomes-a-platform-now-anyone-can-write-programming-tutorials/)
+    1. submission correctness test
+        1. [http://www.codecademy.com/blog/14-the-jquery-expect-library](http://www.codecademy.com/blog/14-the-jquery-expect-library)
+        1. [https://gist.github.com/fanaugen/4980604](https://gist.github.com/fanaugen/4980604)
 5. [teachable.com](http://teachable.com) - previously known as [UseFedora](https://usefedora.com/)
 
     13. it has some content i created last year
@@ -121,5 +108,6 @@ I'm looking for a training platform that allows me to create quizzes or lecture 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNDAwNzMzNywtMTA2ODMwNTMyNF19
+eyJoaXN0b3J5IjpbLTE4ODY5OTY5NjgsLTEwNjgzMDUzMjRdfQ
+==
 -->
