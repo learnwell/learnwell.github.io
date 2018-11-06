@@ -1,15 +1,18 @@
 ---
 
 layout: post
-title: Places Worth Working
+title: Places worth considering when deciding where to work
 author: pulkit
 tags: []
 
 ---
-
-|Google|
+| Company |
+| ---- |
+| Google |
+| SMUD |
+| VotersEdge | 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MTE4MTA4MV19
+eyJoaXN0b3J5IjpbLTE5MDA1ODEzMTldfQ==
 -->
