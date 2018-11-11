@@ -12,7 +12,7 @@ tags: []
 | Name |
 | ---- |
 | Google |
-| MyLabs (they built Synaps)
+| MyLabs (they built Synap)
 | SMUD |
 | VotersEdge | 
 
@@ -22,5 +22,5 @@ http://pulkitsinghal.blogspot.com/2015/05/awesome-tech-companies_30.html
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA0MTc2NjA2LDU4MjgzMTQ1MV19
+eyJoaXN0b3J5IjpbLTE3MjQxMjg4OTMsNTgyODMxNDUxXX0=
 -->
