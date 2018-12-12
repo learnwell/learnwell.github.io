@@ -88,10 +88,27 @@ This list was prepared (and is kept up-to-date) with the following goals in mind
     1. ???
 24. Google's[ course](https://edu.google.com/openonline/) builder
     1. is it dead or alive?
+        1.  Last Commit Dec 7 2016
+            *   [https://github.com/google/coursebuilder-core/commits/master](https://github.com/google/coursebuilder-core/commits/master)
+    
+
+3.  Last release Jul 30 2018
+    
+
+1.  [https://github.com/google/coursebuilder-releases/commits/master](https://github.com/google/coursebuilder-releases/commits/master)
+    
+
+5.  Misc
+    
+
+1.  [https://github.com/google/coursebuilder-hello-world-module](https://github.com/google/coursebuilder-hello-world-module)
+    
+2.  [https://edu.google.com/openonline/course-builder/docs/1.11/release-notes.html](https://edu.google.com/openonline/course-builder/docs/1.11/release-notes.html)
 25. [SoloLearn](https://www.sololearn.com/)
 	1.  Has a `C++` online playground
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDU0MzA2MiwtMTA2ODMwNTMyNF19
+eyJoaXN0b3J5IjpbLTExODk1MDAyMiwtMTU0NTQzMDYyLC0xMD
+Y4MzA1MzI0XX0=
 -->
