@@ -26,11 +26,6 @@ This list was prepared (and is kept up-to-date) with the following goals in mind
 7. allows rich content like developer-code to be present in it. Not to run but to display as part of the content.
 8. terminal and remote machine present within browser, if possible.
 
-<details>
-summary</summary>
-lots and lots of details
-</details>
-
 ## Platforms
 
 1. Google Classroom
@@ -112,7 +107,7 @@ lots and lots of details
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NDc3MDEzNiwtNDAwNDU4MTAyLC0zOT
-E0MTgwMjAsMTUzMjU3MTQxOCwtMTU0NTQzMDYyLC0xMDY4MzA1
-MzI0XX0=
+eyJoaXN0b3J5IjpbLTEzOTIxNjc2NTQsLTM3NDc3MDEzNiwtND
+AwNDU4MTAyLC0zOTE0MTgwMjAsMTUzMjU3MTQxOCwtMTU0NTQz
+MDYyLC0xMDY4MzA1MzI0XX0=
 -->
