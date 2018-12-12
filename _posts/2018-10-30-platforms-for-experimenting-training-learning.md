@@ -25,7 +25,7 @@ This list was prepared (and is kept up-to-date) with the following goals in mind
 8. terminal and remote machine present within browser, if possible.
 
 <details>
-<summary>summary</summary>
+summary</summary>
 lots and lots of details
 </details>
 
@@ -36,8 +36,8 @@ lots and lots of details
 	* Has an [API](https://developers.google.com/classroom/)
 	* Has an app for the iPad
 		* Has a mechanism for writing with Apple Pencil (verified it myself)
-		* Creates PDF from a gDoc before editing with apple pencil.
-			* If you don't plan on editing the assignment further an the students don't need to type stuff in, then perhaps one should always create assignments with PDFs attached instead of google docs so that students don't get confused when a PDF copy is created from gDoc for them to edit. They might submit the wrong copy as their answer!
+		* <details><summary>Creates PDF from a gDoc before editing with apple pencil.</summary>
+			* If you don't plan on editing the assignment further an the students don't need to type stuff in, then perhaps one should always create assignments with PDFs attached instead of google docs so that students don't get confused when a PDF copy is created from gDoc for them to edit. They might submit the wrong copy as their answer!</details>
 2. Moodle
 	2. [www.moodlecloud.com](www.moodlecloud.com)
 	3. [https://moodlecloud.com/app/en/portal/view/learnwell](https://moodlecloud.com/app/en/portal/view/learnwell)
@@ -112,6 +112,6 @@ lots and lots of details
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MTQxODAyMCwxNTMyNTcxNDE4LC0xNT
-Q1NDMwNjIsLTEwNjgzMDUzMjRdfQ==
+eyJoaXN0b3J5IjpbLTk3NDgyMjE0LC0zOTE0MTgwMjAsMTUzMj
+U3MTQxOCwtMTU0NTQzMDYyLC0xMDY4MzA1MzI0XX0=
 -->
