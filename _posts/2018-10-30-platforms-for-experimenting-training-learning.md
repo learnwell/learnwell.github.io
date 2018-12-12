@@ -7,6 +7,8 @@ tags: [experiment,train,learn,content,generation]
 
 ---
 
+[toc]
+
 ## Summary
 
 Training, here, refers to generating content to retrain oneself and/or others at a later point in time. This is good practice as it serves to keep one up-to-date and you don't feel like everyday work caused tunnel vision and loss of expertise in other domains that you once used to know.
@@ -112,6 +114,6 @@ lots and lots of details
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NDgyMjE0LC0zOTE0MTgwMjAsMTUzMj
-U3MTQxOCwtMTU0NTQzMDYyLC0xMDY4MzA1MzI0XX0=
+eyJoaXN0b3J5IjpbLTQwMDQ1ODEwMiwtMzkxNDE4MDIwLDE1Mz
+I1NzE0MTgsLTE1NDU0MzA2MiwtMTA2ODMwNTMyNF19
 -->
