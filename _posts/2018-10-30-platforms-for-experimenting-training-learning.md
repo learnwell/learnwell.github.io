@@ -24,8 +24,10 @@ This list was prepared (and is kept up-to-date) with the following goals in mind
 7. allows rich content like developer-code to be present in it. Not to run but to display as part of the content.
 8. terminal and remote machine present within browser, if possible.
 
+<details>
 <summary>summary</summary>
-<details>lots and lots of details</details>
+lots and lots of details
+</details>
 
 
 ## Platforms
@@ -110,6 +112,6 @@ This list was prepared (and is kept up-to-date) with the following goals in mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NTQxOTc4MiwxNTMyNTcxNDE4LC0xNT
+eyJoaXN0b3J5IjpbLTM5MTQxODAyMCwxNTMyNTcxNDE4LC0xNT
 Q1NDMwNjIsLTEwNjgzMDUzMjRdfQ==
 -->
