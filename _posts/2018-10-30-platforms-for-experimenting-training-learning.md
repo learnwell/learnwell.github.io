@@ -27,7 +27,10 @@ This list was prepared (and is kept up-to-date) with the following goals in mind
 ## Platforms
 
 1. Google Classroom
-	* Has an API
+	* Has an [API](https://developers.google.com/classroom/)
+	* Has an app for the iPad
+		* Has a mechanism for writing with Apple Pencil (verified it myself)
+		* Creates PDF from a gDoc before editing with ap
 2. Moodle
 	2. [www.moodlecloud.com](www.moodlecloud.com)
 	3. [https://moodlecloud.com/app/en/portal/view/learnwell](https://moodlecloud.com/app/en/portal/view/learnwell)
@@ -102,6 +105,6 @@ This list was prepared (and is kept up-to-date) with the following goals in mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkyMjk0MDA3LC0xNTQ1NDMwNjIsLTEwNj
-gzMDUzMjRdfQ==
+eyJoaXN0b3J5IjpbMTQ5MTQ1OTUwMCwtMTU0NTQzMDYyLC0xMD
+Y4MzA1MzI0XX0=
 -->
