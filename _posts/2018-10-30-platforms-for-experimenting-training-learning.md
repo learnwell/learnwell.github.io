@@ -31,15 +31,13 @@ summary</summary>
 lots and lots of details
 </details>
 
-
 ## Platforms
 
 1. Google Classroom
 	* Has an [API](https://developers.google.com/classroom/)
 	* Has an app for the iPad
 		* Has a mechanism for writing with Apple Pencil (verified it myself)
-		* <details><summary>Creates PDF from a gDoc before editing with apple pencil.</summary>
-			* If you don't plan on editing the assignment further an the students don't need to type stuff in, then perhaps one should always create assignments with PDFs attached instead of google docs so that students don't get confused when a PDF copy is created from gDoc for them to edit. They might submit the wrong copy as their answer!</details>
+		* <details> <summary>Creates PDF from a gDoc before editing with apple pencil.</summary> If you don't plan on editing the assignment further an the students don't need to type stuff in, then perhaps one should always create assignments with PDFs attached instead of google docs so that students don't get confused when a PDF copy is created from gDoc for them to edit. They might submit the wrong copy as their answer!</details>
 2. Moodle
 	2. [www.moodlecloud.com](www.moodlecloud.com)
 	3. [https://moodlecloud.com/app/en/portal/view/learnwell](https://moodlecloud.com/app/en/portal/view/learnwell)
@@ -114,6 +112,7 @@ lots and lots of details
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMDQ1ODEwMiwtMzkxNDE4MDIwLDE1Mz
-I1NzE0MTgsLTE1NDU0MzA2MiwtMTA2ODMwNTMyNF19
+eyJoaXN0b3J5IjpbLTUzNDY3NTQ4MCwtNDAwNDU4MTAyLC0zOT
+E0MTgwMjAsMTUzMjU3MTQxOCwtMTU0NTQzMDYyLC0xMDY4MzA1
+MzI0XX0=
 -->
