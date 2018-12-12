@@ -30,7 +30,8 @@ This list was prepared (and is kept up-to-date) with the following goals in mind
 	* Has an [API](https://developers.google.com/classroom/)
 	* Has an app for the iPad
 		* Has a mechanism for writing with Apple Pencil (verified it myself)
-		* Creates PDF from a gDoc before editing with ap
+		* Creates PDF from a gDoc before editing with apple pencil.
+			* If you don't plan on editing the assignment further an the students don't need to type stuff in, then perhaps one should always create assignments with PDFs attached instead of google classroom if you don't want the students to get confused when a second copy is created for them to edit.
 2. Moodle
 	2. [www.moodlecloud.com](www.moodlecloud.com)
 	3. [https://moodlecloud.com/app/en/portal/view/learnwell](https://moodlecloud.com/app/en/portal/view/learnwell)
@@ -105,6 +106,6 @@ This list was prepared (and is kept up-to-date) with the following goals in mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MTQ1OTUwMCwtMTU0NTQzMDYyLC0xMD
+eyJoaXN0b3J5IjpbMTc4Mjc0Mzg0OSwtMTU0NTQzMDYyLC0xMD
 Y4MzA1MzI0XX0=
 -->
