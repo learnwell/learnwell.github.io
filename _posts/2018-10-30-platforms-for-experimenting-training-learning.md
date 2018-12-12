@@ -92,19 +92,14 @@ This list was prepared (and is kept up-to-date) with the following goals in mind
             *   [https://github.com/google/coursebuilder-core/commits/master](https://github.com/google/coursebuilder-core/commits/master)
 	    2.  Last release Jul 30 2018
 		    * [https://github.com/google/coursebuilder-releases/commits/master](https://github.com/google/coursebuilder-releases/commits/master)
-    
-
-18.  Misc
-    
-
-19.  [https://github.com/google/coursebuilder-hello-world-module](https://github.com/google/coursebuilder-hello-world-module)
-    
-20.  [https://edu.google.com/openonline/course-builder/docs/1.11/release-notes.html](https://edu.google.com/openonline/course-builder/docs/1.11/release-notes.html)
+	    3.  Misc
+		    *  [https://github.com/google/coursebuilder-hello-world-module](https://github.com/google/coursebuilder-hello-world-module)
+		    * [https://edu.google.com/openonline/course-builder/docs/1.11/release-notes.html](https://edu.google.com/openonline/course-builder/docs/1.11/release-notes.html)
 21. [SoloLearn](https://www.sololearn.com/)
 	1.  Has a `C++` online playground
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI2MDE5OTQyLC0xNTQ1NDMwNjIsLTEwNj
-gzMDUzMjRdfQ==
+eyJoaXN0b3J5IjpbLTc3MjY5MzAwMiwtMTU0NTQzMDYyLC0xMD
+Y4MzA1MzI0XX0=
 -->
