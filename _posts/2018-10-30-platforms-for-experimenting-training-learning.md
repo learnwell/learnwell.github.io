@@ -1,6 +1,6 @@
 ---
 
-layout: post
+layout: postMod1
 title: Platforms for Experimenting, Training and Learning
 author: pulkit
 last_modified_at: December 12, 2018
@@ -110,7 +110,7 @@ This list was prepared (and is kept up-to-date) with the following goals in mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4ODk2OTg2OCwtODgzOTM5MTA5LDU4Mz
+eyJoaXN0b3J5IjpbMTkzOTc3MDIwMywtODgzOTM5MTA5LDU4Mz
 Y0OTUzOSwtMTQwMjUyOTY1NywxMDQ0NDMyODAwLC0xMzkyMTY3
 NjU0LC0zNzQ3NzAxMzYsLTQwMDQ1ODEwMiwtMzkxNDE4MDIwLD
 E1MzI1NzE0MTgsLTE1NDU0MzA2MiwtMTA2ODMwNTMyNF19
