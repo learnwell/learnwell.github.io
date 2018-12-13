@@ -1,6 +1,6 @@
 ---
 
-layout: post
+layout: postMod1
 title: Command Line Magic(s)
 author: pulkit
 tags: []
@@ -12,5 +12,6 @@ tags: []
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTQxNzI0MzUsNzk2OTU0MTc4XX0=
+eyJoaXN0b3J5IjpbNDA0OTE0MTcyLC0yMDU0MTcyNDM1LDc5Nj
+k1NDE3OF19
 -->
