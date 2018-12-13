@@ -3,6 +3,7 @@
 layout: post
 title: Platforms for Experimenting, Training and Learning
 author: pulkit
+last_modified_at: December 12, 2018
 tags: [experiment,train,learn,content,generation]
 
 ---
@@ -109,8 +110,8 @@ This list was prepared (and is kept up-to-date) with the following goals in mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MzkzOTEwOSw1ODM2NDk1MzksLTE0MD
-I1Mjk2NTcsMTA0NDQzMjgwMCwtMTM5MjE2NzY1NCwtMzc0Nzcw
-MTM2LC00MDA0NTgxMDIsLTM5MTQxODAyMCwxNTMyNTcxNDE4LC
-0xNTQ1NDMwNjIsLTEwNjgzMDUzMjRdfQ==
+eyJoaXN0b3J5IjpbMTc4ODk2OTg2OCwtODgzOTM5MTA5LDU4Mz
+Y0OTUzOSwtMTQwMjUyOTY1NywxMDQ0NDMyODAwLC0xMzkyMTY3
+NjU0LC0zNzQ3NzAxMzYsLTQwMDQ1ODEwMiwtMzkxNDE4MDIwLD
+E1MzI1NzE0MTgsLTE1NDU0MzA2MiwtMTA2ODMwNTMyNF19
 -->
