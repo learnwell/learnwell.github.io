@@ -7,7 +7,8 @@ tags: [experiment,train,learn,content,generation]
 
 ---
 
-* TOC {:toc}
+* TOC
+{:toc}
 
 ## Summary
 
@@ -108,8 +109,8 @@ This list was prepared (and is kept up-to-date) with the following goals in mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU4ODI2NjM3LDU4MzY0OTUzOSwtMTQwMj
-UyOTY1NywxMDQ0NDMyODAwLC0xMzkyMTY3NjU0LC0zNzQ3NzAx
-MzYsLTQwMDQ1ODEwMiwtMzkxNDE4MDIwLDE1MzI1NzE0MTgsLT
-E1NDU0MzA2MiwtMTA2ODMwNTMyNF19
+eyJoaXN0b3J5IjpbLTg4MzkzOTEwOSw1ODM2NDk1MzksLTE0MD
+I1Mjk2NTcsMTA0NDQzMjgwMCwtMTM5MjE2NzY1NCwtMzc0Nzcw
+MTM2LC00MDA0NTgxMDIsLTM5MTQxODAyMCwxNTMyNTcxNDE4LC
+0xNTQ1NDMwNjIsLTEwNjgzMDUzMjRdfQ==
 -->
