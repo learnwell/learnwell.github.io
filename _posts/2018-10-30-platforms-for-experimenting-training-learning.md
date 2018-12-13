@@ -33,7 +33,7 @@ This list was prepared (and is kept up-to-date) with the following goals in mind
 	* Has an app for the iPad
 		* Has a [mechanism](https://youtu.be/GIN-EtPa0lw) for writing with Apple Pencil (verified it myself)
 		* <details> <summary>Creates PDF from a gDoc before editing with apple pencil.</summary> If you don't plan on editing the assignment further an the students don't need to type stuff in, then perhaps one should always create assignments with PDFs attached instead of gDocs so that students don't get confused when a PDF copy is created from gDoc for them to edit. They might submit the wrong copy as their answer!</details>
-		* You can import work to handwritten note taking apps like [Notability](https://www.gingerlabs.com/), finish it there and then send it back to Google Classroom as needed.
+		* You can [import](https://www.youtube.com/watch?v=2ktekFlGFrc) work to handwritten note taking apps like [Notability](https://www.gingerlabs.com/), finish it there and then send it back to Google Classroom as needed.
 2. Moodle
 	2. [www.moodlecloud.com](www.moodlecloud.com)
 	3. [https://moodlecloud.com/app/en/portal/view/learnwell](https://moodlecloud.com/app/en/portal/view/learnwell)
@@ -108,8 +108,8 @@ This list was prepared (and is kept up-to-date) with the following goals in mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDI1Mjk2NTcsMTA0NDQzMjgwMCwtMT
-M5MjE2NzY1NCwtMzc0NzcwMTM2LC00MDA0NTgxMDIsLTM5MTQx
-ODAyMCwxNTMyNTcxNDE4LC0xNTQ1NDMwNjIsLTEwNjgzMDUzMj
-RdfQ==
+eyJoaXN0b3J5IjpbNTgzNjQ5NTM5LC0xNDAyNTI5NjU3LDEwND
+Q0MzI4MDAsLTEzOTIxNjc2NTQsLTM3NDc3MDEzNiwtNDAwNDU4
+MTAyLC0zOTE0MTgwMjAsMTUzMjU3MTQxOCwtMTU0NTQzMDYyLC
+0xMDY4MzA1MzI0XX0=
 -->
