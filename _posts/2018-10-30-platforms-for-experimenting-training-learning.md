@@ -36,7 +36,8 @@ This list was prepared (and is kept up-to-date) with the following goals in mind
 		* Has a [mechanism](https://youtu.be/GIN-EtPa0lw) for writing with Apple Pencil (verified it myself)
 		* <details> <summary>Creates PDF from a gDoc before editing with apple pencil.</summary> If you don't plan on editing the assignment further an the students don't need to type stuff in, then perhaps one should always create assignments with PDFs attached instead of gDocs so that students don't get confused when a PDF copy is created from gDoc for them to edit. They might submit the wrong copy as their answer!</details>
 		* You can [import](https://www.youtube.com/watch?v=2ktekFlGFrc) work to handwritten note taking apps like [Notability](https://www.gingerlabs.com/), finish it there and then send it back to Google Classroom as needed.
-		* `Stream` like structure for content, no proper *Table Of Contents* for creating your coursework and a trackign linear progression through it. I like to be able to have
+		* `Stream` like structure for content but **no** proper *Table Of Contents* (`TOC`) for creating/arranging your coursework.
+			* T and previewing a predictable linear progression through it. I prefer to have a prescribed structure and improve it over time.
 2. Moodle
 	2. [www.moodlecloud.com](www.moodlecloud.com)
 	3. [https://moodlecloud.com/app/en/portal/view/learnwell](https://moodlecloud.com/app/en/portal/view/learnwell)
@@ -111,7 +112,7 @@ This list was prepared (and is kept up-to-date) with the following goals in mind
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0ODUwMDQwNCwxOTM5NzcwMjAzLC04OD
+eyJoaXN0b3J5IjpbLTcyNzAzMDc5NywxOTM5NzcwMjAzLC04OD
 M5MzkxMDksNTgzNjQ5NTM5LC0xNDAyNTI5NjU3LDEwNDQ0MzI4
 MDAsLTEzOTIxNjc2NTQsLTM3NDc3MDEzNiwtNDAwNDU4MTAyLC
 0zOTE0MTgwMjAsMTUzMjU3MTQxOCwtMTU0NTQzMDYyLC0xMDY4
