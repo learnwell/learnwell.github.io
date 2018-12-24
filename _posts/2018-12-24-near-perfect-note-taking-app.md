@@ -16,7 +16,7 @@ Some history: I missed a security deposit to the electric company when I moved t
 
 I found Evernote, became a paid subscriber and did not look back. Life was good! Until ... searching in Evernote started going bad and eventually just became downright unusable. As alternatives, gDocs and gDrive weren't much help either. My [angst](https://medium.com/@learnwell/evernote-vs-google-docs-the-user-loses-49b5eca7c052) is well documented.
 
-Anyway, in 2018, I decided to take a step back from my professional life and go back to college for one semester, where I saw a fellow student using a super slick 2018 ipad with s
+Anyway, in 2018, I decided to take a step back from my professional life and go back to college for one semester, where I saw a fellow student using a super slick iPad (Apple's 6th generation entry-level)and apple pencil with an equally awesome note takign app
 
 What it lacks, as of <u>now</u>:
 
@@ -24,5 +24,5 @@ If anything above is outdated and you cannot stand for it, please inform me imme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNTU3OTkwN119
+eyJoaXN0b3J5IjpbMjk0OTczMDFdfQ==
 -->
