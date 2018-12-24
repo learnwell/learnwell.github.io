@@ -1,8 +1,9 @@
 ---
 
-layout: page
+layout: pageMod1
 title: Tips & Tricks for Blogging
 permalink: /blogging/
+last_modified_at: December 24, 2018
 tags: [blog, blogs, blogging, tip, tips, trick, tricks]
 
 ---
@@ -30,6 +31,6 @@ tags: [blog, blogs, blogging, tip, tips, trick, tricks]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc2MTM1MjIwLC02NzMzOTQwMzYsMTQwND
-ExMTcxNF19
+eyJoaXN0b3J5IjpbLTEwMzczOTkwODcsLTY3MzM5NDAzNiwxND
+A0MTExNzE0XX0=
 -->
