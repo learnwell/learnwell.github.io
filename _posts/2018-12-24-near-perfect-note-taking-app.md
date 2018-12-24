@@ -19,13 +19,13 @@ I missed a security deposit to the electric company when I moved to Oklahoma bec
 
 I found Evernote, loved it and became a paid subscriber. Life was good! Until ... searching in Evernote started going bad and eventually just became downright unusable. As alternatives, gDocs and gDrive weren't much help either. My [angst](https://medium.com/@learnwell/evernote-vs-google-docs-the-user-loses-49b5eca7c052) is well documented.
 
-Anyway, in 2018, I decided to take a step back from my professional life and go back to college for one semester, where I saw a fellow student using a super slick iPad and Apple Pencil with an equally awesome note taking app.
+Anyway, in 2018, I decided to take a sabbatical and go back to college for one semester, where I saw a fellow student using a super slick iPad and Apple Pencil with an equally awesome note taking app.
 
-Sidebar: 6th generation 2018 iPad is the first affordable iPad to work with Apple Pencil. It was a steal at Costco.
+Sidebar: 6th generation 2018 iPad is the first affordable iPad to work with Apple Pencil. And it is a steal when purchased at Costco.
 
-I did not know which app it was but after hours upon hours of research and multiple App Store purchases, I found it - [Notability](https://www.gingerlabs.com/)!
+I did not know which app it was that I saw but after hours upon hours of research and multiple App Store purchases, I found it - [Notability](https://www.gingerlabs.com/)!
 
-Later it turned out that it had awesome search and it even went on to fill the void in my life that was left by what Evernote and gDocs/gDrive lacked.
+Later it turned out that it had awesome search and it even went on to fill the void in my life that was left by what Evernote and gDocs/gDrive lacked. 
 
 ## Cons
 
@@ -35,5 +35,5 @@ If anything above is outdated and you cannot stand for it, please inform me imme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNzg3Njg1OV19
+eyJoaXN0b3J5IjpbMTQ3MjY3MzgwM119
 -->
