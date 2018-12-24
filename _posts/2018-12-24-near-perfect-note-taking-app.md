@@ -11,7 +11,7 @@ tags: []
 * TOC
 {:toc}
 
-If anything in this article is outdated and you cannot stand for it, please inform me] immediately so I can get everything up to date.
+If anything in this article is outdated and you cannot stand for it, please [inform me](https://twitter.com/learnwell) immediately so I can get everything up to date.
 
 ## Pro(s)
 
@@ -39,5 +39,5 @@ Later it turned out that it had awesome search and it even went on to fill the v
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTEwNTU0NDhdfQ==
+eyJoaXN0b3J5IjpbMTY4Njk2MDM5Ml19
 -->
