@@ -7,6 +7,8 @@ tags: [blog, blogs, blogging, tip, tips, trick, tricks]
 
 ---
 
+* Use `Type On Strap` as a starter template for Jekyll posts
+	* Fork from https://github.com/sylhare/Type-on-Strap
 * Use Icons & Emojis in Jekyll posts written via StackEdit
 	* [Caveat](https://github.com/benweet/stackedit/issues/1133): 
 		* [Older icons](https://stackedit.io/res/libs/fontello/demo.html) provided in stackedit v4 were deprecated.
@@ -26,6 +28,6 @@ tags: [blog, blogs, blogging, tip, tips, trick, tricks]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDIwMTk3OTIsLTY3MzM5NDAzNiwxND
-A0MTExNzE0XX0=
+eyJoaXN0b3J5IjpbMjAyMzk0Njg4NywtNjczMzk0MDM2LDE0MD
+QxMTE3MTRdfQ==
 -->
