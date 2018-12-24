@@ -10,17 +10,14 @@ tags: [unicode, shortcuts]
 
 Helpful website where you can draw the symbol that you want and it will tell you its unicode equivalent: [http://shapecatcher.com/](http://shapecatcher.com/)
 
-To begin typing a unicode combination on Mac use:
+* To begin typing a unicode combination on Mac use:
+	```ctrl+cmd+space```
 
-**ctrl+cmd+space**
-
-To begin typing a unicode combination on Chromebook or ChromeOS use:
-
-**ctrl + shift + u**
+* To begin typing a unicode combination on Chromebook or ChromeOS use:
+	```ctrl + shift + u```
 
 To begin typing in subscript use:
-
-**ctrl + shift + u and then 208x**
+	```ctrl + shift + u and then 208x```
 
 To begin typing in superscript use:
 
@@ -95,6 +92,6 @@ To begin typing in superscript use:
 > Written with  [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIzMzA1NjgxLC0xNjY2MzM1MDE0LDY2OD
-k2NjMwNF19
+eyJoaXN0b3J5IjpbLTIzMDYyNDE5NSwtMTY2NjMzNTAxNCw2Nj
+g5NjYzMDRdfQ==
 -->
