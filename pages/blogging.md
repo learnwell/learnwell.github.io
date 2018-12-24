@@ -10,7 +10,7 @@ tags: [blog, blogs, blogging, tip, tips, trick, tricks]
 
 * Use [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap#usage) as a starter template for creating a *Jekyll* and *GitHub Pages* based blog.
 * Emojis in Jekyll posts
-	1. On Mac, use `ctrl+cmd+space` and select the emoji to embed directly.
+	1. <u>On Mac</u>, use `ctrl+cmd+space` and select the emoji to embed directly.
 	2. [Emojis on GitHub Pages](https://help.github.com/articles/emoji-on-github-pages/) sometimes break as versions come & go with `Jekyll + kramdown + Github Pages` combination so I've stopped trusting it.
 	3. Using markdown when writing via <u>StackEdit</u> sometimes breaks as versions come & go with `Jekyll + kramdown + Github Pages` combination so I've stopped trusting it.
 		* [Caveat](https://github.com/benweet/stackedit/issues/1133): 
@@ -31,5 +31,5 @@ tags: [blog, blogs, blogging, tip, tips, trick, tricks]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY5ODE1OTI2XX0=
+eyJoaXN0b3J5IjpbMTQ0MDcxMzQ3M119
 -->
