@@ -32,33 +32,13 @@ Helpful website where you can draw the symbol that you want and it will tell you
 |Superscript 7|`X⁷`|`ctrl+shift+u` then `2077`|`ctrl+cmd+space` then `u+2077`|
 |Micro sign|`µ`|`ctrl+shift+u` then `00b5`|`ctrl+cmd+space` then `u+00b5`|
 |Wedge|`ᐳ`|`ctrl+shift+u` then `1433`|`ctrl+cmd+space` then `u+1433`|
-||``|`ctrl+shift+u` then `207b`|`ctrl+cmd+space` then `u+207b`|
+|Superscript minus|`ion⁻`|`ctrl+shift+u` then `207b`|`ctrl+cmd+space` then `u+207b`|
 ||``|`ctrl+shift+u` then ``|`ctrl+cmd+space` then `u+`|
 
-<table>
-  <tr>
-    <td> </td>
-    <td></td>
-    <td>ctrl+shift+u then 00b5</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Wedge</td>
-    <td></td>
-    <td>1433</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Superscript minus</td>
-    <td>⁻</td>
-    <td>207b</td>
-    <td></td>
-  </tr>
-</table>
 
 > Written with  [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDEyMjIzNzMsMTgxMzAyNTc2NiwtMT
-Y2NjMzNTAxNCw2Njg5NjYzMDRdfQ==
+eyJoaXN0b3J5IjpbNjgwODc5MDY5LDE4MTMwMjU3NjYsLTE2Nj
+YzMzUwMTQsNjY4OTY2MzA0XX0=
 -->
