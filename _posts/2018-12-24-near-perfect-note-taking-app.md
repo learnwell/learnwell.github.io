@@ -11,7 +11,17 @@ tags: []
 * TOC
 {:toc}
 
-## Motivation
+## Pro(s
+
+## Cons
+
+What it lacks, as of <u>now</u>:
+* Content from imported PDFs is not searchable. Not even typed content!
+	* Given all their tech, this seems like an easy one to remedy and I hope they eventually pay attention to this.
+
+If anything above is outdated and you cannot stand for it, please inform me immediately so I can get everything up to date.
+
+## Background
 
 <u>Question</u>: Why use a note taking app at all?
 
@@ -27,14 +37,7 @@ I did not know which app it was that I saw but after hours upon hours of researc
 
 Later it turned out that it had awesome search and it even went on to fill the void in my life that was left by what Evernote and gDocs/gDrive lacked. I still drop its creators - Ginger Labs -  a feature request from time to time but for now they are near perfect and I hope they keep striving for perfection.
 
-## Cons
-
-What it lacks, as of <u>now</u>:
-* Imported PDFs are not searchable
-
-If anything above is outdated and you cannot stand for it, please inform me immediately so I can get everything up to date.
-
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMzA5NTQzOV19
+eyJoaXN0b3J5IjpbLTgwODc4MjU1N119
 -->
