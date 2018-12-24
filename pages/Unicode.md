@@ -1,6 +1,6 @@
 ---  
 
-layout: pageMod1  
+layout: page
 title: Unicode shortcuts
 permalink: /unicode/  
 last_modified_at: December 24, 2018
@@ -39,6 +39,6 @@ Helpful website where you can draw the symbol that you want and it will tell you
 > Written with  [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgwODc5MDY5LDE4MTMwMjU3NjYsLTE2Nj
-YzMzUwMTQsNjY4OTY2MzA0XX0=
+eyJoaXN0b3J5IjpbMjA2MjgzNTU5OCwxODEzMDI1NzY2LC0xNj
+Y2MzM1MDE0LDY2ODk2NjMwNF19
 -->
