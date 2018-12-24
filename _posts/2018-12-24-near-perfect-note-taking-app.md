@@ -25,6 +25,8 @@ Sidebar: 6th generation 2018 iPad is the first affordable iPad to work with Appl
 
 I did not know which app it was but after hours upon hours of research and multiple App Store purchases, I found it - [Notability](https://www.gingerlabs.com/)!
 
+Later it turned out that it had awesome search and it even went on to fill the void in my life that was left by Evernote and gDocs.
+
 ## Cons
 
 What it lacks, as of <u>now</u>:
@@ -33,5 +35,5 @@ If anything above is outdated and you cannot stand for it, please inform me imme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM1MzQ4NDY3XX0=
+eyJoaXN0b3J5IjpbMTI1NDcyMjMyMl19
 -->
