@@ -14,7 +14,7 @@ Why use a note taking app at all?
 
 Some history: I missed a security deposit to the electric company when I moved to Oklahoma because I had written it down on a Napkin while eating a Subway sandwich and they cut off power to my home!  The year was 2011 and I decided enough is enough, I need to get out of my own head and start using something ... anything ... that can help me keep my life on track.
 
-I found Evernote, became a paid subscriber and did not look back. Life was good! Until ... searching in Evernote started going bad and eventually just became downright unusable. as time went on or maybe I took notice that their search wasn't very good as the number of notes increased beyod a thousand over a few years.
+I found Evernote, became a paid subscriber and did not look back. Life was good! Until ... searching in Evernote started going bad and eventually just became downright unusable. My angst is well documented here. as time went on or maybe I took notice that their search wasn't very good as the number of notes increased beyod a thousand over a few years.
 
 What it lacks, as of <u>now</u>:
 
@@ -22,5 +22,5 @@ If anything above is outdated and you cannot stand for it, please inform me imme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDk5MjAwNDVdfQ==
+eyJoaXN0b3J5IjpbLTE2ODcyMjE3Nl19
 -->
