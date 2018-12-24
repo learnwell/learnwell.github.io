@@ -21,20 +21,21 @@ Helpful website where you can draw the symbol that you want and it will tell you
 
 |                ||Chrome                          |Mac                         |
 |----------------|---|-------------------------------|-----------------------------|
-|degree symbol|`°`|ctrl+shift+u then 00b0||
-|alpha|`α`|ctrl+shift+u then 03b1||
-|beta|`β`|ctrl+shift+u then 03b2|ctrl+cmd+space then u+|
-|delta|`Δ`|394|ctrl+cmd+space then u+394Δ|
+|degree symbol|`°`|`ctrl+shift+u` then `00b0`||
+|alpha|`α`|`ctrl+shift+u` then `03b1`||
+|beta|`β`|`ctrl+shift+u` then `03b2`|`ctrl+cmd+space` then `u+03b2`|
+|delta|`Δ`|`ctrl+shift+u` then `394`|`ctrl+cmd+space` then `u+394`|
+||``|||
+||``|||
+||``|||
+||``|||
+||``|||
+||``|||
+||``|||
+||``|||
 ||``|||
 
-
 <table>
-  <tr>
-    <td></td>
-    <td></td>
-    <td>394</td>
-    <td></td>
-  </tr>
   <tr>
     <td>Subscript 2</td>
     <td>_ ₂</td>
@@ -88,6 +89,6 @@ Helpful website where you can draw the symbol that you want and it will tell you
 > Written with  [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNjEwMTEwNywtMTY2NjMzNTAxNCw2Nj
+eyJoaXN0b3J5IjpbMTEwNjc2NDIyOCwtMTY2NjMzNTAxNCw2Nj
 g5NjYzMDRdfQ==
 -->
