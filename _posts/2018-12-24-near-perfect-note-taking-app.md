@@ -13,6 +13,8 @@ tags: []
 
 ## Pro(s)
 
+I can do everything that I used to do with evernote and more. I can write with real paper touch and feel and response time on an iPad. I can sync with my mac. Sure it stings at first to purchase from iOS app store for roughly 10 bucks and ghen again from 
+
 ## Con(s)
 
 What it lacks, as of <u>now</u>:
@@ -39,5 +41,5 @@ Later it turned out that it had awesome search and it even went on to fill the v
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NDcyNzY0Nl19
+eyJoaXN0b3J5IjpbMTEwNTIzMDc2M119
 -->
