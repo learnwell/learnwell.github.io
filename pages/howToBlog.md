@@ -15,14 +15,14 @@ tags: [blog, blogs, blogging, tip, tips, trick, tricks]
 	{% endraw %}
 	```
 * Expand/collapse content in Jekyll posts
-	* https://gist.github.com/ericclemmons/b146fe5da72ca1f706b2ef72a20ac39d#gistcomment-1817140
-	* https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629
+	* [Discussion and Examples 1](https://gist.github.com/ericclemmons/b146fe5da72ca1f706b2ef72a20ac39d#gistcomment-1817140}
+	* [Discussion and Examples 2](https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629)
 * Escape Liquid template tags in Jekyll posts
-	* https://sarathlal.com/escape-liquid-tag-in-jekyll-posts/
+	* [Article](https://sarathlal.com/escape-liquid-tag-in-jekyll-posts/)
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ1NjY1NTQ1LC02NzMzOTQwMzYsMTQwND
-ExMTcxNF19
+eyJoaXN0b3J5IjpbLTg3NTEzMjYzNSwtNjczMzk0MDM2LDE0MD
+QxMTE3MTRdfQ==
 -->
