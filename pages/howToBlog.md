@@ -8,8 +8,6 @@ tags: [blog, blogs, blogging, tip, tips, trick, tricks]
 
 ---
 
-# Tips & Tricks for Blogging
-
 * Use [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap#usage) as a starter template for creating a *Jekyll* and *GitHub Pages* based blog.
 * Emojis
 	1. [Looking for clues on GitHub](https://github.com/search?q=jemoji+file%3A_config.yml&type=Code)
@@ -33,6 +31,6 @@ tags: [blog, blogs, blogging, tip, tips, trick, tricks]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMTE0NzM2NCwtNjczMzk0MDM2LDE0MD
-QxMTE3MTRdfQ==
+eyJoaXN0b3J5IjpbLTE3NzE1MTQ2NjUsMTUxMTE0NzM2NCwtNj
+czMzk0MDM2LDE0MDQxMTE3MTRdfQ==
 -->
