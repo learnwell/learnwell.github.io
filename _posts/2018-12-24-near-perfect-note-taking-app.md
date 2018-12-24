@@ -8,7 +8,11 @@ tags: []
 
 ---
 
-Some history: I missed a security deposit to the electric company when I moved to Oklahoma because I had written it down on a Napkin while eating a Subway sandwich and they cut off power to my home!  payment because started with evernote, they scewed up the search as time went on or maybe I took notice that their search wasn't very good as the number of notes increased beyod a thousand over a few years.
+## Motivation
+
+Why use a note taking app at all?
+
+Some history: I missed a security deposit to the electric company when I moved to Oklahoma because I had written it down on a Napkin while eating a Subway sandwich and they cut off power to my home!  The year was 2011 and I decided enough is enough, I need to get out of my own head and start using something ... anything . that can help my keep my life on track.payment because started with evernote, they scewed up the search as time went on or maybe I took notice that their search wasn't very good as the number of notes increased beyod a thousand over a few years.
 
 What it lacks, as of <u>now</u>:
 
@@ -16,5 +20,5 @@ If anything above is outdated and you cannot stand for it, please inform me imme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNTUzMDE5NV19
+eyJoaXN0b3J5IjpbLTEyODUxOTMyNDddfQ==
 -->
