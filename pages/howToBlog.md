@@ -8,9 +8,8 @@ tags: [blog, blogs, blogging, tip, tips, trick, tricks]
 ---
 
 * Use [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap#usage) as a starter template for creating a *Jekyll* and *GitHub Pages* based blog.
-* Enabling Emojis for GitHub Pages in Jekyll posts
-	* https://help.github.com/articles/emoji-on-github-pages/
-* Use Icons & Emojis in Jekyll posts written via StackEdit
+* [Emojis on GitHub Pages](https://help.github.com/articles/emoji-on-github-pages/)
+* Emojis in Jekyll posts written via StackEdit
 	* [Caveat](https://github.com/benweet/stackedit/issues/1133): 
 		* [Older icons](https://stackedit.io/res/libs/fontello/demo.html) provided in stackedit v4 were deprecated.
 		* [Current icons](https://www.webpagefx.com/tools/emoji-cheat-sheet/) used here are what's supported for stackedit v5.
@@ -29,6 +28,6 @@ tags: [blog, blogs, blogging, tip, tips, trick, tricks]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzM1OTgzMjYsLTY3MzM5NDAzNiwxND
+eyJoaXN0b3J5IjpbLTE0NTM0NzY4NzcsLTY3MzM5NDAzNiwxND
 A0MTExNzE0XX0=
 -->
