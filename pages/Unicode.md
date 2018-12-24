@@ -29,28 +29,16 @@ To begin typing in superscript use:
 |                ||Chrome                          |Mac                         |
 |----------------|---|-------------------------------|-----------------------------|
 |degree symbol|`°`|ctrl+shift+u then 00b0||
-|alpha|``|||
-||``|||
-||``|||
+|alpha|`α`|ctrl+shift+u then 03b1||
+|beta|`β`|ctrl+shift+u then 03b2||
+|delta|`Δ`|||
 ||``|||
 
 
 <table>
   <tr>
     <td></td>
-    <td>α</td>
-    <td>ctrl+shift+u then 03b1</td>
     <td></td>
-  </tr>
-  <tr>
-    <td>beta</td>
-    <td>β</td>
-    <td>ctrl+shift+u then 03b2</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>delta</td>
-    <td>Δ</td>
     <td>394</td>
     <td></td>
   </tr>
@@ -107,6 +95,6 @@ To begin typing in superscript use:
 > Written with  [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0OTc4NTQwMSwtMTY2NjMzNTAxNCw2Nj
-g5NjYzMDRdfQ==
+eyJoaXN0b3J5IjpbNTIzMzA1NjgxLC0xNjY2MzM1MDE0LDY2OD
+k2NjMwNF19
 -->
