@@ -6,7 +6,7 @@ author: pulkit
 
 ---
 
-Today I started out with a goal to post over my oldest blog from google's blogger/blogspot and have it show up on github pages via Jekyll magic.
+Today I started out with a goal to port over my oldest blog from google's blogger/blogspot and have it show up on github pages via Jekyll magic.
 
 I created `_posts/2009-11-08-running-the-derby-network-service.md` but wasn't quite sure what URL Jekyll might have placed the generated html content at.
 
@@ -40,14 +40,16 @@ With `site.posts` as a keyword/clue, I created a [search query](https://github.c
 Turns out, its entirely possible and supported to add templating syntax inside markdown. And that was that ... by adding only the following lines to the bottom (anywhere is fine really) of my `index.md` I could finally access my migrated post!
 
 ```
+{% raw %}
 {% for post in site.posts %}
 
 * {{ post.date | date_to_string }} » [{{post.title}}]({{ post.url }})
 
 {% endfor %}
+{% endraw %}
 ```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNDI1MDk3Ml19
+eyJoaXN0b3J5IjpbLTIwODI2MTIwNiwxMDE0MjUwOTcyXX0=
 -->
