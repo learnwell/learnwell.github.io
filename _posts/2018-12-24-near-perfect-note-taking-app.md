@@ -8,6 +8,9 @@ tags: []
 
 ---
 
+* TOC
+{:toc}
+
 ## Motivation
 
 Why use a note taking app at all?
@@ -20,7 +23,9 @@ Anyway, in 2018, I decided to take a step back from my professional life and go 
 
 Sidebar: 6th generation 2018 iPad is the first affordable iPad to work with Apple Pencil. It was a steal at Costco.
 
-I didnot know which app it was but afte
+I did not know which app it was but after hours upon hours of research and multiple App Store purchases, I found it - [Notability](https://www.gingerlabs.com/)!
+
+## Cons
 
 What it lacks, as of <u>now</u>:
 
@@ -28,5 +33,5 @@ If anything above is outdated and you cannot stand for it, please inform me imme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYyMjU1OTcxXX0=
+eyJoaXN0b3J5IjpbNTM1MzQ4NDY3XX0=
 -->
