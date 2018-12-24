@@ -11,8 +11,6 @@ tags: []
 * TOC
 {:toc}
 
-If anything in this article is outdated and you cannot stand for it, please [inform me](https://twitter.com/intent/tweet?screen_name=learnwell&ref_src=twsrc%5Etfw) immediately so I can get everything up to date.
-
 ## Pro(s)
 
 ## Con(s)
@@ -20,6 +18,8 @@ If anything in this article is outdated and you cannot stand for it, please [inf
 What it lacks, as of <u>now</u>:
 * Content from imported PDFs is not searchable. Not even typed content!
 	* Given all their tech, this seems like an easy one to remedy and I hope they eventually pay attention to this.
+
+> If anything in this article is outdated and you cannot stand for it, please [inform me](https://twitter.com/intent/tweet?screen_name=learnwell&ref_src=twsrc%5Etfw) immediately so I can get everything up to date.
 
 ## Background
 
@@ -39,5 +39,5 @@ Later it turned out that it had awesome search and it even went on to fill the v
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MzQ3ODk1Ml19
+eyJoaXN0b3J5IjpbLTc5NDcyNzY0Nl19
 -->
