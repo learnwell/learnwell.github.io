@@ -12,23 +12,19 @@ Helpful website where you can draw the symbol that you want and it will tell you
 
 * To begin typing a unicode combination on Mac use:
 	```ctrl+cmd+space```
-
 * To begin typing a unicode combination on Chromebook or ChromeOS use:
 	```ctrl + shift + u```
-
-To begin typing in subscript use:
+* To begin typing in subscript use:
 	```ctrl + shift + u and then 208x```
-
-To begin typing in superscript use:
-
-**ctrl + shift + u and then 207x**
+* To begin typing in superscript use:
+	```ctrl + shift + u and then 207x```
 
 |                ||Chrome                          |Mac                         |
 |----------------|---|-------------------------------|-----------------------------|
 |degree symbol|`°`|ctrl+shift+u then 00b0||
 |alpha|`α`|ctrl+shift+u then 03b1||
-|beta|`β`|ctrl+shift+u then 03b2||
-|delta|`Δ`|||
+|beta|`β`|ctrl+shift+u then 03b2|ctrl+cmd+space then u+|
+|delta|`Δ`|394|ctrl+cmd+space then u+394Δ|
 ||``|||
 
 
@@ -92,6 +88,6 @@ To begin typing in superscript use:
 > Written with  [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMDYyNDE5NSwtMTY2NjMzNTAxNCw2Nj
+eyJoaXN0b3J5IjpbMTEzNjEwMTEwNywtMTY2NjMzNTAxNCw2Nj
 g5NjYzMDRdfQ==
 -->
