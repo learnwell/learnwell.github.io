@@ -1,12 +1,14 @@
 ---
 
 layout: page
-title: Tips & Tricks for Blogging
+title: Blogging
 permalink: /blogging/
 last_modified_at: December 24, 2018
 tags: [blog, blogs, blogging, tip, tips, trick, tricks]
 
 ---
+
+# Tips & Tricks for Blogging
 
 * Use [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap#usage) as a starter template for creating a *Jekyll* and *GitHub Pages* based blog.
 * Emojis
@@ -31,6 +33,6 @@ tags: [blog, blogs, blogging, tip, tips, trick, tricks]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDgyMjAwOTQsLTY3MzM5NDAzNiwxND
-A0MTExNzE0XX0=
+eyJoaXN0b3J5IjpbMTUxMTE0NzM2NCwtNjczMzk0MDM2LDE0MD
+QxMTE3MTRdfQ==
 -->
