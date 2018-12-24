@@ -13,7 +13,11 @@ tags: []
 
 ## Pro(s)
 
-I can do everything that I used to do with evernote and more. I can write with real paper touch and feel and response time on an iPad. I can sync with my mac. Sure it stung at first to purchase from iOS app store for roughly 10 bucks and then again from mac app store ... BUT
+I can do everything that I used to do with Evernote and more!
+
+I can handwrite notes or on top of notes with the added benefit of real-paper, touch & feel and no-lag response times with an iPad.
+
+I can sync with my mac, where I prefer to type notes like I used to on Evernote. Sure it stung at first to purchase from iOS app store for roughly 10 bucks and then again from mac app store ... BUT
 
 ## Con(s)
 
@@ -41,5 +45,5 @@ Later it turned out that it had awesome search and it even went on to fill the v
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NDk4Mjk5OV19
+eyJoaXN0b3J5IjpbLTE2Njk4NDA5NzVdfQ==
 -->
