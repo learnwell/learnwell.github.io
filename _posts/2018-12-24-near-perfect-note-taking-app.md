@@ -1,16 +1,18 @@
 ---
 
-layout: post
-title: Notability: A near-perfect note taking app!
+layout: postMod1
+title: Why Notability is a near-perfect note taking app
 author: pulkit
+last_modified_at: December 24, 2018
 tags: []
 
 ---
 
-What it lacks, as of <u>now</u>, based on my usage:
-If anything is outdated and you cannot stand for it, please inform me so I can get everything up to date.
+What it lacks, as of <u>now</u>:
+
+If anything is outdated and you cannot stand for it, please inform me immediately so I can get everything up to date.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMjI2NzI0Nl19
+eyJoaXN0b3J5IjpbNTE5ODI0Mjk5XX0=
 -->
