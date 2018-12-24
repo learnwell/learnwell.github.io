@@ -19,8 +19,8 @@ Helpful website where you can draw the symbol that you want and it will tell you
 * To begin typing in superscript use:
 	```ctrl + shift + u and then 207x```
 
-|||Chrome|Mac|
-|----------------|---|-------------------------------|-----------------------------|
+|description|example|Chrome|Mac|
+|-|-|-|-|
 |degree symbol|`°`|`ctrl+shift+u` then `00b0`||
 |alpha|`α`|`ctrl+shift+u` then `03b1`||
 |beta|`β`|`ctrl+shift+u` then `03b2`|`ctrl+cmd+space` then `u+03b2`|
@@ -59,6 +59,6 @@ Helpful website where you can draw the symbol that you want and it will tell you
 > Written with  [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMzAyNTc2NiwtMTY2NjMzNTAxNCw2Nj
-g5NjYzMDRdfQ==
+eyJoaXN0b3J5IjpbLTExMDEyMjIzNzMsMTgxMzAyNTc2NiwtMT
+Y2NjMzNTAxNCw2Njg5NjYzMDRdfQ==
 -->
