@@ -1,7 +1,7 @@
 ---
 
 layout: page
-title: Blogging -Tips & Tricks
+title: Blogging
 permalink: /blogging/
 tags: [blog, blogs, blogging, tip, tips, trick, tricks]
 
@@ -12,5 +12,5 @@ tags: [blog, blogs, blogging, tip, tips, trick, tricks]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjA3MjUxNTddfQ==
+eyJoaXN0b3J5IjpbMTQwNDExMTcxNF19
 -->
