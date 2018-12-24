@@ -33,9 +33,9 @@ What it lacks, as of <u>now</u>:
 
 I missed a security deposit to the electric company when I moved to Oklahoma because I had written it down on a Napkin while eating a Subway sandwich and they cut off power to my home!  Enough was enough, the year was 2011 and I decided to get out of my own head and start using something ... anything ... that could help me keep my life on track.
 
-I found Evernote, loved it and became a paid subscriber. Life was good! Until ... searching in Evernote started going bad and eventually just became downright unusable. As alternatives, gDocs and gDrive weren't much help either. My [angst](https://medium.com/@learnwell/evernote-vs-google-docs-the-user-loses-49b5eca7c052) is well documented.
+I found Evernote, loved it and became a paid subscriber. Life was good! Until 2014 when I had over 1000 notes and searching in Evernote started going bad and eventually just became downright unusable. It wasn't just the volume, they couldn't even find the basic stuff if the word in the not was singular versus plural. As alternatives, gDocs and gDrive weren't much help either. My [angst](https://medium.com/@learnwell/evernote-vs-google-docs-the-user-loses-49b5eca7c052) is well documented.
 
-There were many *many* **many** <u>misguided</u> attempts to use StackEdit as a replacement for Evernote. I was hoping that if StackEdit markdown notes were saved in gDrive then they would be searchable too. :tired_face: What a huge time sink that research was to glue stuff together and I never made it work.  :tired_face:
+There were many *many* **many** <u>misguided</u> attempts to use StackEdit as a replacement for Evernote. I was hoping that if StackEdit markdown notes were saved in gDrive then they would be searchable too. :tired_face: What a huge time sink that research was to glue stuff together and I never got it to work.  :tired_face:
 
 Anyway, in 2018, I decided to take a sabbatical and go back to college for one semester, where I saw a fellow student using a super slick iPad and Apple Pencil with an equally awesome note taking app.
 
@@ -47,5 +47,5 @@ Later it turned out that it had awesome search and it even went on to fill the v
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzI2NjQ3OTZdfQ==
+eyJoaXN0b3J5IjpbLTUyMjQyMjg3OV19
 -->
