@@ -26,16 +26,16 @@ To begin typing in superscript use:
 
 **ctrl + shift + u and then 207x**
 
+|                |Chrome                          |Mac                         |
+|----------------|-------------------------------|-----------------------------|
+|degree symbol|`°`            |'Isn't this fun?'            |
+|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
+|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+
 <table>
   <tr>
     <td></td>
     <td></td>
-    <td>Chrome</td>
-    <td>Mac</td>
-  </tr>
-  <tr>
-    <td>degree symbol</td>
-    <td>°</td>
     <td>ctrl+shift+u then 00b0</td>
     <td></td>
   </tr>
@@ -110,5 +110,6 @@ To begin typing in superscript use:
 > Written with  [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjYzMzUwMTQsNjY4OTY2MzA0XX0=
+eyJoaXN0b3J5IjpbLTEwNjE0MzY1MDUsLTE2NjYzMzUwMTQsNj
+Y4OTY2MzA0XX0=
 -->
