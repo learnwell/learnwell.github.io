@@ -1,20 +1,16 @@
 ---
+
 layout: page
 title: Blogging -Tips & Tricks
 permalink: /blogging/
-feature-img: "assets/img/pexels/circuit.jpeg"
-tags: [About, Archive]
+tags: [blog, blogs, blogging, tip, tips, trick, tricks]
+
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
-
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
-
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
- 
+* [Escape Liquid template tags in Jekyll posts](https://sarathlal.com/escape-liquid-tag-in-jekyll-posts/)
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NDg0MjM1NF19
+eyJoaXN0b3J5IjpbLTE3NjA3MjUxNTddfQ==
 -->
