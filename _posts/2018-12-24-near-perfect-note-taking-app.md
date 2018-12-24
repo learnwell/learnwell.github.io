@@ -11,15 +11,15 @@ tags: []
 * TOC
 {:toc}
 
-## Pro(s
+If anything in this article is outdated and you cannot stand for it, please inform me] immediately so I can get everything up to date.
 
-## Cons
+## Pro(s)
+
+## Con(s)
 
 What it lacks, as of <u>now</u>:
 * Content from imported PDFs is not searchable. Not even typed content!
 	* Given all their tech, this seems like an easy one to remedy and I hope they eventually pay attention to this.
-
-If anything above is outdated and you cannot stand for it, please inform me immediately so I can get everything up to date.
 
 ## Background
 
@@ -39,5 +39,5 @@ Later it turned out that it had awesome search and it even went on to fill the v
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwODc4MjU1N119
+eyJoaXN0b3J5IjpbLTEyOTEwNTU0NDhdfQ==
 -->
