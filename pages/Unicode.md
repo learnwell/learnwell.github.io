@@ -25,8 +25,8 @@ Helpful website where you can draw the symbol that you want and it will tell you
 |alpha|`α`|`ctrl+shift+u` then `03b1`||
 |beta|`β`|`ctrl+shift+u` then `03b2`|`ctrl+cmd+space` then `u+03b2`|
 |delta|`Δ`|`ctrl+shift+u` then `394`|`ctrl+cmd+space` then `u+394`|
-|Subscript 2|``|`ctrl+shift+u` then `2082`|`ctrl+cmd+space` then `u+2082`|
-||``|`ctrl+shift+u` then ``|`ctrl+cmd+space` then `u+`|
+|Subscript 2|`X₂`|`ctrl+shift+u` then `2082`|`ctrl+cmd+space` then `u+2082`|
+|Superscript 7|`X⁷`|`ctrl+shift+u` then `2077`|`ctrl+cmd+space` then `u+2077`|
 ||``|`ctrl+shift+u` then ``|`ctrl+cmd+space` then `u+`|
 ||``|`ctrl+shift+u` then ``|`ctrl+cmd+space` then `u+`|
 ||``|`ctrl+shift+u` then ``|`ctrl+cmd+space` then `u+`|
@@ -35,18 +35,6 @@ Helpful website where you can draw the symbol that you want and it will tell you
 ||``|`ctrl+shift+u` then ``|`ctrl+cmd+space` then `u+`|
 
 <table>
-  <tr>
-    <td></td>
-    <td>_ ₂</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Superscript 7</td>
-    <td>_⁷</td>
-    <td>ctrl+shift+u then 2077</td>
-    <td></td>
-  </tr>
   <tr>
     <td>Superscript 1</td>
     <td>_¹</td>
@@ -88,6 +76,6 @@ Helpful website where you can draw the symbol that you want and it will tell you
 > Written with  [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NzIzNjMwMSwtMTY2NjMzNTAxNCw2Nj
-g5NjYzMDRdfQ==
+eyJoaXN0b3J5IjpbLTE3NjE2MTYxNzYsLTE2NjYzMzUwMTQsNj
+Y4OTY2MzA0XX0=
 -->
