@@ -11,7 +11,7 @@ tags: []
 * TOC
 {:toc}
 
-If anything in this article is outdated and you cannot stand for it, please <a href="https://twitter.com/intent/tweet?screen_name=learnwell&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">inform me</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> immediately so I can get everything up to date.
+If anything in this article is outdated and you cannot stand for it, please [inform me](https://twitter.com/intent/tweet?screen_name=learnwell&ref_src=twsrc%5Etfw) immediately so I can get everything up to date.
 
 ## Pro(s)
 
@@ -39,5 +39,5 @@ Later it turned out that it had awesome search and it even went on to fill the v
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwOTI1NzEzNF19
+eyJoaXN0b3J5IjpbMTY4MzQ3ODk1Ml19
 -->
