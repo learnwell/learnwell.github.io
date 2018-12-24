@@ -35,7 +35,7 @@ I missed a security deposit to the electric company when I moved to Oklahoma bec
 
 I found Evernote, loved it and became a paid subscriber. Life was good! Until ... searching in Evernote started going bad and eventually just became downright unusable. As alternatives, gDocs and gDrive weren't much help either. My [angst](https://medium.com/@learnwell/evernote-vs-google-docs-the-user-loses-49b5eca7c052) is well documented.
 
-There were many misguided attempts to use StackEdit as a replacement for Evernote. I was hoping that if StackEdit markdown notes were saved in gDrive then they would be searchable too. insert emoji What a huge time sink that research was to glue stuff together which never worked.
+There were many *many* **many** <u>misguided</u> attempts to use StackEdit as a replacement for Evernote. I was hoping that if StackEdit markdown notes were saved in gDrive then they would be searchable too. insert emoji What a huge time sink that research was to glue stuff together which never worked.
 
 Anyway, in 2018, I decided to take a sabbatical and go back to college for one semester, where I saw a fellow student using a super slick iPad and Apple Pencil with an equally awesome note taking app.
 
@@ -47,5 +47,5 @@ Later it turned out that it had awesome search and it even went on to fill the v
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMDAxNTE3OF19
+eyJoaXN0b3J5IjpbOTA3MDM2ODEzXX0=
 -->
