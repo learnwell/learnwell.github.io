@@ -15,9 +15,9 @@ tags: []
 
 <u>Question</u>: Why use a note taking app at all?
 
-I missed a security deposit to the electric company when I moved to Oklahoma because I had written it down on a Napkin while eating a Subway sandwich and they cut off power to my home!  Enough was enough, the year was 2011 and I decided enough is enough, I need to get out of my own head and start using something ... anything ... that can help me keep my life on track.
+I missed a security deposit to the electric company when I moved to Oklahoma because I had written it down on a Napkin while eating a Subway sandwich and they cut off power to my home!  Enough was enough, the year was 2011 and I decided to get out of my own head and start using something ... anything ... that could help me keep my life on track.
 
-I found Evernote, became a paid subscriber and did not look back. Life was good! Until ... searching in Evernote started going bad and eventually just became downright unusable. As alternatives, gDocs and gDrive weren't much help either. My [angst](https://medium.com/@learnwell/evernote-vs-google-docs-the-user-loses-49b5eca7c052) is well documented.
+I found Evernote, loved it and became a paid subscriber. Life was good! Until ... searching in Evernote started going bad and eventually just became downright unusable. As alternatives, gDocs and gDrive weren't much help either. My [angst](https://medium.com/@learnwell/evernote-vs-google-docs-the-user-loses-49b5eca7c052) is well documented.
 
 Anyway, in 2018, I decided to take a step back from my professional life and go back to college for one semester, where I saw a fellow student using a super slick iPad and Apple Pencil with an equally awesome note taking app.
 
@@ -35,5 +35,5 @@ If anything above is outdated and you cannot stand for it, please inform me imme
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNTc5OTA4Nl19
+eyJoaXN0b3J5IjpbMTYxNzg3Njg1OV19
 -->
