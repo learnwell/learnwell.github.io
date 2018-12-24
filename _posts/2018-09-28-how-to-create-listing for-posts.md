@@ -24,10 +24,13 @@ Googling showed, I was not alone! There were [others](https://github.com/walfud)
 	> Hi, I like your theme very well. But after I fork & deploy to my github-pages, and have some article, I even can't have a index page for all my posts. That's a pity.  
 Is there anyway to generate directory for all my post automatically?
 
-But the remedies ***did not*** seem markdown-centric and I did not wish to dabble in HTML yet.
-
+But the remedies:
 * [Displaying an index for posts](https://jekyllrb.com/docs/posts/#displaying-an-index-of-posts)
 * [List Author's Posts](https://jekyllrb.com/docs/step-by-step/09-collections/#list-authors-posts)
+
+***did not*** seem markdown-centric and I did not wish to dabble in HTML yet.
+
+
 
 ----
 
@@ -51,5 +54,6 @@ Turns out, its entirely possible and supported to add templating syntax inside m
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODI2MTIwNiwxMDE0MjUwOTcyXX0=
+eyJoaXN0b3J5IjpbMTUzNDAyMzc2NCwtMjA4MjYxMjA2LDEwMT
+QyNTA5NzJdfQ==
 -->
