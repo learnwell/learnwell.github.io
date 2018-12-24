@@ -19,38 +19,32 @@ Helpful website where you can draw the symbol that you want and it will tell you
 * To begin typing in superscript use:
 	```ctrl + shift + u and then 207x```
 
-|                ||Chrome                          |Mac                         |
+|||Chrome|Mac|
 |----------------|---|-------------------------------|-----------------------------|
 |degree symbol|`°`|`ctrl+shift+u` then `00b0`||
 |alpha|`α`|`ctrl+shift+u` then `03b1`||
 |beta|`β`|`ctrl+shift+u` then `03b2`|`ctrl+cmd+space` then `u+03b2`|
 |delta|`Δ`|`ctrl+shift+u` then `394`|`ctrl+cmd+space` then `u+394`|
 |Subscript 2|`X₂`|`ctrl+shift+u` then `2082`|`ctrl+cmd+space` then `u+2082`|
-|Superscript 7|`X⁷`|`ctrl+shift+u` then `2077`|`ctrl+cmd+space` then `u+2077`|
 |Superscript 1|`X¹`|`ctrl+shift+u` then `00b9`|`ctrl+cmd+space` then `u+00b9`|
 |Superscript 2|`X²`|`ctrl+shift+u` then `00b2`|`ctrl+cmd+space` then `u+00b2`|
-||``|`ctrl+shift+u` then `00b3`|`ctrl+cmd+space` then `u+00b3`|
-||``|`ctrl+shift+u` then `00b5`|`ctrl+cmd+space` then `u+00b5`|
-||``|`ctrl+shift+u` then `1433`|`ctrl+cmd+space` then `u+1433`|
+|Superscript 3|`X³`|`ctrl+shift+u` then `00b3`|`ctrl+cmd+space` then `u+00b3`|
+|Superscript 7|`X⁷`|`ctrl+shift+u` then `2077`|`ctrl+cmd+space` then `u+2077`|
+|Micro sign|`µ`|`ctrl+shift+u` then `00b5`|`ctrl+cmd+space` then `u+00b5`|
+|Wedge|`ᐳ`|`ctrl+shift+u` then `1433`|`ctrl+cmd+space` then `u+1433`|
 ||``|`ctrl+shift+u` then `207b`|`ctrl+cmd+space` then `u+207b`|
 ||``|`ctrl+shift+u` then ``|`ctrl+cmd+space` then `u+`|
 
 <table>
   <tr>
-    <td>Superscript 3</td>
-    <td>_³</td>
-    <td>ctrl+shift+u then 00b3</td>
+    <td> </td>
     <td></td>
-  </tr>
-  <tr>
-    <td>Micro sign </td>
-    <td>µ</td>
     <td>ctrl+shift+u then 00b5</td>
     <td></td>
   </tr>
   <tr>
     <td>Wedge</td>
-    <td>ᐳ</td>
+    <td></td>
     <td>1433</td>
     <td></td>
   </tr>
@@ -65,6 +59,6 @@ Helpful website where you can draw the symbol that you want and it will tell you
 > Written with  [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTU1NTE4ODgsLTE2NjYzMzUwMTQsNj
-Y4OTY2MzA0XX0=
+eyJoaXN0b3J5IjpbMTgxMzAyNTc2NiwtMTY2NjMzNTAxNCw2Nj
+g5NjYzMDRdfQ==
 -->
