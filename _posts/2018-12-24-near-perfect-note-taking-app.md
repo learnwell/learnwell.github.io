@@ -19,7 +19,9 @@ I can **handwrite** and/or **type** notes from scratch.
 
 I can handwrite and/or type <u>***on top of***</u> imported notes or PDFs with an added benefit of real-paper, touch & feel and no-lag response times with an iPad.
 
-I can **sync** with my mac, where I prefer to type notes like I used to on Evernote. <details> <summary>Sidebar</summary> Sure it stung at first to purchase from iOS app store for roughly 10 bucks and then again from mac app store ... BUT then I realized ... HEY! At least it is not a subscription and it is a one-time-cost ... also its developers deserve the payment for their monumental efforts to bring this to life.</details>
+I can <u>**sync** with my mac</u>, where I prefer to type notes like I used to on Evernote.
+
+Sure it stung at first to purchase from iOS app store for roughly 10 bucks and then again from mac app store ... BUT then I realized ... *HEY!* At least its not a subscription, rather it is a one-time-cost ... also its developers deserve the payment for their monumental efforts to bring this to life.</details>
 
 ## Con(s)
 
@@ -49,6 +51,6 @@ Later it turned out that it had awesome search and it even went on to fill the v
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNzk3MTY4OSwtMTcxMzg3MTQ1NiwtMT
-YxOTU3MzE4OCwtMTI4NzQ4OTg2MCwtMTc5NjIxNzg2M119
+eyJoaXN0b3J5IjpbMjEyNDQ4MjM1LC0xNzEzODcxNDU2LC0xNj
+E5NTczMTg4LC0xMjg3NDg5ODYwLC0xNzk2MjE3ODYzXX0=
 -->
