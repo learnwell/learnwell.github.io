@@ -9,8 +9,10 @@ tags: [mac,macbook,chrome,setup]
 ---
 
 1. Tweak how history is maintained in by `terminal`
-	* 
-	* Full 
+	* Quickie:
+	```
+	```
+	* A more thorough [script](https://gist.github.com/pulkitsinghal/077fd7d083c9c4fe7336) for those so inclined.
 2. Get Chome
 	* Remove touchpad gestures to avoid accidently navigating backward/forward within Chrome
 		* Open `terminal` and run:
@@ -22,5 +24,5 @@ tags: [mac,macbook,chrome,setup]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMTU0NjU1Nl19
+eyJoaXN0b3J5IjpbLTk2NDM0MjM0Ml19
 -->
