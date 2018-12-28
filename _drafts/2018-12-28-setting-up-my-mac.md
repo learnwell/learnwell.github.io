@@ -8,16 +8,19 @@ tags: [mac,macbook,chrome,setup]
 
 ---
 
-1. Get Chome
-	2. Remove touchpad gestures to avoid accidently navigating backward/forward within Chrome
-		3. Open `terminal` and run:
+1. Tweak how history is maintained in by `terminal`
+	* 
+	* Full 
+2. Get Chome
+	* Remove touchpad gestures to avoid accidently navigating backward/forward within Chrome
+		* Open `terminal` and run:
 			```
 			defaults write com.google.Chrome.plist AppleEnableSwipeNavigateWithScrolls -bool TRUE
 			```
-		4. 
-2. *more to come*
+		* Credit for this solution goes to [OSXDaily](http://osxdaily.com/2015/05/09/disable-swipe-navigation-google-chrome-mac/)
+3. *more to come*
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMjEzMDU0MV19
+eyJoaXN0b3J5IjpbMTIwMTU0NjU1Nl19
 -->
