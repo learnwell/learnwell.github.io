@@ -10,14 +10,14 @@ tags: []
 
 > Written with [StackEdit](https://stackedit.io/).
 1. Get Chome
-	2. Remove touchpad gestures to navigate in chrome
-		3. Open terminal and run:
+	2. Remove touchpad gestures to avoid accidently navigating backward/forward within Chrome
+		3. Open `terminal` and run:
 			```
 			defaults write com.google.Chrome.plist AppleEnableSwipeNavigateWithScrolls -bool TRUE
 			```
-
+2. *more to come*
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk0MTQwMjkwXX0=
+eyJoaXN0b3J5IjpbLTEzNjg4MzUyNjFdfQ==
 -->
