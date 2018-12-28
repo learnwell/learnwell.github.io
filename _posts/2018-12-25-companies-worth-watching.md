@@ -3,6 +3,7 @@
 layout: postMod1
 title: Companies Worth Watching
 author: pulkit
+last_modified_at: December 25, 2018
 tags: []
 
 ---
@@ -18,5 +19,5 @@ Whether its investing in them directly or just watching their rise to fame and f
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA3NzQyMzVdfQ==
+eyJoaXN0b3J5IjpbNDU3NTEwOTkwLDUwNzc0MjM1XX0=
 -->
