@@ -17,16 +17,15 @@ tags: [mac,macbook,chrome,setup]
 	export HISTIGNORE="&:[ ]*:exit:clear:ls:cd:pwd"
 	```
 	* A more thorough [script](https://gist.github.com/pulkitsinghal/077fd7d083c9c4fe7336) for those so inclined.
-2. Get Chome
-	* Remove touchpad gestures to avoid accidentally navigating backward/forward within Chrome
-		* Open `terminal` and run:
-			```
-			defaults write com.google.Chrome.plist AppleEnableSwipeNavigateWithScrolls -bool TRUE
-			```
-		* Credit for this solution goes to [OSXDaily](http://osxdaily.com/2015/05/09/disable-swipe-navigation-google-chrome-mac/)
+2. Remove touchpad gestures to avoid accidentally navigating backward/forward within Chrome
+	* Open `terminal` and run:
+		```
+		defaults write com.google.Chrome.plist AppleEnableSwipeNavigateWithScrolls -bool TRUE
+		```
+	* Credit for this solution goes to [OSXDaily](http://osxdaily.com/2015/05/09/disable-swipe-navigation-google-chrome-mac/)
 3. *more to come*
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NjUzNjYzNl19
+eyJoaXN0b3J5IjpbMTQ4MjM4NDI5Ml19
 -->
