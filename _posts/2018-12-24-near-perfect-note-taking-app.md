@@ -21,7 +21,7 @@ I can handwrite and/or type ***<u>on top of</u>*** imported notes or PDFs with a
 
 I can **sync** <u>with my mac</u>, where I prefer to type notes like I used to on Evernote.
 
-Sure it stung at first to purchase from iOS app store for roughly 10 bucks and then again from mac app store ... BUT then I realized ... *HEY!* At least its not a subscription, rather it is a **one-time-cost** ... also its developers deserve the payment for their monumental efforts to bring this to life.</details>
+Sure it stung at first to purchase from iOS app store for roughly 10 bucks and then again from mac app store ... BUT then I realized ... *HEY!* At least its not a subscription, rather it is a **one-time-cost** ... also its developers deserve the payment for their monumental efforts to bring this to life.
 
 I can use screen recording on iPad to create awesome tutorials as I talk and scribble on pre-prepared content. This can be then easily edited via `Splice` and placed on YouTube, at no added cost to me!
 
@@ -49,7 +49,7 @@ Sidebar: 6th generation 2018 iPad is the first affordable iPad to work with Appl
 
 I did not know which app it was that I saw but after hours upon hours of research and multiple App Store purchases, I found it - [Notability](https://www.gingerlabs.com/)!
 
-Later it turned out that it had awesome search and it even went on to fill the void in my life that was left by what Evernote and gDocs/gDrive lacked. I still drop its creators - Ginger Labs -  a feature request from time to time but for now they are near perfect and I hope they keep striving for perfection.
+Later it turned out that it had awesome search and it even went on to fill the void in my life that was left by what Evernote and gDocs/gDrive lacked. I still drop its creators - Ginger Labs -  a [feature request](https://portal.productboard.com/daxvub92vjulkcfdwdi1ba18/) or some feedback from time to time but for now they are near perfect and I hope they keep striving for perfection.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
