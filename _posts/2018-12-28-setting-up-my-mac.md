@@ -22,7 +22,7 @@ tags: [mac,macbook,chrome,setup]
 		```
 		defaults write com.google.Chrome AppleEnableSwipeNavigateWithScrolls -bool FALSE
 		```
-	* If that doesnAnother Variation - Open `terminal` and run:
+	* If that doesn't work then another Variation - Open `terminal` and run:
 		```
 		defaults write com.google.Chrome.plist AppleEnableSwipeNavigateWithScrolls -bool FALSE
 		```
@@ -31,5 +31,5 @@ tags: [mac,macbook,chrome,setup]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU3NjY0MDgwXX0=
+eyJoaXN0b3J5IjpbLTM1OTI5MDYzN119
 -->
