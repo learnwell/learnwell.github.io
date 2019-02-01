@@ -9,12 +9,12 @@ tags: [ionic,ionic4]
 ---
 
 Current tool(s)
-: [StackBlitz](https://stackblitz.com) > choose *Ionic*
+: [StackBlitz](https://stackblitz.com) > *choose* **Ionic**
 
 Retired tool(s)
 : [Ionic Playground](https://forum.ionicframework.com/t/what-happend-to-ionic-playground/119697/3)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkxNDk4MjI0XX0=
+eyJoaXN0b3J5IjpbLTUxMDI4ODQ5NF19
 -->
