@@ -3,7 +3,7 @@
 layout: postMod1
 title: How I like to setup my Mac
 author: pulkit
-last_modified_at: February 03, 2018
+last_modified_at: February 03, 2019
 tags: [mac,macbook,chrome,setup]
 
 ---
@@ -31,5 +31,5 @@ tags: [mac,macbook,chrome,setup]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIwOTg0MDU5XX0=
+eyJoaXN0b3J5IjpbLTc1ODE3OTI0LDQyMDk4NDA1OV19
 -->
