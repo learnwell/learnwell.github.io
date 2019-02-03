@@ -29,7 +29,9 @@ tags: [mac,macbook,chrome,setup]
 	* Credit for this solution goes to [OSXDaily](http://osxdaily.com/2015/05/09/disable-swipe-navigation-google-chrome-mac/)
 3. *more to come*
 
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1OTI5MDYzN119
+eyJoaXN0b3J5IjpbMTk3NDY0Mjc2N119
 -->
