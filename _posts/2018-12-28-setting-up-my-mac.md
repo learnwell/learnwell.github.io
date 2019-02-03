@@ -8,7 +8,7 @@ tags: [mac,macbook,chrome,setup]
 
 ---
 
-1. Tweak how history is maintained in by `terminal`
+1. Tweak how history is maintained in `terminal` because whether you are setting up you local `'nix` machine or your remote one, having the terminal history configured properly is a great boon and best practice.
 	* Quickie:
 	```
 	export HISTCONTROL=erasedups
@@ -29,9 +29,7 @@ tags: [mac,macbook,chrome,setup]
 	* Credit for this solution goes to [OSXDaily](http://osxdaily.com/2015/05/09/disable-swipe-navigation-google-chrome-mac/)
 3. *more to come*
 
-
-
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NDY0Mjc2N119
+eyJoaXN0b3J5IjpbMjA5OTc5MTMyM119
 -->
