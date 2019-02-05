@@ -4,13 +4,13 @@ layout: postMod1
 title: Angular CLI woes: Part 1
 author: pulkit
 last_modified_at: February 05, 2018
-tags: [angular,angular6,CLI,ng,]
+tags: [angular,angular6,CLI,ng]
 
 ---
 
 I wanted to generate a directive with `ng g directive` but the CLI feedback was quite un-intuitive!
 
-```bash
+```
 $ ng g directive
 ...
 Cannot read property 'lastIndexOf' of undefined
@@ -22,5 +22,5 @@ Why angular why?
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDUwMjk0NjNdfQ==
+eyJoaXN0b3J5IjpbLTEyMDg4NjUzNzNdfQ==
 -->
