@@ -8,7 +8,9 @@ tags: [angular,angular6,CLI,ng,]
 
 ---
 
-I just wanted to g
+I wanted to generate a directive with `ng g directive` but the CLI feedback was quite un-intuitive!
+
+1. For starters
 
 Why angular why? Could it be this...
 ```
@@ -17,5 +19,5 @@ Your global Angular CLI version (7.3.0) is greater than your local version (6.1.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcyNDk4NTEzXX0=
+eyJoaXN0b3J5IjpbLTExOTYxOTk2OTRdfQ==
 -->
