@@ -10,7 +10,12 @@ tags: [angular,angular6,CLI,ng,]
 
 I wanted to generate a directive with `ng g directive` but the CLI feedback was quite un-intuitive!
 
-1. For starters
+```
+$ ng g directive
+**Cannot read property 'lastIndexOf' of undefined**
+```
+
+Could it be that it wanted one more argument and this command wasn't built to prompt me with options? Yup! `ng g directive myDirectiveName`
 
 Why angular why? Could it be this...
 ```
@@ -19,5 +24,5 @@ Your global Angular CLI version (7.3.0) is greater than your local version (6.1.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTYxOTk2OTRdfQ==
+eyJoaXN0b3J5IjpbLTE3ODU4MTQzNTVdfQ==
 -->
