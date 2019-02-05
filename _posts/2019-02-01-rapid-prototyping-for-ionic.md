@@ -3,7 +3,7 @@
 layout: postMod1
 title: Rapid Prototypic with Ionic Framework
 author: pulkit
-last_modified_at: December 28, 2018
+last_modified_at: February 01, 2018
 tags: [ionic,ionic4]
 
 ---
@@ -16,5 +16,5 @@ Retired tool(s)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMDI4ODQ5NF19
+eyJoaXN0b3J5IjpbNjM2NDgyODY4LC01MTAyODg0OTRdfQ==
 -->
