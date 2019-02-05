@@ -1,7 +1,7 @@
 ---
 
 layout: postMod1
-title: Angular CLI woes: Part 1
+title: Angular CLI woes - Part 1
 author: pulkit
 last_modified_at: February 05, 2018
 tags: [angular,angular6,CLI,ng]
@@ -22,5 +22,5 @@ Why angular why?
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDg4NjUzNzNdfQ==
+eyJoaXN0b3J5IjpbMTEwNDA3MzMzMl19
 -->
