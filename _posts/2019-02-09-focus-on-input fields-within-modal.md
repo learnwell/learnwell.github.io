@@ -8,9 +8,8 @@ tags: [angular,angular6,CLI,ng,angular-bootstrap-md,material,design,bootstrap,md
 
 ---
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
-![Demo](https://github.com/learnwell/learnwell.github.io/blob/master/assets/img/input-focus-within-modal.gif)
+![Demo](https://github.com/learnwell/learnwell.github.io/raw/master/assets/img/input-focus-within-modal.gif)
 
 2. Focus into the input field inside the modal
 	A. MDB means material-design-bootstrap
@@ -27,5 +26,5 @@ tags: [angular,angular6,CLI,ng,angular-bootstrap-md,material,design,bootstrap,md
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NjUzNTkxMiwxNjE2NDE5MDIzXX0=
+eyJoaXN0b3J5IjpbMTQ5MTk2MzQ5OCwxNjE2NDE5MDIzXX0=
 -->
