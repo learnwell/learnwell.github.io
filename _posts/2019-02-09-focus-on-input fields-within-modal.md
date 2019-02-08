@@ -1,10 +1,10 @@
 ---
 
 layout: postMod1
-title: Challenge - Focus on an input field within a modal
+title: Focus on an input field within a modal
 author: pulkit
 last_modified_at: February 05, 2018
-tags: [angular,angular6,CLI,ng,angular-bootstrap-md,5.2.3,material,design,bootstrap,mdb,mdbModal,mdbootstrap]
+tags: [angular,angular6,CLI,ng,angular-bootstrap-md,material,design,bootstrap,mdb,mdbModal,mdbootstrap]
 
 ---
 
@@ -23,5 +23,5 @@ tags: [angular,angular6,CLI,ng,angular-bootstrap-md,5.2.3,material,design,bootst
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcxOTE1NDM3XX0=
+eyJoaXN0b3J5IjpbMTYxNjQxOTAyM119
 -->
