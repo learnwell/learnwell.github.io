@@ -8,6 +8,8 @@ tags: [angular,angular6,CLI,ng,angular-bootstrap-md,material,design,bootstrap,md
 
 ---
 
+[Demo](../assets/demo.gif?raw=true)
+
 2. Focus into the input field inside the modal
 	A. MDB means material-design-bootstrap
 	B. The documentation for the modal used within this project is here:
@@ -23,5 +25,5 @@ tags: [angular,angular6,CLI,ng,angular-bootstrap-md,material,design,bootstrap,md
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNjQxOTAyM119
+eyJoaXN0b3J5IjpbLTEwMDM5OTAxMzEsMTYxNjQxOTAyM119
 -->
