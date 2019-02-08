@@ -15,7 +15,7 @@ tags: [blog, blogs, blogging, tip, tips, trick, tricks]
     ```
     ![Demo](https://github.com/learnwell/learnwell.github.io/raw/master/assets/img/input-focus-within-modal.gif =350x)
     ```
-    * Works on the published blog:
+    * Works both places:
     ```
 	<img src="https://github.com/learnwell/learnwell.github.io/raw/master/assets/img/input-focus-within-modal.gif" width="350"/>
 	```
@@ -42,5 +42,5 @@ tags: [blog, blogs, blogging, tip, tips, trick, tricks]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MTI4OTMxOF19
+eyJoaXN0b3J5IjpbLTE5Njc1NDQ3ODFdfQ==
 -->
