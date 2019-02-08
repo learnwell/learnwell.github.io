@@ -8,6 +8,7 @@ tags: [angular,angular6,CLI,ng,angular-bootstrap-md,material,design,bootstrap,md
 
 ---
 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 [Demo](../assets/demo.gif?raw=true)
 
 2. Focus into the input field inside the modal
@@ -25,5 +26,5 @@ tags: [angular,angular6,CLI,ng,angular-bootstrap-md,material,design,bootstrap,md
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDM5OTAxMzEsMTYxNjQxOTAyM119
+eyJoaXN0b3J5IjpbLTM1NzE2Nzk2LDE2MTY0MTkwMjNdfQ==
 -->
