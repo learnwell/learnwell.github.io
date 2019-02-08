@@ -10,7 +10,7 @@ tags: [blog, blogs, blogging, tip, tips, trick, tricks]
 
 * Embed GIFs into the Jekyll based blog that's hosted on Github Pages and edited via StackEdit
 	* [Format](https://github.com/tiimgreen/github-cheat-sheet#user-content-imagesgifs) the raw github URL
-	* [Adjust](https://stackoverflow.com/questions/34341808/is-there-a-way-to-add-a-gif-to-a-markdown-file#answer-42366350) the size as needed
+	* [Adjust](https://stackoverflow.com/questions/14675913/changing-image-size-in-markdown#answer-21242579) the size as needed
 * Use [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap#usage) as a starter template for creating a *Jekyll* and *GitHub Pages* based blog.
 * Emojis in Jekyll posts
 	1. <u>On Mac</u>, use `ctrl+cmd+space` and select the emoji to embed directly.
@@ -34,5 +34,5 @@ tags: [blog, blogs, blogging, tip, tips, trick, tricks]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwODkxNjM1NV19
+eyJoaXN0b3J5IjpbMTMzMDQzNjcyM119
 -->
