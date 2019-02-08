@@ -11,6 +11,8 @@ tags: [angular,angular6,CLI,ng,angular-bootstrap-md,material,design,bootstrap,md
 
 ![Demo](https://github.com/learnwell/learnwell.github.io/raw/master/assets/img/input-focus-within-modal.gif =350x)
 
+<img src="https://github.com/learnwell/learnwell.github.io/raw/master/assets/img/input-focus-within-modal.gif" height="350"/>
+
 ## Challenge
 
 Focus into the input field inside a material-design-bootstrap modal
@@ -31,6 +33,6 @@ Focus into the input field inside a material-design-bootstrap modal
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTI0NzI4MTQsLTQxNDI1MTEzMywtMj
-c5NTM2NDIzLDE2MTY0MTkwMjNdfQ==
+eyJoaXN0b3J5IjpbLTEwNDM5MDI3NjksLTE0OTI0NzI4MTQsLT
+QxNDI1MTEzMywtMjc5NTM2NDIzLDE2MTY0MTkwMjNdfQ==
 -->
