@@ -8,6 +8,7 @@ tags: [blog, blogs, blogging, tip, tips, trick, tricks]
 
 ---
 
+* Add GIF
 * Use [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap#usage) as a starter template for creating a *Jekyll* and *GitHub Pages* based blog.
 * Emojis in Jekyll posts
 	1. <u>On Mac</u>, use `ctrl+cmd+space` and select the emoji to embed directly.
@@ -31,5 +32,5 @@ tags: [blog, blogs, blogging, tip, tips, trick, tricks]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MDcxMzQ3M119
+eyJoaXN0b3J5IjpbLTE3NTY4OTA1MDRdfQ==
 -->
