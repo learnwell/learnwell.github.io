@@ -45,6 +45,7 @@ Find the most mature and visually appealing libraries that offer drop-in compone
   * Seems to be geared towards a different goal than what we set out to achieve.
 * Commercial / Paid
 	* goJS
+	  * [Angular Samples](https://gojs.net/latest/samples/angular.html)
 	  * https://gojs.net/latest/samples/conceptMap.html
 	  * https://gojs.net/latest/samples/mindMap.html
 	* [jsPlumbToolkit](https://jsplumbtoolkit.com/community/demo/animation/index.html)
@@ -62,6 +63,6 @@ Find the most mature and visually appealing libraries that offer drop-in compone
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUwOTM5NTUwLC01MDE1NjczNTAsMTUwMz
-A2MzE5OSwxOTg3ODc4NTAxLC0xMjI2NzgwNTAyXX0=
+eyJoaXN0b3J5IjpbLTE1MTUzMDMwNzMsLTUwMTU2NzM1MCwxNT
+AzMDYzMTk5LDE5ODc4Nzg1MDEsLTEyMjY3ODA1MDJdfQ==
 -->
