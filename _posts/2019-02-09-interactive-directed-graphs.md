@@ -28,7 +28,9 @@ Find the most mature and visually appealing libraries that offer drop-in compone
 
 * An article for hands-on [practice](https://medium.com/netscape/visualizing-data-with-angular-and-d3-209dde784aeb)
   * With a [repo](https://github.com/lsharir/angular-d3-graph-example) that can be [launched on StackBlitz directly](https://stackblitz.com/github/lsharir/angular-d3-graph-example) successfully!
-* Visualize Data with a Force Directed Graph - D3.js - FreeCodeCamp [video](https://www.youtube.com/watch?v=cJ6NdluzEG8)
+* Instructional Videos
+	* [Visualize Data with a Force Directed Graph - D3.js - FreeCodeCamp](https://www.youtube.com/watch?v=cJ6NdluzEG8)
+	* [How to D3 Force Directed Layout Graph](https://www.youtube.com/watch?v=HP1tOlxVYz4)
 * Very impressive [live example](http://bl.ocks.org/rkirsling/5001347)
   * [Another example](http://rkirsling.github.io/modallogic/) by author of said example
     * Someone wrote an [article](https://medium.com/@balramchavan/building-d3-force-graph-editor-angular-7-a9d5cd3cbc97) stating that they wrapped the previous author's logic for reuse within angular.
@@ -60,6 +62,6 @@ Find the most mature and visually appealing libraries that offer drop-in compone
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ1MDEwNjY1LDE1MDMwNjMxOTksMTk4Nz
-g3ODUwMSwtMTIyNjc4MDUwMl19
+eyJoaXN0b3J5IjpbLTUwMTU2NzM1MCwxNTAzMDYzMTk5LDE5OD
+c4Nzg1MDEsLTEyMjY3ODA1MDJdfQ==
 -->
