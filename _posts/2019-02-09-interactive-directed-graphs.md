@@ -14,9 +14,8 @@ Find the most mature and visually appealing libraries that offer drop-in compone
 
 ## Accessment Matrix
 | | Good Match | Renders Quickly | Visually Appealing |
-| NGX Graph | ⛔️ | - | ✓ |  |
+| NGX Graph |  |  | ✓ |  |
 | Rete | 
-
 
 ## Notes
 
@@ -53,5 +52,5 @@ Find the most mature and visually appealing libraries that offer drop-in compone
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQxMzUwMjAsLTEyMjY3ODA1MDJdfQ==
+eyJoaXN0b3J5IjpbLTQzNjM2MTMwMCwtMTIyNjc4MDUwMl19
 -->
