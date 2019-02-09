@@ -39,8 +39,8 @@ Find the most mature and visually appealing libraries that offer drop-in compone
 	* [jsPlumbToolkit](https://jsplumbtoolkit.com/community/demo/animation/index.html)
 	* [JointJS](http://resources.jointjs.com/demos/shortest-path)
 * Very impressive [live example](http://bl.ocks.org/rkirsling/5001347)
-  * []http://rkirsling.github.io/modallogic/
-    * https://medium.com/@balramchavan/building-d3-force-graph-editor-angular-7-a9d5cd3cbc97
+  * [Another example](http://rkirsling.github.io/modallogic/) by author of said example
+    * Someone wrote an article stating that they wrapped the previous author's logic inside an [angular component](https://medium.com/@balramchavan/building-d3-force-graph-editor-angular-7-a9d5cd3cbc97)
       * https://github.com/ultrasonicsoft/ng-d3-graph-editor
         * http://d3-graph-editor.surge.sh/
 * https://cytoscape.org/cytoscape.js-edgehandles/
@@ -56,5 +56,5 @@ Find the most mature and visually appealing libraries that offer drop-in compone
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MTc2NDc3OSwtMTIyNjc4MDUwMl19
+eyJoaXN0b3J5IjpbMjEyNTU3MDk4OSwtMTIyNjc4MDUwMl19
 -->
