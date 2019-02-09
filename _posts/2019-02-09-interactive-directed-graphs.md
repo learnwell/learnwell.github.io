@@ -21,16 +21,20 @@ Find the most mature and visually appealing libraries that offer drop-in compone
 * [Rete](https://github.com/retejs/rete)
   * [Live Preview](https://codesandbox.io/embed/9jp88p1jpy?view=preview)
   * Seems to be geared towards a different goal than what we set out to achieve.
-* [Commercial] goJS
-  * https://gojs.net/latest/samples/conceptMap.html
-  * https://gojs.net/latest/samples/mindMap.html
+* Commercial / Paid
+	* goJS
+	  * https://gojs.net/latest/samples/conceptMap.html
+	  * https://gojs.net/latest/samples/mindMap.html
+	* [jsPlumbToolkit](https://jsplumbtoolkit.com/community/demo/animation/index.html)
+	* [JointJS](http://resources.jointjs.com/demos/shortest-path)
 * http://bl.ocks.org/rkirsling/5001347
   * http://rkirsling.github.io/modallogic/
     * https://medium.com/@balramchavan/building-d3-force-graph-editor-angular-7-a9d5cd3cbc97
       * https://github.com/ultrasonicsoft/ng-d3-graph-editor
         * http://d3-graph-editor.surge.sh/
-• https://cytoscape.org/cytoscape.js-edgehandles/
-• http://sigmajs.org/
+* https://cytoscape.org/cytoscape.js-edgehandles/
+* http://sigmajs.org/
+	* Couldn't find any interact
 • https://jgraph.github.io/mxgraph/javascript/index.html
 	◦ https://jgraph.github.io/mxgraph/javascript/examples/tree.html
 http://visjs.org/network_examples.html
@@ -39,5 +43,5 @@ http://visjs.org/examples/network/events/interactionEvents.html
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4ODYyNTMxMV19
+eyJoaXN0b3J5IjpbODkwMjE2Mjc2XX0=
 -->
