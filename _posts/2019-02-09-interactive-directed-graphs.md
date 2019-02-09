@@ -53,6 +53,7 @@ Find the most mature and visually appealing libraries that offer drop-in compone
 * http://sigmajs.org/
 	* Couldn't find any interactive examples so cannot call it a qualified lead without digging some more.
 * MX Graph
+	* [How to integrate mxgraph with Angular 6](https://itnext.io/how-to-integrate-mxgraph-with-angular-6-18c3a2bb8566)
 	* https://jgraph.github.io/mxgraph/javascript/index.html
     * https://jgraph.github.io/mxgraph/javascript/examples/tree.html
 * visJS
@@ -62,6 +63,6 @@ Find the most mature and visually appealing libraries that offer drop-in compone
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzOTMwMTQ2NiwtNTAxNTY3MzUwLDE1MD
-MwNjMxOTksMTk4Nzg3ODUwMSwtMTIyNjc4MDUwMl19
+eyJoaXN0b3J5IjpbMzkzNTU5NTk3LC01MDE1NjczNTAsMTUwMz
+A2MzE5OSwxOTg3ODc4NTAxLC0xMjI2NzgwNTAyXX0=
 -->
