@@ -17,10 +17,10 @@ Find the most mature and visually appealing libraries that offer drop-in compone
 | | Interactive | Renders Quickly | Visually Appealing | Demo | Free |
 |-|-|-|-|-|-|
 | lsharir/angular-d3-graph-example | Sortof | Yes | Yes | [Demo](https://stackblitz.com/github/lsharir/angular-d3-graph-example) | Seems So |
-| ultrasonicsoft/ng-d3-graph-editor| Yes | Yes | Yes | Demo() | Seems So |
+| ultrasonicsoft/ng-d3-graph-editor| Yes | Yes | Yes | [Demo](http://d3-graph-editor.surge.sh/) | Seems So |
 | goJS | Yes | Average | Yes | [Live](https://gojs.net/latest/samples/angular.html) | Paid |
-| MX Graph | Yes | Average | Yes | No | Maybe |
-| NGX Graph | Unsure | Average | Yes | Maybe | Maybe |
+| MX Graph | No | Average | Yes | [Demo](https://jgraph.github.io/mxgraph/javascript/examples/tree.html) | Maybe |
+| NGX Graph | No | Average | Yes | [Demo](https://swimlane.github.io/ngx-graph/) | Maybe |
 | Rete | Yes | Average | Yes | No | Maybe |
 | sigmajs | ? | ? | ? | ? | ? |
 | visJS | ? | ? | ? | ? | ? |
@@ -64,6 +64,6 @@ Find the most mature and visually appealing libraries that offer drop-in compone
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAyOTM0MDM1LC01MDE1NjczNTAsMTUwMz
-A2MzE5OSwxOTg3ODc4NTAxLC0xMjI2NzgwNTAyXX0=
+eyJoaXN0b3J5IjpbMTkyNDQ1NjM2NSwtNTAxNTY3MzUwLDE1MD
+MwNjMxOTksMTk4Nzg3ODUwMSwtMTIyNjc4MDUwMl19
 -->
