@@ -15,12 +15,12 @@ Find the most mature and visually appealing libraries that offer drop-in compone
 ## Accessment Matrix
 | | Interactive | Renders Quickly | Visually Appealing | Goals Align | Free |
 |-|-|-|-|-|-|
-
-
+| lsharir/angular-d3-graph-example | 
 | MX Graph | Yes | Average | Yes | No | Maybe |
 | NGX Graph | Unsure | Average | Yes | Maybe | Maybe |
-| visJS | ? | ? | ? | ? | ? |
+| Rete | Yes | Average | Yes | No | Maybe |
 | sigmajs | ? | ? | ? | ? | ? |
+| visJS | ? | ? | ? | ? | ? |
 
 ## Notes
 
@@ -57,6 +57,5 @@ Find the most mature and visually appealing libraries that offer drop-in compone
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjgzNzkxNTAsLTEyMjY3ODA1MDJdfQ
-==
+eyJoaXN0b3J5IjpbNzE1OTE1MDIsLTEyMjY3ODA1MDJdfQ==
 -->
