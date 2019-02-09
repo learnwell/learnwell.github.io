@@ -10,15 +10,15 @@ tags: [angular,directed,graph,editor,interactive]
 
 ## Motivation
 
-Find are the most mature and visually appealing libraries that offer drop-in components for creating interactive directed graphs within an Angular application.
+Find the most mature and visually appealing libraries that offer drop-in components for creating <u>interactive directed graphs</u> within an Angular application.
 
 ## Notes
 
 * Hands-on [practice](https://medium.com/netscape/visualizing-data-with-angular-and-d3-209dde784aeb)
-	◦ With a [repo](https://github.com/lsharir/angular-d3-graph-example) that can be [launched on StackBlitz directly](https://stackblitz.com/github/lsharir/angular-d3-graph-example) successfully!
-• [NGX Graph](https://swimlane.github.io/ngx-graph/)
-• https://github.com/retejs/rete
-	◦ https://codesandbox.io/embed/9jp88p1jpy?view=preview
+  * With a [repo](https://github.com/lsharir/angular-d3-graph-example) that can be [launched on StackBlitz directly](https://stackblitz.com/github/lsharir/angular-d3-graph-example) successfully!
+* [NGX Graph](https://swimlane.github.io/ngx-graph/)
+* [Rete](https://github.com/retejs/rete)
+	◦ [Live Preview](https://codesandbox.io/embed/9jp88p1jpy?view=preview)
 • [Commercial] goJS
 	◦ https://gojs.net/latest/samples/conceptMap.html
 	◦ https://gojs.net/latest/samples/mindMap.html
@@ -38,5 +38,5 @@ http://visjs.org/examples/network/events/interactionEvents.html
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTYxNjI4MjddfQ==
+eyJoaXN0b3J5IjpbMjA4MTI2MjY4Nl19
 -->
