@@ -54,7 +54,7 @@ Find the most mature and visually appealing libraries that offer drop-in compone
 * https://cytoscape.org/cytoscape.js-edgehandles/
 * [Sigma JS](http://sigmajs.org/)
 	* Couldn't find any interactive examples so cannot call it a qualified lead without digging some more.
-	* An artihttp://www.tweetegy.com/2014/07/network-data-visualization-graph-using-sigmajs/
+	* An [article](http://www.tweetegy.com/2014/07/network-data-visualization-graph-using-sigmajs/) using sigmajs for a *static* directed graph.
 * [MX Graph](https://jgraph.github.io/mxgraph/javascript/index.html)
 	* [How to integrate mxgraph with Angular 6](https://itnext.io/how-to-integrate-mxgraph-with-angular-6-18c3a2bb8566)
     * https://jgraph.github.io/mxgraph/javascript/examples/tree.html
@@ -65,7 +65,7 @@ Find the most mature and visually appealing libraries that offer drop-in compone
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYyMjk2NjI1LDU1ODk4NTE1NCwtNTAxNT
-Y3MzUwLDE1MDMwNjMxOTksMTk4Nzg3ODUwMSwtMTIyNjc4MDUw
-Ml19
+eyJoaXN0b3J5IjpbLTE5MjUwNzE5NzgsNTU4OTg1MTU0LC01MD
+E1NjczNTAsMTUwMzA2MzE5OSwxOTg3ODc4NTAxLC0xMjI2Nzgw
+NTAyXX0=
 -->
