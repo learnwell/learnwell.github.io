@@ -16,7 +16,7 @@ Find the most mature and visually appealing libraries that offer drop-in compone
 
 | | Interactive | Renders Quickly | Visually Appealing | Goals Align | Free |
 |-|-|-|-|-|-|
-| lsharir/angular-d3-graph-example | Sortof | Yes | AboAverage | ? | Seems So |
+| lsharir/angular-d3-graph-example | Sortof | Yes | Yes | ? | Seems So |
 | ultrasonicsoft/ng-d3-graph-editor| Yes | Yes | Yes | Yes | Seems So |
 | MX Graph | Yes | Average | Yes | No | Maybe |
 | NGX Graph | Unsure | Average | Yes | Maybe | Maybe |
@@ -62,6 +62,6 @@ Find the most mature and visually appealing libraries that offer drop-in compone
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NzExNjAyNCwtNTAxNTY3MzUwLDE1MD
+eyJoaXN0b3J5IjpbMTIzOTMwMTQ2NiwtNTAxNTY3MzUwLDE1MD
 MwNjMxOTksMTk4Nzg3ODUwMSwtMTIyNjc4MDUwMl19
 -->
