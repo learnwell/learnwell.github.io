@@ -34,14 +34,16 @@ Find the most mature and visually appealing libraries that offer drop-in compone
         * http://d3-graph-editor.surge.sh/
 * https://cytoscape.org/cytoscape.js-edgehandles/
 * http://sigmajs.org/
-	* Couldn't find any interact
-• https://jgraph.github.io/mxgraph/javascript/index.html
-	◦ https://jgraph.github.io/mxgraph/javascript/examples/tree.html
-http://visjs.org/network_examples.html
-http://visjs.org/examples/network/events/interactionEvents.html
+	* Couldn't find any interactive examples so cannot call it a qualified lead without digging some more.
+* MX Graph
+	* https://jgraph.github.io/mxgraph/javascript/index.html
+    * https://jgraph.github.io/mxgraph/javascript/examples/tree.html
+* visJS
+  * http://visjs.org/network_examples.html
+  * http://visjs.org/examples/network/events/interactionEvents.html
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkwMjE2Mjc2XX0=
+eyJoaXN0b3J5IjpbLTM1MjU2Mzg2XX0=
 -->
