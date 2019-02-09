@@ -13,17 +13,10 @@ tags: [angular,directed,graph,editor,interactive]
 Find the most mature and visually appealing libraries that offer drop-in components for creating <u>interactive directed graphs</u> within an Angular application.
 
 ## Accessment Matrix
-||Visually Appealing|
-|NGX Graph| ✓|
-|no|
+| | Renders Quickly | Visually Appealing |
+|NGX Graph| - | ✓ |  |
+| |
 
-
-+------------+---------+
-|    Type    |  MySQL  |
-+------------+---------+
-| Header     | Top Row |
-| Auto Align | On      |
-+------------+---------+
 
 
 ## Notes
@@ -61,5 +54,5 @@ Find the most mature and visually appealing libraries that offer drop-in compone
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NTgyMDcxOSwtMTIyNjc4MDUwMl19
+eyJoaXN0b3J5IjpbNTIxMDEyNDMsLTEyMjY3ODA1MDJdfQ==
 -->
