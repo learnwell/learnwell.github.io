@@ -3,7 +3,7 @@
 layout: postMod1
 title: Interactive Directed Graphs for Angular
 author: pulkit
-last_modified_at: February 08, 2018
+last_modified_at: February 09, 2018
 tags: [angular,directed,graph,editor,interactive]
 
 ---
@@ -45,5 +45,5 @@ Find the most mature and visually appealing libraries that offer drop-in compone
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MjU2Mzg2XX0=
+eyJoaXN0b3J5IjpbMjI1NjUwODE1XX0=
 -->
