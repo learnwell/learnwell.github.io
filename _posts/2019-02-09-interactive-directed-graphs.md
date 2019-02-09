@@ -18,12 +18,12 @@ Find the most mature and visually appealing libraries that offer drop-in compone
   * With a [repo](https://github.com/lsharir/angular-d3-graph-example) that can be [launched on StackBlitz directly](https://stackblitz.com/github/lsharir/angular-d3-graph-example) successfully!
 * [NGX Graph](https://swimlane.github.io/ngx-graph/)
 * [Rete](https://github.com/retejs/rete)
-	◦ [Live Preview](https://codesandbox.io/embed/9jp88p1jpy?view=preview)
-• [Commercial] goJS
-	◦ https://gojs.net/latest/samples/conceptMap.html
-	◦ https://gojs.net/latest/samples/mindMap.html
-• http://bl.ocks.org/rkirsling/5001347
-	◦ http://rkirsling.github.io/modallogic/
+  * [Live Preview](https://codesandbox.io/embed/9jp88p1jpy?view=preview)
+* [Commercial] goJS
+  * https://gojs.net/latest/samples/conceptMap.html
+  * https://gojs.net/latest/samples/mindMap.html
+* http://bl.ocks.org/rkirsling/5001347
+*http://rkirsling.github.io/modallogic/
 		‣ https://medium.com/@balramchavan/building-d3-force-graph-editor-angular-7-a9d5cd3cbc97
 			• https://github.com/ultrasonicsoft/ng-d3-graph-editor
 				◦ http://d3-graph-editor.surge.sh/
@@ -38,5 +38,5 @@ http://visjs.org/examples/network/events/interactionEvents.html
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MTI2MjY4Nl19
+eyJoaXN0b3J5IjpbLTc2MDIyMTE5Ml19
 -->
