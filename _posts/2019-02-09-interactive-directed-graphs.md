@@ -15,10 +15,11 @@ Find the most mature and visually appealing libraries that offer drop-in compone
 ## Accessment Matrix
 | | Interactive | Renders Quickly | Visually Appealing | Goals Align | Free |
 |-|-|-|-|-|-|
-| NGX Graph | Unsure | Average | Yes | Maybe | 
-| Rete | Yes | Average | Yes | No | 
-| MX Graph | Yes | Average | Yes | No |
-| visJS | ? | ? | ? | ? |
+| NGX Graph | Unsure | Average | Yes | Maybe | Maybe |
+| Rete | Yes | Average | Yes | No | Maybe |
+| MX Graph | Yes | Average | Yes | No | Maybe |
+| visJS | ? | ? | ? | ? | ? |
+|
 
 ## Notes
 
@@ -37,8 +38,8 @@ Find the most mature and visually appealing libraries that offer drop-in compone
 	  * https://gojs.net/latest/samples/mindMap.html
 	* [jsPlumbToolkit](https://jsplumbtoolkit.com/community/demo/animation/index.html)
 	* [JointJS](http://resources.jointjs.com/demos/shortest-path)
-* http://bl.ocks.org/rkirsling/5001347
-  * http://rkirsling.github.io/modallogic/
+* Very impressive [live example](http://bl.ocks.org/rkirsling/5001347)
+  * []http://rkirsling.github.io/modallogic/
     * https://medium.com/@balramchavan/building-d3-force-graph-editor-angular-7-a9d5cd3cbc97
       * https://github.com/ultrasonicsoft/ng-d3-graph-editor
         * http://d3-graph-editor.surge.sh/
@@ -55,5 +56,5 @@ Find the most mature and visually appealing libraries that offer drop-in compone
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAzODE2NDg2LC0xMjI2NzgwNTAyXX0=
+eyJoaXN0b3J5IjpbMTI4MTc2NDc3OSwtMTIyNjc4MDUwMl19
 -->
