@@ -15,11 +15,12 @@ Find the most mature and visually appealing libraries that offer drop-in compone
 ## Accessment Matrix
 | | Interactive | Renders Quickly | Visually Appealing | Goals Align | Free |
 |-|-|-|-|-|-|
-| NGX Graph | Unsure | Average | Yes | Maybe | Maybe |
-| Rete | Yes | Average | Yes | No | Maybe |
+
+
 | MX Graph | Yes | Average | Yes | No | Maybe |
+| NGX Graph | Unsure | Average | Yes | Maybe | Maybe |
 | visJS | ? | ? | ? | ? | ? |
-|
+| sigmajs | ? | ? | ? | ? | ? |
 
 ## Notes
 
@@ -40,9 +41,9 @@ Find the most mature and visually appealing libraries that offer drop-in compone
 	* [JointJS](http://resources.jointjs.com/demos/shortest-path)
 * Very impressive [live example](http://bl.ocks.org/rkirsling/5001347)
   * [Another example](http://rkirsling.github.io/modallogic/) by author of said example
-    * Someone wrote an article stating that they wrapped the previous author's logic inside an [angular component](https://medium.com/@balramchavan/building-d3-force-graph-editor-angular-7-a9d5cd3cbc97)
-      * https://github.com/ultrasonicsoft/ng-d3-graph-editor
-        * http://d3-graph-editor.surge.sh/
+    * Someone wrote an [article](https://medium.com/@balramchavan/building-d3-force-graph-editor-angular-7-a9d5cd3cbc97) stating that they wrapped the previous author's logic for reuse within angular.
+      * [repo](https://github.com/ultrasonicsoft/ng-d3-graph-editor)
+      * [live example](http://d3-graph-editor.surge.sh/)
 * https://cytoscape.org/cytoscape.js-edgehandles/
 * http://sigmajs.org/
 	* Couldn't find any interactive examples so cannot call it a qualified lead without digging some more.
@@ -56,5 +57,6 @@ Find the most mature and visually appealing libraries that offer drop-in compone
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNTU3MDk4OSwtMTIyNjc4MDUwMl19
+eyJoaXN0b3J5IjpbLTE1NjgzNzkxNTAsLTEyMjY3ODA1MDJdfQ
+==
 -->
