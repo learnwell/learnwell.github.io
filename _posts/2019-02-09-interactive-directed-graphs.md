@@ -14,11 +14,11 @@ Find the most mature and visually appealing libraries that offer drop-in compone
 
 ## Accessment Matrix
 
-| | Interactive | Renders Quickly | Visually Appealing | Goals Align | Free |
+| | Interactive | Renders Quickly | Visually Appealing | Demo | Free |
 |-|-|-|-|-|-|
-| lsharir/angular-d3-graph-example | Sortof | Yes | Yes | ? | Seems So |
-| ultrasonicsoft/ng-d3-graph-editor| Yes | Yes | Yes | Yes | Seems So |
-| [goJS](https://gojs.net/latest/samples/angular.html) | Yes | Average | Yes | No | Paid |
+| lsharir/angular-d3-graph-example | Sortof | Yes | Yes | [Demo](https://stackblitz.com/github/lsharir/angular-d3-graph-example) | Seems So |
+| ultrasonicsoft/ng-d3-graph-editor| Yes | Yes | Yes | Demo() | Seems So |
+| goJS | Yes | Average | Yes | [Live](https://gojs.net/latest/samples/angular.html) | Paid |
 | MX Graph | Yes | Average | Yes | No | Maybe |
 | NGX Graph | Unsure | Average | Yes | Maybe | Maybe |
 | Rete | Yes | Average | Yes | No | Maybe |
@@ -64,6 +64,6 @@ Find the most mature and visually appealing libraries that offer drop-in compone
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTMxNTIyMDIsLTUwMTU2NzM1MCwxNT
-AzMDYzMTk5LDE5ODc4Nzg1MDEsLTEyMjY3ODA1MDJdfQ==
+eyJoaXN0b3J5IjpbMzAyOTM0MDM1LC01MDE1NjczNTAsMTUwMz
+A2MzE5OSwxOTg3ODc4NTAxLC0xMjI2NzgwNTAyXX0=
 -->
