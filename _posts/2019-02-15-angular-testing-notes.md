@@ -60,7 +60,7 @@ Here is a list of gotchas:
       }).compileComponents();
     });
 	```
-* Don't use the combination of`imports:[RouterModule]` and `providers:[Router]` ... i `RouterTestingModule.withRoutes(routes)`
+* Don't use the combination of`imports:[RouterModule]` and `providers:[Router]` ... instead use `imports:[RouterTestingModule.withRoutes(routes)]`. You can watch the relevant CodeCraft [episode 13.13](https://codecraft.tv/courses/angular/unit-testing/routing/) for this.
 			• Needed for things like `routerLink`
 
 				and
@@ -69,5 +69,5 @@ Here is a list of gotchas:
 > Written with  [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzk1NjA5MTVdfQ==
+eyJoaXN0b3J5IjpbNzI3OTc4NDg1XX0=
 -->
