@@ -15,21 +15,19 @@ But even after absorbing all that goodness, I still found gaps when adding tests
 
 Here is a list of some gotchas
 
-* Instead of configuring
-  ```
-  beforeEach(async () => {
-    TestBed.configureTestingModule({
-      declarations: [...
-      ],
-      imports: [
-        HttpClientModule,
-        
-      ],
-      providers: [
-        StoreService // meant to be rx like
-      ]
-    }).compileComponents();
-  });
+* When it starts complaining about missing `HttpClient` and `HttpHandler`, instead of configuring the `TestBed` like this:
+    ```
+    beforeEach(async () => {
+      TestBed.configureTestingModule({
+        declarations: [...],
+        imports: [],
+        providers: [
+          HttpClient,
+          HttpClientModule,
+          HttpHandler
+        ]
+      }).compileComponents();
+    });
   ```
  * asdasd
 
@@ -37,5 +35,5 @@ Here is a list of some gotchas
 > Written with  [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzOTE1NTg2OF19
+eyJoaXN0b3J5IjpbOTkwNzExNDgyXX0=
 -->
