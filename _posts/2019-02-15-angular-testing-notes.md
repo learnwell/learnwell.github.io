@@ -14,6 +14,7 @@ But even after absorbing all that goodness, I still found it difficult to add te
 Here is a list of gotchas:
 
 * `ng-test` will fail due to missing dependencies after you create a `spec` using tools that generate it for any existing component. Known tools: [angular-spec-generator](https://www.npmjs.com/package/angular-spec-generator) and [ngx-spec](https://github.com/smnbbrv/ngx-spec)
+* Complaints about `ngModels`? That comes from `FormsModule` so if the component being tested uses that then you inject it via `imports: [FormsModule]`
 * If you see complaints about missing `HttpClient` and/or `HttpHandler`, instead of configuring the `providers`:
 	```
 	beforeEach(async () => {
@@ -40,7 +41,7 @@ Here is a list of gotchas:
     });
 	```
 * Complaints about `mdbModal`? That comes from `MDBBootstrapModule` so if the component being tested uses that then you inject it via `imports: [MDBBootstrapModule.forRoot()]`
- * For *material-design-bootstrap*, if you misconfigure it as`imports:[MDBBootstrapModule]` isn't enough to configure it! You will see errors about random things like `ComponentLoaderFactory`:
+ * For *material-design-bootstrap*, if you **misconfigure** it as `imports:[MDBBootstrapModule]` then you will see random errors like:
 	```
     Error: StaticInjectorError(DynamicTestModule)[ModalDirective -> ComponentLoaderFactory]: 
       StaticInjectorError(Platform: core)[ModalDirective -> ComponentLoaderFactory]: 
@@ -59,8 +60,7 @@ Here is a list of gotchas:
       }).compileComponents();
     });
 	```
-* Complaints about `ngModels`? That comes from `FormsModule` so if the component being tested uses that then you inject it via `imports: [FormsModule]`
-		‣ `RouterTestingModule.withRoutes(routes)`
+* Co		‣ `RouterTestingModule.withRoutes(routes)`
 			• Needed for things like `routerLink`
 			• Does AWAY with the need to add
 				◦ `Router` to `providers`
@@ -70,5 +70,5 @@ Here is a list of gotchas:
 > Written with  [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNzUzMTgzOF19
+eyJoaXN0b3J5IjpbNjUzNDgxMDg1XX0=
 -->
