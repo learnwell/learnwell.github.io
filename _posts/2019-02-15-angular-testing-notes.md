@@ -38,14 +38,14 @@ Here is a list of gotchas
       }).compileComponents();
     });
 	```
- * `imports:[MDBBootstrapModule]` isn't enough for *material-design-bootstrap*, it should be initialized with `forRoot()`
-`imports:[MDBBootstrapModule.forRoot()]`
+ * For *material-design-bootstrap*, `imports:[MDBBootstrapModule]` isn't enough to configure it!  .. it should be initialized with `forRoot()`
 	```
 	beforeEach(async () => {
       TestBed.configureTestingModule({
         declarations: [...],
         imports: [
-          HttpClientModule
+          //MDBBootstrapModule // NO! NO!
+          MDBBootstrapModule.forRoot() // YES
         ],
         providers: [...]
       }).compileComponents();
@@ -56,5 +56,5 @@ Here is a list of gotchas
 > Written with  [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NDUzOTI5Ml19
+eyJoaXN0b3J5IjpbLTM2NDU3MjYzNl19
 -->
