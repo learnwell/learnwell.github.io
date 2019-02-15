@@ -9,10 +9,10 @@ tags: [angular, angular7]
 
 --- 
 
-Episodes 13.x on CodeCraft.tv are an excellent resource for learning how to test components in ANgular7.
+As of Feb 2019, [episodes 13.x]() on CodeCraft.tv are an excellent resource for learning how to test components in Angular7.
 
 > Written with  [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjg5NTU0ODJdfQ==
+eyJoaXN0b3J5IjpbLTExMjI5NTA1ODVdfQ==
 -->
