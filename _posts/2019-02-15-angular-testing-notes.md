@@ -11,7 +11,7 @@ As of Feb 2019, episodes in the [13.x range](https://codecraft.tv/courses/angula
 
 But even after absorbing all that goodness, I still found it difficult to add tests in an existing project. Most of it had to do with watch `ng test` fail and then figuring out all the dependencies that were unaccounted for.
 
-Here is a list of gotchas
+Here is a list of gotchas:
 
 * When it starts complaining about missing `HttpClient` and `HttpHandler`, instead of configuring the `TestBed` like this:
 	```
@@ -44,7 +44,7 @@ Here is a list of gotchas
       StaticInjectorError(Platform: core)[ModalDirective -> ComponentLoaderFactory]: 
         NullInjectorError: No provider for ComponentLoaderFactory!
 	```
-	It should be initialized with `forRoot()`
+	While the real issues is that it should be initialized with `forRoot()`
 	```
 	beforeEach(async () => {
       TestBed.configureTestingModule({
@@ -62,5 +62,5 @@ Here is a list of gotchas
 > Written with  [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk0NDk1Mjg1XX0=
+eyJoaXN0b3J5IjpbMTEwNDk5ODU4MF19
 -->
