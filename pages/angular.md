@@ -9,10 +9,12 @@ tags: [angular, angular7]
 
 --- 
 
-As of Feb 2019, [episodes 13.x]() on CodeCraft.tv are an excellent resource for learning how to test components in Angular7.
+As of Feb 2019, episodes in the [13.x range](https://codecraft.tv/courses/angular/unit-testing/angular-test-bed/) on CodeCraft.tv are an excellent resource for learning how to test components in Angular7.
+
+But even after absorbing all that goodness, I still found gaps when adding tests to an exis
 
 > Written with  [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjI5NTA1ODVdfQ==
+eyJoaXN0b3J5IjpbMTA5NzE4Mzg4Nl19
 -->
