@@ -38,7 +38,13 @@ Here is a list of gotchas
       }).compileComponents();
     });
 	```
- * For *material-design-bootstrap*, `imports:[MDBBootstrapModule]` isn't enough to configure it!  .. it should be initialized with `forRoot()`
+ * For *material-design-bootstrap*, `imports:[MDBBootstrapModule]` isn't enough to configure it! You will see errors about random things like `ComponentLoaderFactory`:
+	```
+    Error: StaticInjectorError(DynamicTestModule)[ModalDirective -> ComponentLoaderFactory]: 
+      StaticInjectorError(Platform: core)[ModalDirective -> ComponentLoaderFactory]: 
+        NullInjectorError: No provider for ComponentLoaderFactory!
+	```
+	It should be initialized with `forRoot()`
 	```
 	beforeEach(async () => {
       TestBed.configureTestingModule({
@@ -56,5 +62,5 @@ Here is a list of gotchas
 > Written with  [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NDU3MjYzNl19
+eyJoaXN0b3J5IjpbNzk0NDk1Mjg1XX0=
 -->
