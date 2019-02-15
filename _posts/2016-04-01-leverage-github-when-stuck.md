@@ -1,7 +1,7 @@
 ---  
 
 layout: postMod1
-title: Leverage GitHub when stuc
+title: Use GitHub when new frameworks don't document what you need
 last_modified_at: April 6, 2016
 tags: [angular, angular7]  
 
@@ -16,5 +16,5 @@ GitHub is an invaluable resource:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNTA1NjU5XX0=
+eyJoaXN0b3J5IjpbLTE2MTk4MzAyNjNdfQ==
 -->
