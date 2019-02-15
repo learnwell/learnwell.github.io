@@ -23,7 +23,6 @@ Here is a list of some gotchas
         imports: [],
         providers: [
           HttpClient,
-          HttpClientModule,
           HttpHandler
         ]
       }).compileComponents();
@@ -47,5 +46,5 @@ Here is a list of some gotchas
 > Written with  [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDMwMzQ2MDhdfQ==
+eyJoaXN0b3J5IjpbMjA3NTEwNzk1NV19
 -->
