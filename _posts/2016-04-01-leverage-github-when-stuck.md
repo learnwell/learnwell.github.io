@@ -26,30 +26,30 @@ GitHub is an invaluable resource. Let's take the example of trying to figure out
 	-   path:/client/app    
 	-   path:/client/js
 -   Looking to limit your code search to Models or Remote Methods? Append the following qualifiers as part of your search:
-	-   path:/common    
-	-   path:/common/models
-	-   path:/common/models language:json    
-	-   path:/common/models language:javascript
+	- `path:/common`
+	- `path:/common/models`
+	- `path:/common/models language:json`    
+	- `path:/common/models language:javascript`
 -   Here’s a bucket list of various other loopback keyword searches I’ve run to help myself:
 	- Wanted to figure out how to setup paging in loopback server side scripts
 		- skip limit path:/server/boot
 	-   Wanted to figure out how to use role resolver and loopback context together
 		- registerResolver getCurrentContext
 	- Wanted to figure out how to get at all the little extra metadata info that is hidden away in a Model
-		- definition type language:javascript path:/common/models
-	- findbyid user:strongloop language:javascript path:/client
-	- app principal path:/common/models language:json
-	- findone language:javascript path:/client user:strongloop
-	- findone include filter path:/client
-	- properties id type user:strongloop language:javascript
-	- datasource type language:javascript path:/common/models
-	- properties id type language:javascript path:/common/models
-	- include relation language:javascript path:/client/app
-	- create language:javascript path:/client/js user:strongloop
-	- findById path:/client/js user:strongloop
+		- `definition type language:javascript path:/common/models`
+	- `findbyid user:strongloop language:javascript path:/client`
+	- `app principal path:/common/models language:json`
+	- `findone language:javascript path:/client user:strongloop`
+	- `findone include filter path:/client`
+	- `properties id type user:strongloop language:javascript`
+	- `datasource type language:javascript path:/common/models`
+	- `properties id type language:javascript path:/common/models`
+	- `include relation language:javascript path:/client/app`
+	- `create language:javascript path:/client/js user:strongloop`
+	- `findById path:/client/js user:strongloop`
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTU1NzIxOSwtMTk5MjYyOTgxMCwtMT
-YxOTgzMDI2M119
+eyJoaXN0b3J5IjpbLTIxMDUwMDY0NTMsLTE5OTI2Mjk4MTAsLT
+E2MTk4MzAyNjNdfQ==
 -->
