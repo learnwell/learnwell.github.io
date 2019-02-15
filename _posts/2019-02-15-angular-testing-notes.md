@@ -7,7 +7,7 @@ tags: [angular, angular7]
 
 --- 
 
-As of Feb 2019, episodes in the [13.x range](https://codecraft.tv/courses/angular/unit-testing/angular-test-bed/) on CodeCraft.tv are an excellent resource for learning how to test components in Angular7.
+As of Feb 2019, episodes in the [13.x range](https://codecraft.tv/courses/angular/unit-testing/angular-test-bed/) on CodeCraft.tv are the best resource, known to me, for learning: *How to test components in Angular7*.
 
 But even after absorbing all that goodness, I still found gaps when adding tests to an existing component is a fairly mature angular project.
 
@@ -44,5 +44,5 @@ Here is a list of some gotchas
 > Written with  [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MTYyMzAzOV19
+eyJoaXN0b3J5IjpbLTgzNjg1MDg0OV19
 -->
