@@ -14,7 +14,7 @@ But even after absorbing all that goodness, I still found it difficult to add te
 Here is a list of gotchas:
 
 * `ng-test` will fail due to missing dependencies after you create a `spec` using tools that generate it for any existing component. Known tools: [angular-spec-generator](https://www.npmjs.com/package/angular-spec-generator) and [ngx-spec](https://github.com/smnbbrv/ngx-spec)
-* When it starts complaining about missing `HttpClient` and `HttpHandler`, instead of configuring the `TestBed` like this:
+* If you see complaints about missing `HttpClient` and/or `HttpHandler`, instead of configuring the `TestBed` `providers`:
 	```
 	beforeEach(async () => {
       TestBed.configureTestingModule({
@@ -27,7 +27,7 @@ Here is a list of gotchas:
       }).compileComponents();
     });
 	```
-	You should set it up like so instead:
+	You should configure the `imp` it up like so:
 	```
 	beforeEach(async () => {
       TestBed.configureTestingModule({
@@ -63,5 +63,5 @@ Here is a list of gotchas:
 > Written with  [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNzg1MTk4MV19
+eyJoaXN0b3J5IjpbLTE0MDk3NDI0ODNdfQ==
 -->
