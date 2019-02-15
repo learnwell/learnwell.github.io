@@ -38,18 +38,18 @@ GitHub is an invaluable resource. Let's take the example of trying to figure out
 	- Wanted to figure out how to get at all the little extra metadata info that is hidden away in a Model
 		- definition type language:javascript path:/common/models
 	- findbyid user:strongloop language:javascript path:/client
-	-app principal path:/common/models language:json
-	-   findone language:javascript path:/client user:strongloop
-	-   findone include filter path:/client
-	-   properties id type user:strongloop language:javascript
-	-   datasource type language:javascript path:/common/models
-	-   properties id type language:javascript path:/common/models
-	-   include relation language:javascript path:/client/app
-	-   create language:javascript path:/client/js user:strongloop
-	-   findById path:/client/js user:strongloop
+	- app principal path:/common/models language:json
+	- findone language:javascript path:/client user:strongloop
+	- findone include filter path:/client
+	- properties id type user:strongloop language:javascript
+	- datasource type language:javascript path:/common/models
+	- properties id type language:javascript path:/common/models
+	- include relation language:javascript path:/client/app
+	- create language:javascript path:/client/js user:strongloop
+	- findById path:/client/js user:strongloop
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4Mzc3NDUzMSwtMTk5MjYyOTgxMCwtMT
+eyJoaXN0b3J5IjpbLTEwNTU1NzIxOSwtMTk5MjYyOTgxMCwtMT
 YxOTgzMDI2M119
 -->
