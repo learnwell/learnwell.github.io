@@ -9,7 +9,7 @@ tags: [angular, angular7]
 
 As of Feb 2019, episodes in the [13.x range](https://codecraft.tv/courses/angular/unit-testing/angular-test-bed/) on CodeCraft.tv are the best resource, known to me, for learning: *How to test components in Angular7*.
 
-But even after absorbing all that goodness, I still found it difficult to add tests in an existing project. This is because it was a fairly mature angular project and the dependency injection required quite a lot of work.
+But even after absorbing all that goodness, I still found it difficult to add tests in an existing project. Most of it had to do with watch `ng test` fail and then figuring out all the dependencies that were unaccounted for.
 
 Here is a list of some gotchas
 
@@ -44,5 +44,5 @@ Here is a list of some gotchas
 > Written with  [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNjg2NTUxM119
+eyJoaXN0b3J5IjpbLTYyOTQ1ODM5MV19
 -->
