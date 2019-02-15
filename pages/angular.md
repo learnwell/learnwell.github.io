@@ -19,17 +19,11 @@ Here is a list of some gotchas
   ```
   beforeEach(async () => {
     TestBed.configureTestingModule({
-      declarations: [
-        HitlistComponent,
-        DashButtonPrimaryComponent,
-        DashButtonComponent,
-        DashHitlistItemComponent
+      declarations: [...
       ],
       imports: [
         HttpClientModule,
-        FormsModule,
-        MDBBootstrapModule.forRoot(),
-        RouterTestingModule//.withRoutes(routes)
+        
       ],
       providers: [
         StoreService // meant to be rx like
@@ -37,10 +31,11 @@ Here is a list of some gotchas
     }).compileComponents();
   });
   ```
+ * asdasd
 
 
 > Written with  [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAwMjAzMjkzXX0=
+eyJoaXN0b3J5IjpbMjEzOTE1NTg2OF19
 -->
