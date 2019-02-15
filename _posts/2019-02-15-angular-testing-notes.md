@@ -63,7 +63,7 @@ Here is a list of gotchas:
 	beforeEach(async () => {
       TestBed.configureTestingModule({
         declarations: [...],
-        imports: [
+        
           //MDBBootstrapModule // NO! NO!
           MDBBootstrapModule.forRoot() // YES
         ],
@@ -82,5 +82,5 @@ Here is a list of gotchas:
 > Written with  [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg0ODM5NDA4XX0=
+eyJoaXN0b3J5IjpbLTE1Nzc1NDcyMjNdfQ==
 -->
