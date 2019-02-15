@@ -16,14 +16,31 @@ But even after absorbing all that goodness, I still found gaps when adding tests
 Here is a list of some gotchas
 
 * Instead of configuring
-
-    enter code here        HttpClient,
+  ```
+  beforeEach(async () => {
+    TestBed.configureTestingModule({
+      declarations: [
+        HitlistComponent,
+        DashButtonPrimaryComponent,
+        DashButtonComponent,
+        DashHitlistItemComponent
+      ],
+      imports: [
         HttpClientModule,
-        HttpHandler,
+        FormsModule,
+        MDBBootstrapModule.forRoot(),
+        RouterTestingModule//.withRoutes(routes)
+      ],
+      providers: [
+        StoreService // meant to be rx like
+      ]
+    }).compileComponents();
+  });
+  ```
 
 
 > Written with  [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDc1MjQ5OTZdfQ==
+eyJoaXN0b3J5IjpbOTAwMjAzMjkzXX0=
 -->
