@@ -7,7 +7,7 @@ tags: [angular, angular7]
 
 --- 
 
-GitHub is an invaluable resource. Let's take the example of trying to figure out how to accomplish certain tasks with LoobackJS framework 
+GitHub is an invaluable resource. Let's take the example of trying to figure out "the unknown" when a framework such as  LoobackJS is involved:
 -   There are plenty of public projects that use loopback.
 -   When in doubt, you can use code search to find syntax and other clues on how to perform certain tasks.
 -   There are many ways to [narrow down](https://help.github.com/articles/searching-code/) search results, the keywords from an API search also apply to what you type in the searchbox on github: [https://developer.github.com/v3/search/#considerations-for-code-search](https://developer.github.com/v3/search/#considerations-for-code-search)
@@ -19,6 +19,6 @@ GitHub is an invaluable resource. Let's take the example of trying to figure out
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODY5ODE3MDgsLTE2MTk4MzAyNjNdfQ
+eyJoaXN0b3J5IjpbLTE5OTI2Mjk4MTAsLTE2MTk4MzAyNjNdfQ
 ==
 -->
