@@ -11,7 +11,7 @@ As of Feb 2019, episodes in the [13.x range](https://codecraft.tv/courses/angula
 
 But even after absorbing all that goodness, I still found it difficult to add tests in an existing project. Most of it had to do with watch `ng test` fail and then figuring out all the dependencies that were unaccounted for.
 
-Here is a list of some gotchas
+Here is a list of gotchas
 
 * When it starts complaining about missing `HttpClient` and `HttpHandler`, instead of configuring the `TestBed` like this:
 	```
@@ -38,11 +38,23 @@ Here is a list of some gotchas
       }).compileComponents();
     });
 	```
- * asdasd
-
+ * `imports:[MDBBootstrapModule]` isn't enough for *material-design-bootstrap*, it should be initialized with `forRoot()`
+`imports:[MDBBootstrapModule.forRoot()]`
+	```
+	beforeEach(async () => {
+      TestBed.configureTestingModule({
+        declarations: [...],
+        imports: [
+          HttpClientModule
+        ],
+        providers: [...]
+      }).compileComponents();
+    });
+	```
+* *TBD...*
 
 > Written with  [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyOTQ1ODM5MV19
+eyJoaXN0b3J5IjpbMTY1NDUzOTI5Ml19
 -->
