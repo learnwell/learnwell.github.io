@@ -21,10 +21,59 @@ GitHub is an invaluable resource. Let's take the example of trying to figure out
 - Sometimes there are just too many search results when looking for loopback code on the angular/client side. This may happen because loopback’s auto-generated`lb-services.js` file, tends to contain many keywords. But you don’t want it to be searched! Well, you can exclude it. Look at the difference in the # of search results for the following code queries on github:
 	- [loopback findbyid language:javascript path:/client NOT lbServices](https://github.com/search?utf8=%E2%9C%93&q=loopback+findbyid+language%3Ajavascript+path%3A%2Fclient+NOT+lbServices&type=Code&ref=searchresults) (close to 80)
 	- [loopback findbyid language:javascript path:/client](https://github.com/search?utf8=%E2%9C%93&q=loopback+findbyid+language%3Ajavascript+path%3A%2Fclient&type=Code&ref=searchresults) (over 780)
+-   Looking to limit your code search to Angular or client side? Append the following qualifiers as part of your search:
+	-   path:/client
+	-   path:/client/app    
+	-   path:/client/js
+-   Looking to limit your code search to Models or Remote Methods? Append the following qualifiers as part of your search:
+	-   path:/common    
+	-   path:/common/models
+	-   path:/common/models language:json    
+	-   path:/common/models language:javascript
+-   Here’s a bucket list of various other loopback keyword searches I’ve run to help myself:
+    
+
+-   Wanted to figure out how to setup paging in loopback server side scripts
+    
+
+-   skip limit path:/server/boot
+    
+
+-   Wanted to figure out how to use role resolver and loopback context together
+    
+
+-   registerResolver getCurrentContext
+    
+
+-   Wanted to figure out how to get at all the little extra metadata info that is hidden away in a Model
+    
+
+-   definition type language:javascript path:/common/models
+    
+
+-   findbyid user:strongloop language:javascript path:/client
+    
+-   app principal path:/common/models language:json
+    
+-   findone language:javascript path:/client user:strongloop
+    
+-   findone include filter path:/client
+    
+-   properties id type user:strongloop language:javascript
+    
+-   datasource type language:javascript path:/common/models
+    
+-   properties id type language:javascript path:/common/models
+    
+-   include relation language:javascript path:/client/app
+    
+-   create language:javascript path:/client/js user:strongloop
+    
+-   findById path:/client/js user:strongloop
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTU0NjEzNSwtMTk5MjYyOTgxMCwtMT
-YxOTgzMDI2M119
+eyJoaXN0b3J5IjpbLTEwMjEzOTE1NjMsLTE5OTI2Mjk4MTAsLT
+E2MTk4MzAyNjNdfQ==
 -->
