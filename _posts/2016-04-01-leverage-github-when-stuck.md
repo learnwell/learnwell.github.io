@@ -16,9 +16,18 @@ GitHub is an invaluable resource. Let's take the example of trying to figure out
     - [findbyid language:javascript path:/client](https://github.com/search?q=findbyid+language%3Ajavascript+path%3A%2Fclient&type=Code&utf8=%E2%9C%93)
 -   Need to narrow down results further by a GitHub username of organization name?
 	- [findbyid user:strongloop language:javascript path:/client](https://github.com/search?utf8=%E2%9C%93&q=findbyid+user%3Astrongloop+language%3Ajavascript+path%3A%2Fclient&type=Code&ref=searchresults)
+-   It can even help you figure out how to configure a 3rd party dependency in LoopBackFor example, I wanted to use `express-xml-bodyparser` and started wondering if someone else had used it as a middleware in loopback before. `parse` was a phase in the middleware.json file where one might configure such a dependency. `params` was a standard way of providing input to the dependency being configured. I put all these keywords together with the fact that the configuration would happen in a JSON file and came up with a code search that helped me find the example code I wanted: [express-xml-bodyparser parse params language:json](https://github.com/search?q=express-xml-bodyparser+parse+params+language%3Ajson&type=Code&utf8=%E2%9C%93)
+    
+
+-   Sometimes there are just too many search results when looking for loopback code on the angular/client side. This may happen because loopback’s auto-generated`lb-services.js` file, tends to contain many keywords. But you don’t want it to be searched! Well, you can exclude it. Look at the difference in the # of search results for the following code queries on github:
+    
+
+-   [loopback findbyid language:javascript path:/client NOT lbServices](https://github.com/search?utf8=%E2%9C%93&q=loopback+findbyid+language%3Ajavascript+path%3A%2Fclient+NOT+lbServices&type=Code&ref=searchresults) (close to 40)
+[loopback findbyid language:javascript path:/client](https://github.com/search?utf8=%E2%9C%93&q=loopback+findbyid+language%3Ajavascript+path%3A%2Fclient&type=Code&ref=searchresults) (over 400)
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTI2Mjk4MTAsLTE2MTk4MzAyNjNdfQ
-==
+eyJoaXN0b3J5IjpbLTE2NzA2NDc5OTgsLTE5OTI2Mjk4MTAsLT
+E2MTk4MzAyNjNdfQ==
 -->
