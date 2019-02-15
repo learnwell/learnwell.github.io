@@ -64,13 +64,10 @@ Here is a list of gotchas:
 	* Don't use the combination of`imports:[RouterModule]` and `providers:[Router]`
 	* Use `imports:[RouterTestingModule.withRoutes(routes)]`
 	* You can view CodeCraft [episode 13.13](https://codecraft.tv/courses/angular/unit-testing/routing/) to watch this done the right way.
-			• Needed for things like ``
-
-				and
 * *TBD...*
 
 > Written with  [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNjM2NzQ0NF19
+eyJoaXN0b3J5IjpbLTE2NDk4NjQ3MV19
 -->
