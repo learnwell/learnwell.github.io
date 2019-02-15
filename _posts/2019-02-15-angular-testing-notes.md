@@ -14,7 +14,7 @@ But even after absorbing all that goodness, I still found it difficult to add te
 Here is a list of gotchas:
 
 * `ng-test` will fail due to missing dependencies after you create a `spec` using tools that generate it for any existing component. Known tools: [angular-spec-generator](https://www.npmjs.com/package/angular-spec-generator) and [ngx-spec](https://github.com/smnbbrv/ngx-spec)
-* If you see complaints about missing `HttpClient` and/or `HttpHandler`, instead of configuring the `TestBed` `providers`:
+* If you see complaints about missing `HttpClient` and/or `HttpHandler`, instead of configuring the `providers`:
 	```
 	beforeEach(async () => {
       TestBed.configureTestingModule({
@@ -27,7 +27,7 @@ Here is a list of gotchas:
       }).compileComponents();
     });
 	```
-	You should configure the `imp` it up like so:
+	You should configure the `imports`:
 	```
 	beforeEach(async () => {
       TestBed.configureTestingModule({
@@ -58,10 +58,29 @@ Here is a list of gotchas:
       }).compileComponents();
     });
 	```
+* Complaints about `ngModels`? That comes from `FormsModule` so if the component being tested uses that then you inject it via `imports`
+	```
+	beforeEach(async () => {
+      TestBed.configureTestingModule({
+        declarations: [...],
+        imports: [
+          //MDBBootstrapModule // NO! NO!
+          MDBBootstrapModule.forRoot() // YES
+        ],
+        providers: [...]
+      }).compileComponents();
+    });
+	```
+* `mdbModal` comes from `MDBBootstrapModule` so if the component being tested uses that then you inject it via `imports`
+		‣ `RouterTestingModule.withRoutes(routes)`
+			• Needed for things like `routerLink`
+			• Does AWAY with the need to add
+				◦ `Router` to `providers`
+				◦ `RouterModule` to `imports`
 * *TBD...*
 
 > Written with  [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDk3NDI0ODNdfQ==
+eyJoaXN0b3J5IjpbNjg0ODM5NDA4XX0=
 -->
