@@ -60,15 +60,14 @@ Here is a list of gotchas:
       }).compileComponents();
     });
 	```
-* Co		‣ `RouterTestingModule.withRoutes(routes)`
+* Don't use the combination of`imports:[RouterModule]` and `providers:[Router]` ... i `RouterTestingModule.withRoutes(routes)`
 			• Needed for things like `routerLink`
-			• Does AWAY with the need to add
-				◦ `Router` to `providers`
-				◦ `RouterModule` to `imports`
+
+				and
 * *TBD...*
 
 > Written with  [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUzNDgxMDg1XX0=
+eyJoaXN0b3J5IjpbLTExMzk1NjA5MTVdfQ==
 -->
