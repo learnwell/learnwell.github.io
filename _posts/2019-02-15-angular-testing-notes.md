@@ -39,7 +39,8 @@ Here is a list of gotchas:
       }).compileComponents();
     });
 	```
- * For *material-design-bootstrap*, `imports:[MDBBootstrapModule]` isn't enough to configure it! You will see errors about random things like `ComponentLoaderFactory`:
+* Complaints about `mdbModal`? That comes from `MDBBootstrapModule` so if the component being tested uses that then you inject it via `imports: [MDBBootstrapModule.forRoot()]`
+ * For *material-design-bootstrap*, if you misconfigure it as`imports:[MDBBootstrapModule]` isn't enough to configure it! You will see errors about random things like `ComponentLoaderFactory`:
 	```
     Error: StaticInjectorError(DynamicTestModule)[ModalDirective -> ComponentLoaderFactory]: 
       StaticInjectorError(Platform: core)[ModalDirective -> ComponentLoaderFactory]: 
@@ -58,20 +59,7 @@ Here is a list of gotchas:
       }).compileComponents();
     });
 	```
-* Complaints about `ngModels`? That comes from `FormsModule` so if the component being tested uses that then you inject it via `imports`
-	```
-	beforeEach(async () => {
-      TestBed.configureTestingModule({
-        declarations: [...],
-        
-          //MDBBootstrapModule // NO! NO!
-          MDBBootstrapModule.forRoot() // YES
-        ],
-        providers: [...]
-      }).compileComponents();
-    });
-	```
-* `mdbModal` comes from `MDBBootstrapModule` so if the component being tested uses that then you inject it via `imports`
+* Complaints about `ngModels`? That comes from `FormsModule` so if the component being tested uses that then you inject it via `imports: [FormsModule]`
 		‣ `RouterTestingModule.withRoutes(routes)`
 			• Needed for things like `routerLink`
 			• Does AWAY with the need to add
@@ -82,5 +70,5 @@ Here is a list of gotchas:
 > Written with  [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzc1NDcyMjNdfQ==
+eyJoaXN0b3J5IjpbLTMwNzUzMTgzOF19
 -->
