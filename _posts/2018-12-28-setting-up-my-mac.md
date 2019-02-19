@@ -3,7 +3,7 @@
 layout: postMod1
 title: How I like to setup my Mac
 author: pulkit
-last_modified_at: February 03, 2019
+last_modified_at: February 19, 2019
 tags: [mac,macbook,chrome,setup]
 
 ---
@@ -28,11 +28,11 @@ tags: [mac,macbook,chrome,setup]
 		```
 	* Credit for this solution goes to [OSXDaily](http://osxdaily.com/2015/05/09/disable-swipe-navigation-google-chrome-mac/)
 3. Setup `nvm` instead of installing node directly
-	4. 
+	1. [Setup nexus local cache](https://blog.theodo.fr/2016/01/speed-up-npm-install-with-a-nexus-proxy-to-cache-packages/) to avoid latency experienced when repeating `npm install`
 4. *more to come*
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzM3MTg4OTQsLTc1ODE3OTI0LDQyMD
-k4NDA1OV19
+eyJoaXN0b3J5IjpbLTIxNDEyNzg3NSwtNzU4MTc5MjQsNDIwOT
+g0MDU5XX0=
 -->
