@@ -38,10 +38,11 @@ tags: [mac,macbook,chrome,setup]
 		[npm-cache] [INFO]
 		  using /Users/<username>/.package_cache
 		  as cache directory
-		...
-		# you can also switch nodejs version
-		# the npm-cache will beco
-		...
+		##
+		# You can also switch nodejs version
+		# the npm-cache will become specific
+		# to that version, as it should
+		##
 		$ nvm use 11
 		Now using node v11.8.0 (npm v6.5.0)
 		$ npm install -g npm-cache
@@ -56,6 +57,6 @@ tags: [mac,macbook,chrome,setup]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTQyNzAxODMsLTc1ODE3OTI0LDQyMD
-k4NDA1OV19
+eyJoaXN0b3J5IjpbLTEwMDIzMzQ4LC03NTgxNzkyNCw0MjA5OD
+QwNTldfQ==
 -->
