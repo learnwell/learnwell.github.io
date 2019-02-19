@@ -27,9 +27,12 @@ tags: [mac,macbook,chrome,setup]
 		defaults write com.google.Chrome.plist AppleEnableSwipeNavigateWithScrolls -bool FALSE
 		```
 	* Credit for this solution goes to [OSXDaily](http://osxdaily.com/2015/05/09/disable-swipe-navigation-google-chrome-mac/)
-3. *more to come*
+3. Setup `nvm` instead of installing node directly
+	4. 
+4. *more to come*
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1ODE3OTI0LDQyMDk4NDA1OV19
+eyJoaXN0b3J5IjpbLTE0NzM3MTg4OTQsLTc1ODE3OTI0LDQyMD
+k4NDA1OV19
 -->
