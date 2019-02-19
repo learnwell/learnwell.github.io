@@ -28,17 +28,23 @@ tags: [mac,macbook,chrome,setup]
 		```
 	* Credit for this solution goes to [OSXDaily](http://osxdaily.com/2015/05/09/disable-swipe-navigation-google-chrome-mac/)
 3. Setup `nvm` instead of installing node directly
-	* Setup nexus local cache to avoid latency experienced when repeating `npm install`. Out of all the methods listed here, I preferred the one that uses `npm-cache`
+	* Setup nexus local cache to avoid latency experienced when repeating `npm install`. Out of all the methods listed [here](https://blog.theodo.fr/2016/01/speed-up-npm-install-with-a-nexus-proxy-to-cache-packages/), I preferred the one that uses `npm-cache`
 		```
 		npm install -g npm-cache
+		...
+		cd /path/to/newProject
+		...
 		npm-cache install
-		/Users/training/.package_cache as cache directory
+		...
+		[npm-cache] [INFO]
+		  using /Users/<username>/.package_cache
+		  as cache directory
 		```
 
 4. *more to come*
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMzgxMTkzNSwtNzU4MTc5MjQsNDIwOT
-g0MDU5XX0=
+eyJoaXN0b3J5IjpbNTgwNDM1MTk1LC03NTgxNzkyNCw0MjA5OD
+QwNTldfQ==
 -->
