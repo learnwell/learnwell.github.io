@@ -9,11 +9,11 @@ tags: [markdown,editors]
 ---
 
 * [http://www.makeuseof.com/tag/6-markdown-editors-play-nice-google-drive/](http://www.makeuseof.com/tag/6-markdown-editors-play-nice-google-drive/)
-    1.  Stackedit
-    2.  Writebox
-    3.  MobileFolio
+	1. Stackedit
+	2. Writebox
+	3. MobileFolio
 * ChromeOS
-    1.  Markdown Preview Plus
+    1. Markdown Preview Plus
 * Mac & iOS
     1. Falcon - paid app
 	    * Evernote like layout. Edit in Markdown and view in HTML! Super cool.
@@ -24,5 +24,5 @@ tags: [markdown,editors]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NzU2OTMwNiwxNzU1NDYzNTA1XX0=
+eyJoaXN0b3J5IjpbMTEyNjg0ODc2MiwxNzU1NDYzNTA1XX0=
 -->
