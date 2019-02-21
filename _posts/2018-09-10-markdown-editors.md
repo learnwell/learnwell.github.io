@@ -3,7 +3,7 @@
 layout: postMod1
 title: Markdown Editors
 author: pulkit
-last_modified_at: February 19, 2019
+last_modified_at: February 21, 2019
 tags: [markdown,editors]
 
 ---
@@ -24,5 +24,5 @@ tags: [markdown,editors]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NTQ2MzUwNV19
+eyJoaXN0b3J5IjpbMTQ4NzU2OTMwNiwxNzU1NDYzNTA1XX0=
 -->
