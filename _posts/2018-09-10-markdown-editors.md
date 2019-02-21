@@ -16,17 +16,11 @@ tags: [markdown,editors]
     1.  Markdown Preview Plus
 * Mac & iOS
     1. Falcon - paid app
-    2.  Evernote like layout. Edit in Markdown and view in HTML! Super cool.
-    3. 
-Have not tried it but the features sound absolutely awesome.
-    
-
-3.  [http://falcon.star-lord.me/](http://falcon.star-lord.me/)
-    
-
-4.  iaWriter?
-    
-5.  Typora
+	    * Evernote like layout. Edit in Markdown and view in HTML! Super cool.
+	    * Have not tried it but the features sound absolutely awesome.
+    2. [http://falcon.star-lord.me/](http://falcon.star-lord.me/)
+    4.  iaWriter?
+    5.  Typora
     
 
 6.  https://typora.io/
@@ -36,5 +30,5 @@ Have not tried it but the features sound absolutely awesome.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MzUzOTA5Nl19
+eyJoaXN0b3J5IjpbMzkzOTAxMDk0XX0=
 -->
