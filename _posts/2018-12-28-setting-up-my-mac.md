@@ -52,12 +52,26 @@ tags: [mac,macbook,chrome,setup]
 		  using /Users/<username>/.package_cache
 		  as cache directory
 		```
-	* There may be some room for improvement by changing cache directory from `/Users/<username>/.package_cache` to the relevant nodejs version's 
+	* There may be some room for improvement by changing cache directory from `/Users/<username>/.package_cache` to the relevant nodejs version's directory:
+		```bash
+			$ ls ~/.nvm/versions/node/v11.8.0/lib/node_modules/
+			ionic
+			npm
+			.package_cache
+
+			$ ls ~/.nvm/versions/node/v9.11.2/lib/node_modules/
+			@angular
+			angular-spec-generator
+			firebase-tools
+			npm
+			npm-cache
+			.package_cache
+		```
 
 4. *more to come*
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNTkzNjA2NywtMTAwMjMzNDgsLTc1OD
-E3OTI0LDQyMDk4NDA1OV19
+eyJoaXN0b3J5IjpbMjY0NDAxODI4LC0xMDAyMzM0OCwtNzU4MT
+c5MjQsNDIwOTg0MDU5XX0=
 -->
