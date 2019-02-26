@@ -53,7 +53,7 @@ tags: [mac,macbook,chrome,setup]
 		  as cache directory
 		```
 	* There may be some room for improvement by changing cache directory from `/Users/<username>/.package_cache` to the relevant nodejs version's directory:
-		```
+		```bash
 		$ ls ~/.nvm/versions/node/v11.8.0/lib/node_modules/
 		ionic
 		npm
@@ -72,6 +72,6 @@ tags: [mac,macbook,chrome,setup]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDk5MzYyNTYsLTEwMDIzMzQ4LC03NT
+eyJoaXN0b3J5IjpbLTEwODQzMDQwODQsLTEwMDIzMzQ4LC03NT
 gxNzkyNCw0MjA5ODQwNTldfQ==
 -->
