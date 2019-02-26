@@ -3,7 +3,7 @@
 layout: postMod1
 title: How I like to setup my Mac
 author: pulkit
-last_modified_at: February 19, 2019
+last_modified_at: February 26, 2019
 tags: [mac,macbook,chrome,setup]
 
 ---
@@ -76,12 +76,39 @@ tags: [mac,macbook,chrome,setup]
 				  --cacheDirectory ~/.nvm/versions/node/`nvm current`/.package_cache
 				``` 
 			* It did **NOT** work, filed an issue [here](https://github.com/swarajban/npm-cache/issues/107)
-
 4. *more to come*
+
+## Open Questions
+
+3. Using `nvm` and `npm-cache` together
+	* There may be some room for improvement by changing cache directory from `/Users/<username>/.package_cache` to the relevant nodejs version's directory:
+		```bash
+		$ ls ~/.nvm/versions/node/v11.8.0/lib/node_modules/
+		ionic
+		npm
+		.package_cache # hypothetical, I haven't done it yet
+
+		$ ls ~/.nvm/versions/node/v9.11.2/lib/node_modules/
+		@angular
+		angular-spec-generator
+		firebase-tools
+		npm
+		npm-cache
+		.package_cache # hypothetical, I haven't done it yet
+		```
+		* Ideas
+			* ```ls -alrt ~/.nvm/versions/node/`nvm current`/.package_cache``` works in terminal
+			* I tried
+				```
+				npm-cache \
+				  install \
+				  --cacheDirectory ~/.nvm/versions/node/`nvm current`/.package_cache
+				``` 
+			* It did **NOT** work ... filed an issue [here](https://github.com/swarajban/npm-cache/issues/107)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQxNzYwNzI4LDU1NzgzNDE3MCwtMTA4ND
-MwNDA4NCwtMTAwMjMzNDgsLTc1ODE3OTI0LDQyMDk4NDA1OV19
-
+eyJoaXN0b3J5IjpbLTY3MzUyNjk2Miw1NTc4MzQxNzAsLTEwOD
+QzMDQwODQsLTEwMDIzMzQ4LC03NTgxNzkyNCw0MjA5ODQwNTld
+fQ==
 -->
