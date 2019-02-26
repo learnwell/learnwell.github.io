@@ -69,12 +69,17 @@ tags: [mac,macbook,chrome,setup]
 		```
 		* Ideas
 			* ```ls -alrt ~/.nvm/versions/node/`nvm current`/.package_cache``` works in terminal
-			* So maybe try something like 
+			* So maybe try something like
+				```
+				npm-cache \
+				  --cacheDirectory ~/.nvm/versions/node/`nvm current`/.package_cache \
+				  install
+		``` 
 
 4. *more to come*
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNDYzMDk5OCwtMTA4NDMwNDA4NCwtMT
-AwMjMzNDgsLTc1ODE3OTI0LDQyMDk4NDA1OV19
+eyJoaXN0b3J5IjpbNTU3ODM0MTcwLC0xMDg0MzA0MDg0LC0xMD
+AyMzM0OCwtNzU4MTc5MjQsNDIwOTg0MDU5XX0=
 -->
