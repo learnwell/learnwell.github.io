@@ -54,24 +54,24 @@ tags: [mac,macbook,chrome,setup]
 		```
 	* There may be some room for improvement by changing cache directory from `/Users/<username>/.package_cache` to the relevant nodejs version's directory:
 		```
-			$ ls ~/.nvm/versions/node/v11.8.0/lib/node_modules/
-			ionic
-			npm
-			.package_cache # hypothetical, I haven't done it yet
+		$ ls ~/.nvm/versions/node/v11.8.0/lib/node_modules/
+		ionic
+		npm
+		.package_cache # hypothetical, I haven't done it yet
 
-			$ ls ~/.nvm/versions/node/v9.11.2/lib/node_modules/
-			@angular
-			angular-spec-generator
-			firebase-tools
-			npm
-			npm-cache
-			.package_cache # hypothetical, I haven't done it yet
+		$ ls ~/.nvm/versions/node/v9.11.2/lib/node_modules/
+		@angular
+		angular-spec-generator
+		firebase-tools
+		npm
+		npm-cache
+		.package_cache # hypothetical, I haven't done it yet
 		```
 
 4. *more to come*
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTM1MDg1NTIsLTEwMDIzMzQ4LC03NT
+eyJoaXN0b3J5IjpbLTE3MDk5MzYyNTYsLTEwMDIzMzQ4LC03NT
 gxNzkyNCw0MjA5ODQwNTldfQ==
 -->
