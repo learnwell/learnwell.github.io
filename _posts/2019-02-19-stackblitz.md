@@ -15,7 +15,10 @@ tags: [stackblitz,emmet,bootstrap]
 	@import 'bootstrap/dist/css/bootstrap.min.css';
 	```
 
+## Open Questions
+1. How to configure typescript to resolve paths in a semi-consistent fashion such as: `import {blah} from 'src/app/folder/component'`
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NjI2OTQ3NF19
+eyJoaXN0b3J5IjpbMTk2NTA5NzMyOCwxMzQ2MjY5NDc0XX0=
 -->
