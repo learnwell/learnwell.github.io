@@ -16,9 +16,14 @@ tags: [stackblitz,emmet,bootstrap]
 	```
 
 ## Open Questions
-1. How to configure typescript to resolve paths in a semi-consistent fashion such as: `import {blah} from 'src/app/folder/component'`
+1. How to configure typescript to resolve paths in a semi-consistent fashion such as:
+	```
+	import {blah} from 'src/app/folder1/component'
+	import {blah} from 'src/app/folder2/service'
+	```
+2. 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NTA5NzMyOCwxMzQ2MjY5NDc0XX0=
+eyJoaXN0b3J5IjpbLTEwMzk1MjQ5NiwxMzQ2MjY5NDc0XX0=
 -->
