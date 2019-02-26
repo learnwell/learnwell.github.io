@@ -67,11 +67,14 @@ tags: [mac,macbook,chrome,setup]
 		npm-cache
 		.package_cache # hypothetical, I haven't done it yet
 		```
+		* Ideas
+			* ```ls -alrt ~/.nvm/versions/node/`nvm current`/.package_cache``` works in terminal
+			* So maybe try something like 
 
 4. *more to come*
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODQzMDQwODQsLTEwMDIzMzQ4LC03NT
-gxNzkyNCw0MjA5ODQwNTldfQ==
+eyJoaXN0b3J5IjpbLTgyNDYzMDk5OCwtMTA4NDMwNDA4NCwtMT
+AwMjMzNDgsLTc1ODE3OTI0LDQyMDk4NDA1OV19
 -->
