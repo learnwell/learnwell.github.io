@@ -8,11 +8,12 @@ tags: []
 
 ---
 
-* How to attach and monitor logs in CLI for a detached container that was started using docker-compose?
-```
-docker-compose logs --follow <serviceName>
+* How to attach and monitor logs in CLI (mac terminal) for a detached container that was started using `docker-compose`?
+	```
+	docker-compose logs --follow <serviceName>
+	```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyODc4NjExMV19
+eyJoaXN0b3J5IjpbLTE2NTY4MTgwNzddfQ==
 -->
