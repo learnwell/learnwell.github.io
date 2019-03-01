@@ -3,7 +3,7 @@
 layout: postMod1
 title: Deploy MySql in 60 seconds 
 author: pulkit
-last_modified_at: February 27, 2019
+last_modified_at: March 1, 2019
 tags: [mysql,docker,dev,devlopment,local]
 
 ---
@@ -63,6 +63,6 @@ Credit where credit is due, I used these for reference:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMzk2MTA3NywxNDg1NjY0MTA0LC02OD
-MwOTYyOTVdfQ==
+eyJoaXN0b3J5IjpbNDAyODAyMzk0LC04MDM5NjEwNzcsMTQ4NT
+Y2NDEwNCwtNjgzMDk2Mjk1XX0=
 -->
