@@ -59,10 +59,12 @@ docker-compose logs --follow mysql
 
 Credit where credit is due, I used these for reference:
 * https://medium.com/@chrischuck35/how-to-create-a-mysql-instance-with-docker-compose-1598f3cc1bee
+* https://dzone.com/articles/docker-for-mac-mysql-setup
 * https://www.masterzendframework.com/docker-development-environment/
+* https://github.com/search?q=mysql+ports+volume+filename%3Adocker-compose.yml
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAyODAyMzk0LC04MDM5NjEwNzcsMTQ4NT
-Y2NDEwNCwtNjgzMDk2Mjk1XX0=
+eyJoaXN0b3J5IjpbMTE3NDkwNDEyMywtODAzOTYxMDc3LDE0OD
+U2NjQxMDQsLTY4MzA5NjI5NV19
 -->
