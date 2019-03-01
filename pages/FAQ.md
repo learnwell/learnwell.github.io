@@ -12,8 +12,9 @@ tags: []
 	```
 	docker-compose logs --follow <serviceName>
 	```
+* How to write commands that readers can copy/paste to create and populate a file from their CLI?
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTY4MTgwNzddfQ==
+eyJoaXN0b3J5IjpbMjA0Njg1NzAxNywtMTY1NjgxODA3N119
 -->
