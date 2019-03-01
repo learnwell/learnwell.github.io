@@ -14,8 +14,9 @@ Run MySql locally in Docker for development
 
 ## Steps
 1. 
+2. 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MzA5NjI5NV19
+eyJoaXN0b3J5IjpbMTU4NTYzNDU4OSwtNjgzMDk2Mjk1XX0=
 -->
