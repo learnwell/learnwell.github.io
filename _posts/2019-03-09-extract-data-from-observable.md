@@ -9,6 +9,7 @@ tags: [firestore,firebase,angularfire]
 ---
 
 ## Step by Step
+
 1. Update your model(s) to have an additional `id` property, in addition to everything else that your business logic dictates.
 
     ```
@@ -79,5 +80,5 @@ tags: [firestore,firebase,angularfire]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMjE0NTk1XX0=
+eyJoaXN0b3J5IjpbLTM0MTEwMTY4MV19
 -->
