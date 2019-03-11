@@ -36,23 +36,23 @@ tags: [angular,firebase]
 
     ? What file should be used for Firestore Rules? firestore.rules
     ? What file should be used for Firestore indexes? firestore.indexes.json
-    ? What do you want to use as your public directory? dist/upkeep-front
+    ? What do you want to use as your public directory? dist/my-project
     ? Configure as a single-page app (rewrite all urls to /index.html)? No
-    ✔  Wrote dist/upkeep-front/404.html
+    ✔  Wrote dist/my-project/404.html
 
-    ? File dist/upkeep-front/index.html already exists. Overwrite? No
-    i  Skipping write of dist/upkeep-front/index.html
+    ? File dist/my-project/index.html already exists. Overwrite? No
+    i  Skipping write of dist/my-project/index.html
 
     i  Writing configuration info to firebase.json...
     i  Writing project information to .firebaserc...
 
     ✔  Firebase initialization complete!
     ```
-    > NOTE: It is _**SUPER**_ important to point `public directory` accurately to wherever your prod build will dump its data, like I did to `dist/upkeep-front` in the step above.
+    > NOTE: It is _**SUPER**_ important to point `public directory` accurately to wherever your prod build will dump its data, like I did to `dist/my-project` in the step above.
 1. Install dependencies for firebase locally in your pre-existing angular project
 
     ```
-    $ cd ~/dev/upkeep-front
+    $ cd ~/dev/my-project
     $ npm install --save-exact firebase
     $ npm install --save-exact @angular/fire
     % npm install --save-exact @types/firebase
@@ -117,5 +117,5 @@ tags: [angular,firebase]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MjAwODkyOF19
+eyJoaXN0b3J5IjpbLTU0OTcwODgyNF19
 -->
