@@ -10,7 +10,7 @@ tags: [stackblitz,emmet,bootstrap]
 
 1. `emmet` exists, use `cmd+e` instead of `ctrl+e` to expand abbreviation.
 2. `dependencies` can be added by adding the package name at the bottom left.
-3. After installing `bootstrap`, it can be used by importing to `app/styles.css`
+3. After installing `bootstrap`, it can be used by importing to `src/styles.css`
 	```
 	@import 'bootstrap/dist/css/bootstrap.min.css';
 	```
@@ -25,5 +25,6 @@ tags: [stackblitz,emmet,bootstrap]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMjc3NTI0MSwxMzQ2MjY5NDc0XX0=
+eyJoaXN0b3J5IjpbLTUwOTIzNDYxMiwxMDIyNzc1MjQxLDEzND
+YyNjk0NzRdfQ==
 -->
