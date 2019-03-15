@@ -8,9 +8,11 @@ tags: [Angular Quiz]
 
 ---
 
-## h3 Which 
+### Which of the following is the correct way to utilize Angular Form's template-driven approach?
+
+ - [ ] <form (ngSubmit)="onSubmit(thisForm)" #thisForm>
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NDc2NTM1MV19
+eyJoaXN0b3J5IjpbMTU2MTkxNjE2OF19
 -->
