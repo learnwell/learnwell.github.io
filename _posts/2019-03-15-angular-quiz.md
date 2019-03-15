@@ -12,20 +12,19 @@ tags: [Angular Quiz]
 
   - [ ] This one?
 	   ```
+    <!-- .html -->
     <form (ngSubmit)="onSubmit(thisForm)" #thisForm>
 	   ...
 	</form>
-    ```
-
 	```
-	onSubmit() {
-	  console.log(this.form);
-	  }
 	```
-
+	// component.ts
+	onSubmit(thisForm: HTMLFormElement) {
+	  // do stuff
+	}
  - [ ] ...
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MDc5Nzg2MF19
+eyJoaXN0b3J5IjpbMTY3MzUzNjcxXX0=
 -->
