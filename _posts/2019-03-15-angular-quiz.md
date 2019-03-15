@@ -15,12 +15,17 @@ tags: [Angular Quiz]
     <form (ngSubmit)="onSubmit(thisForm)" #thisForm>
 	   ...
 	</form>
-	
     ```
+
+	```
+	onSubmit() {
+	  console.log(this.form);
+	  }
+	```
 
  - [ ] ...
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMzI3MzI2NV19
+eyJoaXN0b3J5IjpbMTg0MDc5Nzg2MF19
 -->
