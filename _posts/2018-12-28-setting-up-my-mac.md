@@ -33,7 +33,7 @@ tags: [mac,macbook,chrome,setup]
 	    ```
 
     > Hold the ‘Option/alt’ key, then right click on the Finder icon in the dock and click Relaunch.
-    * Credit for this solution goes to [OSXDaily](http://osxdaily.com/2015/05/09/disable-swipe-navigation-google-chrome-mac/)
+    * Credit for this solution goes to [Ian Lunn](https://ianlunn.co.uk/articles/quickly-showhide-hidden-files-mac-os-x-mavericks/)
 4. Setup `nvm` instead of installing node directly
 	  * Out of all the methods listed [here](https://blog.theodo.fr/2016/01/speed-up-npm-install-with-a-nexus-proxy-to-cache-packages/), I preferred the one that uses `npm-cache`:
 		```bash
@@ -115,7 +115,7 @@ tags: [mac,macbook,chrome,setup]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDE1OTgzMTMsLTY3MzUyNjk2Miw1NT
-c4MzQxNzAsLTEwODQzMDQwODQsLTEwMDIzMzQ4LC03NTgxNzky
-NCw0MjA5ODQwNTldfQ==
+eyJoaXN0b3J5IjpbLTM3MDg2Njc0MCwtNjczNTI2OTYyLDU1Nz
+gzNDE3MCwtMTA4NDMwNDA4NCwtMTAwMjMzNDgsLTc1ODE3OTI0
+LDQyMDk4NDA1OV19
 -->
