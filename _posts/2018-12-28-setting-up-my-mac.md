@@ -27,8 +27,11 @@ tags: [mac,macbook,chrome,setup]
 		defaults write com.google.Chrome.plist AppleEnableSwipeNavigateWithScrolls -bool FALSE
 		```
 	* Credit for this solution goes to [OSXDaily](http://osxdaily.com/2015/05/09/disable-swipe-navigation-google-chrome-mac/)
-1. Show hidden fiels 
-1. Setup `nvm` instead of installing node directly
+3. Show hidden files in Finder:
+	    ```
+	    defaults write com.apple.**finder**AppleShowAllFiles YES
+	    ```
+5. Setup `nvm` instead of installing node directly
 	  * Out of all the methods listed [here](https://blog.theodo.fr/2016/01/speed-up-npm-install-with-a-nexus-proxy-to-cache-packages/), I preferred the one that uses `npm-cache`:
 		```bash
 		$ nvm use 9
@@ -77,7 +80,7 @@ tags: [mac,macbook,chrome,setup]
 				  --cacheDirectory ~/.nvm/versions/node/`nvm current`/.package_cache
 				``` 
 			* It did **NOT** work, filed an issue [here](https://github.com/swarajban/npm-cache/issues/107)
-1. *more to come*
+6. *more to come*
 
 ## Open Questions
 
@@ -109,7 +112,7 @@ tags: [mac,macbook,chrome,setup]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQwMDkxMjkxLC02NzM1MjY5NjIsNTU3OD
-M0MTcwLC0xMDg0MzA0MDg0LC0xMDAyMzM0OCwtNzU4MTc5MjQs
-NDIwOTg0MDU5XX0=
+eyJoaXN0b3J5IjpbLTYzMTU5NDI1MSwtNjczNTI2OTYyLDU1Nz
+gzNDE3MCwtMTA4NDMwNDA4NCwtMTAwMjMzNDgsLTc1ODE3OTI0
+LDQyMDk4NDA1OV19
 -->
