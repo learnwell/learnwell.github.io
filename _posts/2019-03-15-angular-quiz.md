@@ -37,7 +37,7 @@ tags: [Angular Quiz]
 	  // do stuff with this.formLocalRef
 	}
 	```
-  - [ x ] Option **C**
+  - [x] Option **C**
 	   ```
     <!-- .html -->
     <form (ngSubmit)="onSubmit()" #formLocalRef="ngForm">
@@ -55,5 +55,5 @@ tags: [Angular Quiz]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NTgxODMzOF19
+eyJoaXN0b3J5IjpbMTM0NDUxMTk1NF19
 -->
