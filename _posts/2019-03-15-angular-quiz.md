@@ -10,9 +10,17 @@ tags: [Angular Quiz]
 
 ### Which of the following is the correct way to utilize Angular Form's template-driven approach?
 
- - [ ] <form (ngSubmit)="onSubmit(thisForm)" #thisForm>
+  - [ ] This one?
+
+   ```
+  <form (ngSubmit)="onSubmit(thisForm)" #thisForm>
+   ...
+   </form>
+   ```
+
+ - [ ] ...
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MTkxNjE2OF19
+eyJoaXN0b3J5IjpbNjg2NzY3NTMxXX0=
 -->
