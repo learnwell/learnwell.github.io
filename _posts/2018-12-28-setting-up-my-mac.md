@@ -27,7 +27,7 @@ tags: [mac,macbook,chrome,setup]
 		defaults write com.google.Chrome.plist AppleEnableSwipeNavigateWithScrolls -bool FALSE
 		```
 	* Credit for this solution goes to [OSXDaily](http://osxdaily.com/2015/05/09/disable-swipe-navigation-google-chrome-mac/)
-3. Show hidden files in Finder:
+3. Show hidden files in Finder (macos, mojave, 10.X):
 	    ```
 	    defaults write com.apple.**finder**AppleShowAllFiles YES
 	    ```
@@ -115,7 +115,7 @@ tags: [mac,macbook,chrome,setup]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MDg2Njc0MCwtNjczNTI2OTYyLDU1Nz
+eyJoaXN0b3J5IjpbMTE0NzY1NzI1NSwtNjczNTI2OTYyLDU1Nz
 gzNDE3MCwtMTA4NDMwNDA4NCwtMTAwMjMzNDgsLTc1ODE3OTI0
 LDQyMDk4NDA1OV19
 -->
