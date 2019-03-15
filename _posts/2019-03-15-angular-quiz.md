@@ -10,7 +10,7 @@ tags: [Angular Quiz]
 
 ### Which of the following is the correct way to utilize Angular Form's template-driven approach?
 
-  - [ ] This one?
+  - [ ] Option **A**
 	   ```
     <!-- .html -->
     <form (ngSubmit)="onSubmit(thisForm)" #thisForm>
@@ -18,13 +18,40 @@ tags: [Angular Quiz]
 	</form>
 	```
 	```
-	// component.ts
+	// .component.ts
 	onSubmit(thisForm: HTMLFormElement) {
 	  // do stuff
 	}
- - [ ] ...
+	```
+  - [ ] Option **B**
+	   ```
+    <!-- .html -->
+    <form (ngSubmit)="onSubmit(thisForm)" #thisForm>
+	   ...
+	</form>
+	```
+	```
+	// .component.ts
+	onSubmit(thisForm: HTMLFormElement) {
+	  // do stuff
+	}
+	```
+  - [ ] Option **A**
+	   ```
+    <!-- .html -->
+    <form (ngSubmit)="onSubmit(thisForm)" #thisForm>
+	   ...
+	</form>
+	```
+	```
+	// .component.ts
+	onSubmit(thisForm: HTMLFormElement) {
+	  // do stuff
+	}
+	```
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MzUzNjcxXX0=
+eyJoaXN0b3J5IjpbLTE0MTU4MTk3MTJdfQ==
 -->
