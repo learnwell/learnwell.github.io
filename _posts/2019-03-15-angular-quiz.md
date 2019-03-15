@@ -20,39 +20,40 @@ tags: [Angular Quiz]
 	```
 	// .component.ts
 	onSubmit(formLocalRef: HTMLFormElement) {
-	  // do stuff with thisForm
+	  // do stuff with formLocalRef
 	}
 	```
   - [ ] Option **B**
 	   ```
     <!-- .html -->
-    <form (ngSubmit)="onSubmit()" #thisForm>
+    <form (ngSubmit)="onSubmit()" #formLocalRef>
 	   ...
 	</form>
 	```
 	```
 	// .component.ts
-	@ViewChild('formByLocalRef') form: HTMLFormElement;
+	@ViewChild('formLocalRef') form: HTMLFormElement;
 	onSubmit() {
-	  // do stuff with this.thisForm
+	  // do stuff with this.formLocalRef
 	}
 	```
-  - [ ] Option **C**
+  - [ x ] Option **C**
 	   ```
     <!-- .html -->
-    <form (ngSubmit)="onSubmit()" #thisForm="ngForm">
+    <form (ngSubmit)="onSubmit()" #formLocalRef="ngForm">
 	   ...
 	</form>
 	```
 	```
 	// .component.ts
-	onSubmit(thisForm: HTMLFormElement) {
-	  // do stuff
+	@ViewChild('formLocalRef') form: NgForm;
+	onSubmit() {
+	  // do stuff with formLocalRef
 	}
 	```
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NzA1Mjk2XX0=
+eyJoaXN0b3J5IjpbMTE4NTgxODMzOF19
 -->
