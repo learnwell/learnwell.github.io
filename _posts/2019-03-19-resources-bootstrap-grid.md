@@ -18,8 +18,9 @@ There aren't any online courses that provides a straightforward path for learnin
 
 1. [1 min] In plain CSS terms, `display` property is where it all starts, `dispaly:flex` and `display:grid` are two mutually exclusive approaches to layouts.
 	* Take a minute to think about that and google around if you need to adsorb this simple statement.
-2. [Introduction to the CSS Flexbox Challenges]()
-	* If yo utake a small amount of time to know whta
+2. [Introduction to the CSS Flexbox Challenges](https://learn.freecodecamp.org/responsive-web-design/css-flexbox/)
+	* If you take a <u>small</u> amount of time to know what `flex` is now, then you won't suffer later when there can be massive grief by mixing the properties from the two due to ignorance.
+	* You'll also be able to spot other people's mistakes more easily.
 3. [10 mins] `fr` is the fundamental unit of a `grid` system. You should know how to use it: https://alligator.io/css/css-grid-layout-fr-unit/
 	* We haven't jumped into bootstrap yet. This is plain CSS we are looking at.
 4. [Introduction to the CSS Grid Challenges]
@@ -38,6 +39,6 @@ There aren't any online courses that provides a straightforward path for learnin
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMDYzNTM2NCwtMjI2MDg5MjA2LC00MD
-YzMTA1MDddfQ==
+eyJoaXN0b3J5IjpbLTE5MDQ0MzQ3MzYsLTIyNjA4OTIwNiwtND
+A2MzEwNTA3XX0=
 -->
