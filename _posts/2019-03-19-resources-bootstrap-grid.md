@@ -14,9 +14,10 @@ There aren't any online courses that provides a straightforward path for learnin
 
 ## Roadmap
 
-1. Know the basics: https://alligator.io/css/css-grid-layout-fr-unit/
+1. In plain CSS terms, `display` property is where it all starts, `dispaly:flex` and `display:grid` are two mutually exclusive approaches to layouts.
+2. `f`Know the basics: https://alligator.io/css/css-grid-layout-fr-unit/
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNzIxNjk0NV19
+eyJoaXN0b3J5IjpbMTYwOTY2NjE0MF19
 -->
