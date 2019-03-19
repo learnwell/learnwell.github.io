@@ -9,9 +9,14 @@ tags: [Angular Quiz]
 ---
 
 ## Motivation 
-There aren't any online courses or material online that provides a straightforward path for learning bootstrap grid. This is my attempt at putting the w
+
+There aren't any online courses that provides a straightforward path for learning bootstrap grid. This is my attempt at putting the web's resources in a `roadmap` like order, which I would feel confident using and recommending to others.
+
+## Roadmap
+
+1. Know the basics: https://alligator.io/css/css-grid-layout-fr-unit/
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMDg3NzI3OF19
+eyJoaXN0b3J5IjpbMjAyNzIxNjk0NV19
 -->
