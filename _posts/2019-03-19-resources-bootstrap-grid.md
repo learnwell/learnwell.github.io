@@ -20,7 +20,9 @@ There aren't any online courses that provides a straightforward path for learnin
 	* Take a minute to think about that and google around if you need to adsorb this simple statement.
 2. [10 mins] `fr` is the fundamental unit of a `grid` system. You should know how to use it: https://alligator.io/css/css-grid-layout-fr-unit/
 	* We haven't jumped into bootstrap yet. This is plain CSS we are looking at.
-3. Get acclimated with some bootstrap terminology, anyone can follow this. It won't prepare you for fluency but it will make everything stop looking like greek to you. Its really the best ic
+3. [1-2 hours] [Free Code Camp's Intro to Bootstrap](https://learn.freecodecamp.org/front-end-libraries/bootstrap/)
+	* Get acclimated with some bootstrap terminology, anyone can follow this.
+	* It won't prepare you for fluency in bootstrap or its grid system but it will make everything stop looking like greek to you. Its really the best ice breaker. Just hold you nose and dive in. Its very little time investment and if you follow my roadmap, it pays off. The dots do connect, they did for me!
 4. [1 hour] [Understanding Bootstrap Grids and Columns](https://www.udemy.com/share/100p1oBEcceVpQ/)
 	* Finally ready for Bootstrap Grid!
 	* I cannot stress how quickly this FREE course helped me get over some of the simplest yet confusing questions that nobody was available to answer for me!
@@ -31,6 +33,6 @@ There aren't any online courses that provides a straightforward path for learnin
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTAxNjEwNDUsLTIyNjA4OTIwNiwtND
-A2MzEwNTA3XX0=
+eyJoaXN0b3J5IjpbMjE4NjUyODI0LC0yMjYwODkyMDYsLTQwNj
+MxMDUwN119
 -->
