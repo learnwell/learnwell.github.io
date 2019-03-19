@@ -34,11 +34,13 @@ There aren't any online courses that provides a straightforward path for learnin
 	* I cannot stress how quickly this FREE course helped me get over some of the simplest yet confusing questions that nobody was available to answer for me!
 
 ### Intermediate
+- *To be determined...*
 
 ### Advanced
+- *To be determined...*
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg0MzcxNDY0LC0yMjYwODkyMDYsLTQwNj
-MxMDUwN119
+eyJoaXN0b3J5IjpbLTQ3OTU3MjMwNiw2ODQzNzE0NjQsLTIyNj
+A4OTIwNiwtNDA2MzEwNTA3XX0=
 -->
