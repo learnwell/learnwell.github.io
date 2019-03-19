@@ -3,7 +3,7 @@
 layout: postMod1
 title: Angular Quiz - Question of the Day
 author: pulkit
-last_modified_at: March 10, 2019
+last_modified_at: March 15, 2019
 tags: [Angular Quiz]
 
 ---
@@ -55,5 +55,5 @@ tags: [Angular Quiz]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NDUxMTk1NF19
+eyJoaXN0b3J5IjpbLTE2MDQ5NTM0MjcsMTM0NDUxMTk1NF19
 -->
