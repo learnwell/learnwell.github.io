@@ -4,7 +4,7 @@ layout: postMod1
 title: Roadmap - Learning Bootstrap Grid
 author: pulkit
 last_modified_at: March 19, 2019
-tags: [Angular Quiz]
+tags: [bootstrap,grid,roadmap]
 
 ---
 
@@ -41,6 +41,6 @@ There aren't any online courses that provides a straightforward path for learnin
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3OTU3MjMwNiw2ODQzNzE0NjQsLTIyNj
+eyJoaXN0b3J5IjpbMTIxOTQ0MzMxMSw2ODQzNzE0NjQsLTIyNj
 A4OTIwNiwtNDA2MzEwNTA3XX0=
 -->
