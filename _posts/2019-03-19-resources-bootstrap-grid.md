@@ -9,9 +9,9 @@ tags: [Angular Quiz]
 ---
 
 ## Motivation 
-I did not 
+There aren't any online courses or material online that provides a straightforward path for learning bootstrap grid. This is my attempt at putting the w
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwOTMwNzg5Nl19
+eyJoaXN0b3J5IjpbLTIzMDg3NzI3OF19
 -->
