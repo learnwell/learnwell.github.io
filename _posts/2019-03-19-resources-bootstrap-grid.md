@@ -35,6 +35,7 @@ There aren't any online courses that provides a straightforward path for learnin
 	* Finally ready for Bootstrap Grid!
 	* I cannot stress how quickly this FREE course helped me get over some of the simplest yet confusing questions that nobody was available to answer for me!
 	* Follow along with the course, [like I did](https://www.bootply.com/ur39pGUpx6) via [bootply.com](https://www.bootply.com/new)
+		* If you're running out of background colors to experiment with, look [here](https://getbootstrap.com/docs/4.0/utilities/colors/#background-color).
 
 ### Intermediate
 - *To be determined...*
@@ -44,7 +45,7 @@ There aren't any online courses that provides a straightforward path for learnin
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5OTgwNzIyMywxNTA1MzAxMTM3LDEyMT
-k0NDMzMTEsNjg0MzcxNDY0LC0yMjYwODkyMDYsLTQwNjMxMDUw
-N119
+eyJoaXN0b3J5IjpbNDkwODYxNjk2LDE1MDUzMDExMzcsMTIxOT
+Q0MzMxMSw2ODQzNzE0NjQsLTIyNjA4OTIwNiwtNDA2MzEwNTA3
+XX0=
 -->
