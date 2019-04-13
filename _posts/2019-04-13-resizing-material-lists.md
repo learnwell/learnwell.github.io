@@ -8,6 +8,8 @@ tags: [angular,material,mat-list,mat-list-item,textarea,cdkTextareaAutosize]
 
 ---
 
+## Challenge
+
 How to increase `mat-list` height with an increase in textarea height?
 
 ## Usecase
@@ -24,10 +26,10 @@ Is there a way to trigger the mat-list and/or mat-list-item to update its height
 
 * I've looked into https://github.com/angular/material2/issues/8707 and that's a different question because they were talking about a textarea that started with a fixed # of rows but in my case the textarea row height can change between 1 and 6.
 
-# Answer
+## Solution
 Originally when I tried their [solution](https://github.com/angular/material2/issues/8707) of overriding default material styles … it did not work because I altered it such that the [specificity](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity) wasn’t high enough but later I understood what they were saying set the specificity correctly and then it worked!
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzODczODU3M119
+eyJoaXN0b3J5IjpbMjU0ODI3MzEwXX0=
 -->
