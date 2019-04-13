@@ -8,8 +8,6 @@ tags: [angular,material,mat-list,mat-list-item,textarea,cdkTextareaAutosize]
 
 ---
 
-## Challenge
-
 How to increase `mat-list` height with an increase in textarea height?
 
 ## Usecase
@@ -31,5 +29,5 @@ Originally when I tried their [solution](https://github.com/angular/material2/is
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMzA2ODQyMV19
+eyJoaXN0b3J5IjpbNTY2NjQ0MTcyXX0=
 -->
