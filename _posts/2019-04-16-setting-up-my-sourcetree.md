@@ -12,7 +12,7 @@ tags: [mac,macbook,sourcetree,stree,atlassian]
 
 ## References
 
-* [# SourceTree hangs on package-lock.json every single time](https://devrant.com/rants/1247252/sourcetree-fucking-hangs-on-package-lock-json-every-single-time)
+* [SourceTree hangs on package-lock.json every single time](https://devrant.com/rants/1247252/sourcetree-fucking-hangs-on-package-lock-json-every-single-time)
 
 ## Related
 
@@ -21,5 +21,5 @@ tags: [mac,macbook,sourcetree,stree,atlassian]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE4MjkzODAzXX0=
+eyJoaXN0b3J5IjpbMjAwMTIwNjA5NF19
 -->
