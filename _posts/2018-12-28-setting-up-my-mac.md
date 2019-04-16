@@ -112,9 +112,13 @@ tags: [mac,macbook,chrome,setup]
 				``` 
 			* It did **NOT** work ... filed an issue [here](https://github.com/swarajban/npm-cache/issues/107)
 
+## Related
+
+* [https://learnwell.github.io/2019/03/01/run-mysql-locally-in-docker-for-development.html](https://learnwell.github.io/2019/03/01/run-mysql-locally-in-docker-for-development.html)
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMzgxNDgxOSwtNjczNTI2OTYyLDU1Nz
-gzNDE3MCwtMTA4NDMwNDA4NCwtMTAwMjMzNDgsLTc1ODE3OTI0
-LDQyMDk4NDA1OV19
+eyJoaXN0b3J5IjpbLTEyMTEzNDE2MDUsLTYyMzgxNDgxOSwtNj
+czNTI2OTYyLDU1NzgzNDE3MCwtMTA4NDMwNDA4NCwtMTAwMjMz
+NDgsLTc1ODE3OTI0LDQyMDk4NDA1OV19
 -->
