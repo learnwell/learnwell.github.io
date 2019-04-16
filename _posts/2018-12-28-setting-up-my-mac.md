@@ -114,11 +114,11 @@ tags: [mac,macbook,chrome,setup]
 
 ## Related
 
-* [https://learnwell.github.io/2019/03/01/run-mysql-locally-in-docker-for-development.html](https://learnwell.github.io/2019/03/01/run-mysql-locally-in-docker-for-development.html)
+* [Deploy MySql in 60 seconds](https://learnwell.github.io/2019/03/01/run-mysql-locally-in-docker-for-development.html)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTEzNDE2MDUsLTYyMzgxNDgxOSwtNj
+eyJoaXN0b3J5IjpbLTE5MDA0NzYwMTMsLTYyMzgxNDgxOSwtNj
 czNTI2OTYyLDU1NzgzNDE3MCwtMTA4NDMwNDA4NCwtMTAwMjMz
 NDgsLTc1ODE3OTI0LDQyMDk4NDA1OV19
 -->
