@@ -3,7 +3,7 @@
 layout: postMod1
 title: Deploy MySql in 60 seconds 
 author: pulkit
-last_modified_at: March 1, 2019
+last_modified_at: April 16, 2019
 tags: [mysql,docker,dev,devlopment,local]
 
 ---
@@ -63,8 +63,13 @@ Credit where credit is due, I used these for reference:
 * https://www.masterzendframework.com/docker-development-environment/
 * https://github.com/search?q=mysql+ports+volume+filename%3Adocker-compose.yml
 
+## Related
+
+* [How I like to setup my Mac](https://learnwell.github.io/2018/12/28/setting-up-my-mac.html)
+* [# How I like to setup my SourceTree](https://learnwell.github.io/2019/04/16/setting-up-my-sourcetree.html)
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NDkwNDEyMywtODAzOTYxMDc3LDE0OD
-U2NjQxMDQsLTY4MzA5NjI5NV19
+eyJoaXN0b3J5IjpbLTE0MTEyNTQwOTcsLTgwMzk2MTA3NywxND
+g1NjY0MTA0LC02ODMwOTYyOTVdfQ==
 -->
