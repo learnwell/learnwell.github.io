@@ -8,11 +8,12 @@ tags: [mac,macbook,sourcetree,stree,atlassian]
 
 ---
 
-1. 
+1. To prevent sourcetree from showing the file diffs for known useless files that will cause it to hang (like `package-lock.json`): Go to `Preferences > Diff > Ignore File Patterns` and add the file name to the comma separat:  
+, package-lock.json
 
 ## References
 
-* [https://devrant.com/rants/1247252/sourcetree-fucking-hangs-on-package-lock-json-every-single-time](https://devrant.com/rants/1247252/sourcetree-fucking-hangs-on-package-lock-json-every-single-time)
+* [# SourceTree hangs on package-lock.json every single time](https://devrant.com/rants/1247252/sourcetree-fucking-hangs-on-package-lock-json-every-single-time)
 
 ## Related
 
@@ -21,5 +22,5 @@ tags: [mac,macbook,sourcetree,stree,atlassian]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjMxMzMyNDddfQ==
+eyJoaXN0b3J5IjpbLTEwODY2MjkwMzBdfQ==
 -->
