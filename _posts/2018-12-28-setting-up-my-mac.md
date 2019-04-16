@@ -115,10 +115,11 @@ tags: [mac,macbook,chrome,setup]
 ## Related
 
 * [Deploy MySql in 60 seconds](https://learnwell.github.io/2019/03/01/run-mysql-locally-in-docker-for-development.html)
+* [# How I like to setup my SourceTree](https://learnwell.github.io/2019/04/16/setting-up-my-sourcetree.html)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDA0NzYwMTMsLTYyMzgxNDgxOSwtNj
-czNTI2OTYyLDU1NzgzNDE3MCwtMTA4NDMwNDA4NCwtMTAwMjMz
-NDgsLTc1ODE3OTI0LDQyMDk4NDA1OV19
+eyJoaXN0b3J5IjpbLTk3MjIwNjM5NywtNjIzODE0ODE5LC02Nz
+M1MjY5NjIsNTU3ODM0MTcwLC0xMDg0MzA0MDg0LC0xMDAyMzM0
+OCwtNzU4MTc5MjQsNDIwOTg0MDU5XX0=
 -->
