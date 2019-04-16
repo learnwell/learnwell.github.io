@@ -8,8 +8,7 @@ tags: [mac,macbook,sourcetree,stree,atlassian]
 
 ---
 
-1. To prevent sourcetree from showing the file diffs for known useless files that will cause it to hang (like `package-lock.json`): Go to `Preferences > Diff > Ignore File Patterns` and add the file name to the comma separat:  
-, package-lock.json
+1. To prevent sourcetree from showing the file diffs for known useless files that will cause it to hang (like `package-lock.json`): Go to `Preferences > Diff > Ignore File Patterns` and add the filename to the comma separated list.
 
 ## References
 
@@ -22,5 +21,5 @@ tags: [mac,macbook,sourcetree,stree,atlassian]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODY2MjkwMzBdfQ==
+eyJoaXN0b3J5IjpbNzE4MjkzODAzXX0=
 -->
