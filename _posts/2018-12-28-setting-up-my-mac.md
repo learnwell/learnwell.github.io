@@ -3,7 +3,7 @@
 layout: postMod1
 title: How I like to setup my Mac
 author: pulkit
-last_modified_at: April 16, 2019
+last_modified_at: April 20, 2019
 tags: [mac,macbook,chrome,setup]
 
 ---
@@ -115,11 +115,12 @@ tags: [mac,macbook,chrome,setup]
 ## Related
 
 * [Deploy MySql in 60 seconds](https://learnwell.github.io/2019/03/01/run-mysql-locally-in-docker-for-development.html)
-* [# How I like to setup my SourceTree](https://learnwell.github.io/2019/04/16/setting-up-my-sourcetree.html)
+* [How I like to setup my SourceTree](https://learnwell.github.io/2019/04/16/setting-up-my-sourcetree.html)
+* [How I like to setup my Visual Studio Code](https://learnwell.github.io/2019/04/20/setting-up-my-vscode.html)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkxOTIwODc0LC02MjM4MTQ4MTksLTY3Mz
-UyNjk2Miw1NTc4MzQxNzAsLTEwODQzMDQwODQsLTEwMDIzMzQ4
-LC03NTgxNzkyNCw0MjA5ODQwNTldfQ==
+eyJoaXN0b3J5IjpbNzEwMTQzMywtNjIzODE0ODE5LC02NzM1Mj
+Y5NjIsNTU3ODM0MTcwLC0xMDg0MzA0MDg0LC0xMDAyMzM0OCwt
+NzU4MTc5MjQsNDIwOTg0MDU5XX0=
 -->
