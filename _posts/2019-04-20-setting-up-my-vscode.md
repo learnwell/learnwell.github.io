@@ -88,8 +88,9 @@ tags: [mac,macbook,vscode]
 
 * [How I like to setup my Mac](https://learnwell.github.io/2018/12/28/setting-up-my-mac.html)
 * [Deploy MySql in 60 seconds](https://learnwell.github.io/2019/03/01/run-mysql-locally-in-docker-for-development.html)
+* [How I like to setup my SourceTree](https://learnwell.github.io/2019/04/16/setting-up-my-sourcetree.html)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NTEwNzY5XX0=
+eyJoaXN0b3J5IjpbNTk1NDAxMzE0XX0=
 -->
