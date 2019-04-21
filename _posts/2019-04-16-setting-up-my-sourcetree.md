@@ -3,7 +3,7 @@
 layout: postMod1
 title: How I like to setup my SourceTree
 author: pulkit
-last_modified_at: April 16, 2019
+last_modified_at: April 20, 2019
 tags: [mac,macbook,sourcetree,stree,atlassian]
 
 ---
@@ -22,5 +22,5 @@ tags: [mac,macbook,sourcetree,stree,atlassian]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkxMjM3NTQ3XX0=
+eyJoaXN0b3J5IjpbLTE3NzU0NDU5MDJdfQ==
 -->
