@@ -18,8 +18,9 @@ tags: [mac,macbook,sourcetree,stree,atlassian]
 
 * [How I like to setup my Mac](https://learnwell.github.io/2018/12/28/setting-up-my-mac.html)
 * [Deploy MySql in 60 seconds](https://learnwell.github.io/2019/03/01/run-mysql-locally-in-docker-for-development.html)
+* [How I like to setup my Visual Studio Code]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMTIwNjA5NF19
+eyJoaXN0b3J5IjpbMTcxNTI5Mzk5OV19
 -->
