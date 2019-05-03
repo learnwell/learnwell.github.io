@@ -66,10 +66,12 @@ Here is a list of gotchas:
 	* You can view CodeCraft [episode 13.13](https://codecraft.tv/courses/angular/unit-testing/routing/) to watch this done the right way.
 * Complaints about `zone` or `injector`
 	```
+	# can't find the zone dependency
     Failed: Zone is needed for the async() test helper
               but could not be found. Please make sure
               that your environment includes
               zone.js/dist/zone.js
+    # testbed hasn't been initializazed
     Failed: Cannot read property 'injector' of null
 	```
     Usually all of this is available in `src/test.ts` and used by `ng test` automatically ... but is you use `protractor` as the entrypoint, then you must incorporate workarounds into `e2e/protractor.conf.js` file's `onPrepare()` method somehow.
@@ -82,6 +84,6 @@ Here is a list of gotchas:
 > Written with  [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2ODM2MzY4MCwtMTc3ODgzOTM3MCwtOT
+eyJoaXN0b3J5IjpbMTY3OTQzNzc3NywtMTc3ODgzOTM3MCwtOT
 M5MDAyODM2LC03MTA4ODc2NTgsLTE2NDk4NjQ3MV19
 -->
