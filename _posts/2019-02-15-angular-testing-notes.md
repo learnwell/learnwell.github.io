@@ -72,12 +72,16 @@ Here is a list of gotchas:
               zone.js/dist/zone.js
     - Failed: Cannot read property 'injector' of null
     ```
-    Usually all of this is available in `src/test.ts` and used by `ng test` automatically ... but is you use `protractor` as the entrypoint, then you must incorporate shims into my `e2e/protractor.conf.js` file's `onPrepare()` method somehow.
+    Usually all of this is available in `src/test.ts` and used by `ng test` automatically ... but is you use `protractor` as the entrypoint, then you must incorporate workarounds into `e2e/protractor.conf.js` file's `onPrepare()` method somehow.
+    * Relevant Stack Overflow posts
+	    * https://stackoverflow.com/questions/40699593/cannot-read-property-injector-of-null-jasmine-angular-2#answer-40699740
+		    * https://github.com/angular/quickstart/blob/master/karma-test-shim.js#L75
+	    * https://github.com/angular/quickstart/blob/master/karma-test-shim.js#L75
 * *TBD...*
 
 > Written with  [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk5NTE3ODYyLC03MTA4ODc2NTgsLTE2ND
-k4NjQ3MV19
+eyJoaXN0b3J5IjpbLTkzOTAwMjgzNiwtNzEwODg3NjU4LC0xNj
+Q5ODY0NzFdfQ==
 -->
