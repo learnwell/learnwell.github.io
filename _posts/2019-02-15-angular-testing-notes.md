@@ -13,7 +13,7 @@ But even after absorbing all that goodness, I still found it difficult to add te
 
 Here is a list of gotchas:
 
-* `ng-test` will fail due to missing dependencies after you create a `spec` using tools that generate it for any existing component. Known tools: [angular-spec-generator](https://www.npmjs.com/package/angular-spec-generator) and [ngx-spec](https://github.com/smnbbrv/ngx-spec)
+* `ng test` will fail due to missing dependencies after you create a `spec` using tools that generate it for any existing component. Known tools: [angular-spec-generator](https://www.npmjs.com/package/angular-spec-generator) and [ngx-spec](https://github.com/smnbbrv/ngx-spec)
 * Complaints about `ngModels`? That comes from `FormsModule` so if the component being tested uses that then you inject it via `imports: [FormsModule]`
 * If you see complaints about missing `HttpClient` and/or `HttpHandler`, instead of configuring the `providers`:
 	```
@@ -64,10 +64,11 @@ Here is a list of gotchas:
 	* Don't use the combination of`imports:[RouterModule]` and `providers:[Router]`
 	* Use `imports:[RouterTestingModule.withRoutes(routes)]`
 	* You can view CodeCraft [episode 13.13](https://codecraft.tv/courses/angular/unit-testing/routing/) to watch this done the right way.
+* C
 * *TBD...*
 
 > Written with  [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDk4NjQ3MV19
+eyJoaXN0b3J5IjpbMjAzOTM3NzE5MSwtMTY0OTg2NDcxXX0=
 -->
