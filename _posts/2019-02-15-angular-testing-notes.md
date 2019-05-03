@@ -65,13 +65,13 @@ Here is a list of gotchas:
 	* Use `imports:[RouterTestingModule.withRoutes(routes)]`
 	* You can view CodeCraft [episode 13.13](https://codecraft.tv/courses/angular/unit-testing/routing/) to watch this done the right way.
 * Complaints about `zone` or `injector`
-    ```
+	```
     - Failed: Zone is needed for the async() test helper
               but could not be found. Please make sure
               that your environment includes
               zone.js/dist/zone.js
     - Failed: Cannot read property 'injector' of null
-    ```
+	```
     Usually all of this is available in `src/test.ts` and used by `ng test` automatically ... but is you use `protractor` as the entrypoint, then you must incorporate workarounds into `e2e/protractor.conf.js` file's `onPrepare()` method somehow.
     * Relevant Stack Overflow posts
 	    * https://stackoverflow.com/questions/40699593/cannot-read-property-injector-of-null-jasmine-angular-2#answer-40699740
@@ -82,6 +82,6 @@ Here is a list of gotchas:
 > Written with  [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Nzg4MzkzNzAsLTkzOTAwMjgzNiwtNz
-EwODg3NjU4LC0xNjQ5ODY0NzFdfQ==
+eyJoaXN0b3J5IjpbMjAyNzA0NDgwNiwtMTc3ODgzOTM3MCwtOT
+M5MDAyODM2LC03MTA4ODc2NTgsLTE2NDk4NjQ3MV19
 -->
