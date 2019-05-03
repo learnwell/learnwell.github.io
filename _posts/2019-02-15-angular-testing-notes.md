@@ -64,17 +64,20 @@ Here is a list of gotchas:
 	* Don't use the combination of`imports:[RouterModule]` and `providers:[Router]`
 	* Use `imports:[RouterTestingModule.withRoutes(routes)]`
 	* You can view CodeCraft [episode 13.13](https://codecraft.tv/courses/angular/unit-testing/routing/) to watch this done the right way.
-* Complaints about `zone`
+* Complaints about `zone` or `injector`
     ```
     - Failed: Zone is needed for the async() test helper
               but could not be found. Please make sure
               that your environment includes
               zone.js/dist/zone.js
+    - Failed: Cannot read property 'injector' of null
     ```
+    Usually all of this is available in `src/test.ts` and used by `ng test` automatically ... but is you use `protractor` as the entrypoint, then you must incorporate shims into my `e2e/protractor.conf.js` file's `onPrepare()` method somehow.
 * *TBD...*
 
 > Written with  [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMDg4NzY1OCwtMTY0OTg2NDcxXX0=
+eyJoaXN0b3J5IjpbMzk5NTE3ODYyLC03MTA4ODc2NTgsLTE2ND
+k4NjQ3MV19
 -->
