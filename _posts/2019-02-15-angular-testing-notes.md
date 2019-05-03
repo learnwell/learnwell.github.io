@@ -64,11 +64,17 @@ Here is a list of gotchas:
 	* Don't use the combination of`imports:[RouterModule]` and `providers:[Router]`
 	* Use `imports:[RouterTestingModule.withRoutes(routes)]`
 	* You can view CodeCraft [episode 13.13](https://codecraft.tv/courses/angular/unit-testing/routing/) to watch this done the right way.
-* C
+* Complaints about `zone`
+    ```
+    - Failed: Zone is needed for the async() test helper
+              but could not be found. Please make sure
+              that your environment includes
+              zone.js/dist/zone.js
+    ```
 * *TBD...*
 
 > Written with  [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzOTM3NzE5MSwtMTY0OTg2NDcxXX0=
+eyJoaXN0b3J5IjpbLTcxMDg4NzY1OCwtMTY0OTg2NDcxXX0=
 -->
