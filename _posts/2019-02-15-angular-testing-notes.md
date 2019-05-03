@@ -2,7 +2,7 @@
 
 layout: postMod1
 title: Notes from Angular7 Component Testing
-last_modified_at: February 15, 2018
+last_modified_at: May 03, 2018
 tags: [angular, angular7]  
 
 --- 
@@ -82,6 +82,6 @@ Here is a list of gotchas:
 > Written with  [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzOTAwMjgzNiwtNzEwODg3NjU4LC0xNj
-Q5ODY0NzFdfQ==
+eyJoaXN0b3J5IjpbLTE3Nzg4MzkzNzAsLTkzOTAwMjgzNiwtNz
+EwODg3NjU4LC0xNjQ5ODY0NzFdfQ==
 -->
