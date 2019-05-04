@@ -8,7 +8,10 @@ tags: [unit,test,angular]
 
 ---
 
-## Too Long, Didn't Read.
+## Problem Statement
+Component testing has to be run via `ng test` and there is no way to specify the specific test you are interested in. This means wasting time sorting out and fixing auto-geneated specs that are failing because they don't recognize your component slector
+
+## Solution
 
 1. Install
 	```
@@ -43,5 +46,5 @@ tags: [unit,test,angular]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU0MjIwNjQ2XX0=
+eyJoaXN0b3J5IjpbLTYyODY0MDYwMV19
 -->
