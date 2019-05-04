@@ -12,11 +12,10 @@ tags: [unit,test,angular]
 
 Component testing runs via `ng test` and there is no way to specify the specific test you are interested in. This means wasting time sorting out and fixing generated specs that are failing because they don't recognize your component selectors.
 
-Component tests are unit tests by nature so they can't be run via `protractor`.
+* Component tests are unit tests by nature so they can't be run via `protractor`.
+* `JEST` may be a viable alternative.
 
-`JEST` may be a viable alternative.
-
-Or you can be clever and move the code you need to test into utility classes then run mocha
+Or you can be clever and move the code, which you want to test, into utility classes. Then run mocha with support for typescript compilation!
 
 ## Solution
 
@@ -32,7 +31,7 @@ Or you can be clever and move the code you need to test into utility classes the
 	  "unit": "cross-env TS_NODE_COMPILER_OPTIONS='{ \"module\": \"commonjs\" }' mocha --require ts-node/register test/**/*.ts"
 	}
 	```
-3. Create test
+3. Create `test/test.ts`
 	```
 	import { describe } from  'mocha';
 	import  *  as  moment  from  'moment';
@@ -53,5 +52,5 @@ Or you can be clever and move the code you need to test into utility classes the
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMjg3NTA0N119
+eyJoaXN0b3J5IjpbLTI3MTg4ODU1XX0=
 -->
