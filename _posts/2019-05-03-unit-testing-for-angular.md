@@ -9,7 +9,14 @@ tags: [unit,test,angular]
 ---
 
 ## Problem Statement
-Component testing has to be run via `ng test` and there is no way to specify the specific test you are interested in. This means wasting time sorting out and fixing auto-geneated specs that are failing because they don't recognize your component slector
+
+Component testing runs via `ng test` and there is no way to specify the specific test you are interested in. This means wasting time sorting out and fixing generated specs that are failing because they don't recognize your component selectors.
+
+Component tests are unit tests by nature so they can't be run via `protractor`.
+
+`JEST` may be a viable alternative.
+
+Or you can be clever and move the code you need to test into utility classes then run mocha
 
 ## Solution
 
@@ -46,5 +53,5 @@ Component testing has to be run via `ng test` and there is no way to specify the
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyODY0MDYwMV19
+eyJoaXN0b3J5IjpbMTAyMjg3NTA0N119
 -->
