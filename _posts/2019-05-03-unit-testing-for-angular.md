@@ -8,10 +8,11 @@ tags: [mac,macbook,vscode]
 
 ---
 
-## Research
 
+## Research
+* https://journal.artfuldev.com/unit-testing-node-applications-with-typescript-using-mocha-and-chai-384ef05f32b2
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MDk1ODE5N119
+eyJoaXN0b3J5IjpbLTE3Njk5NTg3NTBdfQ==
 -->
