@@ -1,10 +1,10 @@
 ---
 
 layout: postMod1
-title: How I like to setup my Visual Studio Code
+title: Unit Testing for Angular
 author: pulkit
 last_modified_at: April 20, 2019
-tags: [mac,macbook,vscode]
+tags: [unit,test,angular]
 
 ---
 
@@ -39,9 +39,9 @@ tags: [mac,macbook,vscode]
 ---
 
 ## Research
-* https://journal.artfuldev.com/unit-testing-node-applications-with-typescript-using-mocha-and-chai-384ef05f32b2
+* [Unit testing node applications with TypeScript — using mocha and chai](https://journal.artfuldev.com/unit-testing-node-applications-with-typescript-using-mocha-and-chai-384ef05f32b2)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEwMzUwODk2XX0=
+eyJoaXN0b3J5IjpbMjU0MjIwNjQ2XX0=
 -->
