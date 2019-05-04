@@ -8,11 +8,22 @@ tags: [mac,macbook,vscode]
 
 ---
 
+## Too Long, Didn't Read.
+
+1. Install
+	``npm install --save-dev mocha chai ts-node typescript @types/chai @types/mocha`
+`package.json`
+```
+"scripts": {
+  "unit": "cross-env TS_NODE_COMPILER_OPTIONS='{ \"module\": \"commonjs\" }' mocha --require ts-node/register test/**/*.ts",
+},
+```
+---
 
 ## Research
 * https://journal.artfuldev.com/unit-testing-node-applications-with-typescript-using-mocha-and-chai-384ef05f32b2
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njk5NTg3NTBdfQ==
+eyJoaXN0b3J5IjpbLTEyNTg0MDc1NjFdfQ==
 -->
