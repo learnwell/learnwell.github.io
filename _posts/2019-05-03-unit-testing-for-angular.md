@@ -25,11 +25,16 @@ tags: [mac,macbook,vscode]
 3. Create test
 	```
 	import { describe } from  'mocha';
-	import  *  as  moment  from  'moment';import  *  as  chai  from  'chai';
-
-var  expect  =  chai.expect;
+	import  *  as  moment  from  'moment';
+	import  *  as  chai  from  'chai';
+	var  expect  =  chai.expect;
+	describe('describe-block', () => {
+	  it('it-block', () => {
+	    expect(true).to.equal(true);
+	  });
+	});
 	```
-5. 
+1. Run it: `npm run unit`
 
 ---
 
@@ -38,5 +43,5 @@ var  expect  =  chai.expect;
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODU3NTc1MDNdfQ==
+eyJoaXN0b3J5IjpbNTEwMzUwODk2XX0=
 -->
