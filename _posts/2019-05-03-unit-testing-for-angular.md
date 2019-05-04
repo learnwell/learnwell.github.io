@@ -16,11 +16,20 @@ tags: [mac,macbook,vscode]
 	  ts-node typescript \
 	  @types/chai @types/mocha
 	```
-1. Update `package.json`
+2. Update `package.json`
+	```
+	"scripts": {
+	  "unit": "cross-env TS_NODE_COMPILER_OPTIONS='{ \"module\": \"commonjs\" }' mocha --require ts-node/register test/**/*.ts"
+	}
+	```
+3. Create test
+	```
+	import { describe } from  'mocha';
+	import  *  as  moment  from  'moment';import  *  as  chai  from  'chai';
 
-"scripts": {
-  "unit": "cross-env TS_NODE_COMPILER_OPTIONS='{ \"module\": \"commonjs\" }' mocha --require ts-node/register test/**/*.ts",
-}
+var  expect  =  chai.expect;
+	```
+5. 
 
 ---
 
@@ -29,5 +38,5 @@ tags: [mac,macbook,vscode]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2Mjg4OTkxN119
+eyJoaXN0b3J5IjpbLTE5ODU3NTc1MDNdfQ==
 -->
