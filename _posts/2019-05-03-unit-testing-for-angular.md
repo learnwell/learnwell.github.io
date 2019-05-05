@@ -44,8 +44,8 @@ Or you can be clever and move the code, which you want to test, into utility cla
 	  it('it-block', () => {
 	    expect(true).to.equal(true);
 
-	    let myComp = new MyComponent();
-	    expect(myComp.sayBl).to.equal(true);
+	    let myComponent = new MyComponent();
+	    expect(myComponent.sayBlue()).to.equal('blue');
 	  });
 	});
 	```
@@ -58,5 +58,5 @@ Or you can be clever and move the code, which you want to test, into utility cla
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NzE2NzYzNCwtMjcxODg4NTVdfQ==
+eyJoaXN0b3J5IjpbLTE0ODA3MTM1OSwtMjcxODg4NTVdfQ==
 -->
