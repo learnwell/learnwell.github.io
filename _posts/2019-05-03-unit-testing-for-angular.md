@@ -55,8 +55,9 @@ Or you can be clever and move the code, which you want to test, into utility cla
 
 ## Research
 * [Unit testing node applications with TypeScript — using mocha and chai](https://journal.artfuldev.com/unit-testing-node-applications-with-typescript-using-mocha-and-chai-384ef05f32b2)
+* [Running unit tests selectively with Angular7](https://blog.oldcomputerjunk.net/2019/ng7-selective-karma/)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODA3MTM1OSwtMjcxODg4NTVdfQ==
+eyJoaXN0b3J5IjpbMTU3NjQ1NzU3NywtMjcxODg4NTVdfQ==
 -->
