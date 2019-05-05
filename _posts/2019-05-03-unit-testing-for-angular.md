@@ -33,17 +33,19 @@ Or you can be clever and move the code, which you want to test, into utility cla
 	```
 3. Create `test/test.ts`
 	```
-	import { describe } from  'mocha';
-	import  *  as  moment  from  'moment';
-	import  *  as  chai  from  'chai';
+	import { describe } from 'mocha';
+	import * as moment from 'moment';
+	import * as chai from 'chai';
 	var  expect  =  chai.expect;
 
-	import { MyComponent } from  './../src/app/my/my.component';
+	import { MyComponent } from './../src/app/my/my.component';
 
 	describe('describe-block', () => {
 	  it('it-block', () => {
 	    expect(true).to.equal(true);
-	    expect(my.component.).to.equal(true);
+
+	    let myComp = new MyComponent();
+	    expect(myComp.sayBl).to.equal(true);
 	  });
 	});
 	```
@@ -56,5 +58,5 @@ Or you can be clever and move the code, which you want to test, into utility cla
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE0NjM1OTU3LC0yNzE4ODg1NV19
+eyJoaXN0b3J5IjpbMTM5NzE2NzYzNCwtMjcxODg4NTVdfQ==
 -->
