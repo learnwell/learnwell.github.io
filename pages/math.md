@@ -36,8 +36,10 @@ $$
 ---
 
 ```latex
+k=\frac{\left(+\frac{1}{c} \frac{\Delta[\mathrm{C}])}{\Delta \mathrm{t}}\right)}{[A]^x[B]^y}
 ```
 $$
+k=\frac{\left(+\frac{1}{c} \frac{\Delta[\mathrm{C}])}{\Delta \mathrm{t}}\right)}{[A]^x[B]^y}
 $$
 
 ---
@@ -58,5 +60,5 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjg5NjU5MTJdfQ==
+eyJoaXN0b3J5IjpbMTYxMTcxMDIxOCwtMTEyODk2NTkxMl19
 -->
