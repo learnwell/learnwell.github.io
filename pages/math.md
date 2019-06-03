@@ -12,11 +12,18 @@ tags: [math, typesetting, latex, katex]
 \text{rate}_{\text{product}} = \text{rate}_{\text{reactant}} \cdot \frac{\text{coefficient of reactant}}{\text{coefficient of product}}
 ```
 $$
-\text{rate}_{\text{product}} = \text{rate}_{\text{reactant}} \cdot \frac{\text{coefficient of reactant}}{\text{coefficient of product}}
+\text{rate}_{\text{product}} = \text{rate}_{\text{reactant}} \cdot \frac{\text{coefficient of product}}{\text{coefficient of reactant}}
+$$
+
+
+
+```latex
+```
+$$
 $$
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNzQ2OTM1N119
+eyJoaXN0b3J5IjpbLTE3MTgwMTQwMjVdfQ==
 -->
