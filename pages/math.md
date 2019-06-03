@@ -3,7 +3,7 @@
 layout: page
 title: Math
 permalink: /blogging/
-last_modified_at: December 24, 2018
+last_modified_at: June 02, 2019
 tags: [math, typesetting, latex, katex]
 
 ---
@@ -58,5 +58,5 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NzA4MzE3Ml19
+eyJoaXN0b3J5IjpbLTExMjg5NjU5MTJdfQ==
 -->
