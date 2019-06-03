@@ -27,6 +27,29 @@ $$
 ---
 
 ```latex
+\mathrm{aA}+\mathrm{bB} \rightleftharpoons \mathrm{cC}+\mathrm{dD}
+```
+$$
+\mathrm{aA}+\mathrm{bB} \rightleftharpoons \mathrm{cC}+\mathrm{dD}
+$$
+
+---
+
+```latex
+```
+$$
+$$
+
+---
+
+```latex
+```
+$$
+$$
+
+---
+
+```latex
 ```
 $$
 $$
@@ -35,5 +58,5 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE1NDEwOTNdfQ==
+eyJoaXN0b3J5IjpbMjA0NzA4MzE3Ml19
 -->
