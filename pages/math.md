@@ -15,15 +15,25 @@ $$
 \text{rate}_{\text{product}} = \text{rate}_{\text{reactant}} \cdot \frac{\text{coefficient of product}}{\text{coefficient of reactant}}
 $$
 
+---
 
+```latex
+rate = - \left( \frac{\Delta O_2}{\Delta t} \right) = -+ \left( \frac{\Delta O_2}{\Delta t} \right)
+```
+$$
+rate = - \left( \frac{\Delta O_2}{\Delta t} \right) = + \left( \frac{\Delta O_2}{\Delta t} \right)
+$$
+
+---
 
 ```latex
 ```
 $$
 $$
 
+---
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTgwMTQwMjVdfQ==
+eyJoaXN0b3J5IjpbNTE1NDEwOTNdfQ==
 -->
