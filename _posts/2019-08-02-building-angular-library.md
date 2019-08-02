@@ -19,10 +19,14 @@ ng new <lib-project-name> --create-application=false
 # step 4
 cd <lib-project-name>
 
+# step 5 - flavor A
+ng g lib button -p lib
 
+# step 5 - flavor B
+ng g lib button --prefix lib
 ```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMDA3MzgxNF19
+eyJoaXN0b3J5IjpbLTYyMDYzOTE5OCwxNTAwMDczODE0XX0=
 -->
