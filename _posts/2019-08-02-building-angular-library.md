@@ -18,9 +18,11 @@ ng new <lib-project-name> --create-application=false
 
 # step 4
 cd <lib-project-name>
+
+
 ```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MDkxNzQyNl19
+eyJoaXN0b3J5IjpbMTUwMDA3MzgxNF19
 -->
