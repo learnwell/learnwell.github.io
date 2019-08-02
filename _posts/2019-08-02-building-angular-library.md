@@ -9,24 +9,30 @@ tags: [library,angular]
 ---
 
 ```
-# step 1
+# step 1 - flavor A
 ng new <lib-project-name> --create-application=false
+
+# step 1 - flavor B
+ng new <ngx-project-name> --create-application=false
 
 # step 2 - say NO to router
 
 # step 3 - select css, sass, scss, whatever you are comfortable with for styling. You may not need it at all if your library won't have any UI compnonents to it but you still need to pick something.
 
-# step 4
+# step 4 - flavor A
 cd <lib-project-name>
 
+# step 4 - flavor B
+cd <ngx-project-name>
+
 # step 5 - flavor A
-ng g lib <project-name> -p lib
+ng g lib <project-name> -p <lib>
 
 # step 5 - flavor B
-ng g library <project-name> --prefix lib
+ng generate library <project-name> --prefix <lib>
 ```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NzE1NzM2OCwxNTAwMDczODE0XX0=
+eyJoaXN0b3J5IjpbMTY2NDg2NzE0OCwxNTAwMDczODE0XX0=
 -->
