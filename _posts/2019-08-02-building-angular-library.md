@@ -32,7 +32,10 @@ ng g lib <project-name> -p <lib>
 ng generate library <project-name> --prefix <lib>
 ```
 
+## References
+* [https://blog.angularindepth.com/how-to-build-a-component-library-with-angular-and-storybook-718278ab976#0864](https://blog.angularindepth.com/how-to-build-a-component-library-with-angular-and-storybook-718278ab976#0864)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NDg2NzE0OCwxNTAwMDczODE0XX0=
+eyJoaXN0b3J5IjpbLTE4MTQwMzk1ODcsMTY2NDg2NzE0OCwxNT
+AwMDczODE0XX0=
 -->
