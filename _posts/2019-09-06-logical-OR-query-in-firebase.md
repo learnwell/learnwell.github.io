@@ -3,7 +3,7 @@
 layout: postMod1
 title: How to perform logical OR in Firebase
 author: pulkit
-last_modified_at: August 02, 2019
+last_modified_at: September 06, 2019
 tags: [OR,firebase,query,logical,nosql,data,modeling]
 
 ---
@@ -71,5 +71,5 @@ I assume some work (worker and client) would go into handling case-sensitivity a
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxODU3NTI4XX0=
+eyJoaXN0b3J5IjpbLTE3MzcxNjg5NTgsMTYxODU3NTI4XX0=
 -->
