@@ -8,9 +8,10 @@ tags: [OR,firebase,query,logical,nosql,data,modeling]
 
 ---
 
-## Starting 
+## Starting out
 This [video]( https://youtu.be/35RlydUf6xo?t=198) offers a great example of how: "In order to combine multi-tag match, the `tags` field must be a map" and we must merge results and remove duplicates on client side after running individual queries.
 
+## Client Side
 But there wasn't any example for client side code to do so, until I found a plausible suggestion on [stackoverflow](https://stackoverflow.com/questions/46632042/how-to-perform-compound-queries-with-logical-or-in-cloud-firestore#answer-48832819).
 
 > bind two Observables using the rxjs merge operator.
@@ -36,7 +37,10 @@ getCombinatedStatus(): Observable<any> {
 getCombinatedStatus.subscribe(results => console.log(results);
 ```
 
+## Server Side "niche" Workaround
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTY0NzA5MDVdfQ==
+eyJoaXN0b3J5IjpbLTU4NTU5MjI3NF19
 -->
