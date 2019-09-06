@@ -10,10 +10,12 @@ tags: [OR,firebase,query,logical,nosql,data,modeling]
 
 This [video]( https://youtu.be/35RlydUf6xo?t=198) offers a great example of how: "In order to combine multi-tag match, the `tags` field must be a map" and we must merge results and remove duplicates on client side after running individual queries.
 
-BUT there wasn't any example for client side code to do so.
-//
+But there wasn't any example for client side code to do so, until I found a plausible suggestion on [stackoverflow](https://stackoverflow.com/questions/46632042/how-to-perform-compound-queries-with-logical-or-in-cloud-firestore#answer-48832819).
+
+```
+```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MzE5NTc5OF19
+eyJoaXN0b3J5IjpbLTExMjE1MTc0NjFdfQ==
 -->
