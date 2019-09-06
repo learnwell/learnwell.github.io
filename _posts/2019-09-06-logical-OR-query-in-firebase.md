@@ -39,7 +39,7 @@ getCombinatedStatus.subscribe(results => console.log(results);
 
 ## Server Side "niche" Workaround
 
-There was [another](https://stackoverflow.com/questions/46632042/how-to-perform-compound-queries-with-logical-or-in-cloud-firestore#answer-55151765) great solution if it fits your dataset.
+There was [another](https://stackoverflow.com/questions/46632042/how-to-perform-compound-queries-with-logical-or-in-cloud-firestore#answer-55151765) great solution if it fits your dataset. Also a [blog](https://blog.oasisdigital.com/2018/querying-without-or-in-firestore/#post-2022-_adhx5di43dpw) discussing the same strategy. And a github [issue](https://github.com/firebase/firebase-js-sdk/issues/1777) on the topic.
 
 > The only possible values for ours are A,B,C,D (4) so we have to query for things like `A||B, A||C, A||B||C` etc
 
@@ -66,8 +66,10 @@ I assume some work (worker and client) would go into handling case-sensitivity a
 *  https://youtu.be/35RlydUf6xo?t=198
 * https://stackoverflow.com/questions/46632042/how-to-perform-compound-queries-with-logical-or-in-cloud-firestore#answer-48832819
 * https://stackoverflow.com/questions/46632042/how-to-perform-compound-queries-with-logical-or-in-cloud-firestore#answer-55151765
+* https://github.com/firebase/firebase-js-sdk/issues/1777
+* https://blog.oasisdigital.com/2018/querying-without-or-in-firestore/#post-2022-_adhx5di43dpw
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NDIzNTI3M119
+eyJoaXN0b3J5IjpbMTYxODU3NTI4XX0=
 -->
