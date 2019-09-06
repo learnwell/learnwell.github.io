@@ -60,6 +60,8 @@ tags: [
 
 > Then for any of those  `OR`  combinations we can just search  `array-contains`  on whatever we may want (e.g. `A||C`)
 
+I assume some work would go into handling case-sensitivity when storing always sorting alphabeticall and c
+
 ## References
 *  https://youtu.be/35RlydUf6xo?t=198
 * https://stackoverflow.com/questions/46632042/how-to-perform-compound-queries-with-logical-or-in-cloud-firestore#answer-48832819
@@ -67,5 +69,5 @@ tags: [
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0OTA1ODI2MF19
+eyJoaXN0b3J5IjpbNjUwNzQ3NDQ1XX0=
 -->
