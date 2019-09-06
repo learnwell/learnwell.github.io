@@ -72,9 +72,10 @@ How about assigning each `tag` a permanent prime number when i its created and u
 * https://stackoverflow.com/questions/46632042/how-to-perform-compound-queries-with-logical-or-in-cloud-firestore#answer-55151765
 * https://github.com/firebase/firebase-js-sdk/issues/1777
 * https://blog.oasisdigital.com/2018/querying-without-or-in-firestore/#post-2022-_adhx5di43dpw
+* https://medium.com/google-developer-experts/performing-or-queries-in-firebase-cloud-firestore-for-javascript-with-rxjs-c361671b201e
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc0ODY4MjQzLC0xNzM3MTY4OTU4LDE2MT
-g1NzUyOF19
+eyJoaXN0b3J5IjpbLTczMTE3NDk3OSwzNzQ4NjgyNDMsLTE3Mz
+cxNjg5NTgsMTYxODU3NTI4XX0=
 -->
