@@ -10,8 +10,11 @@ tags: [library,angular]
 
 ## Specific Example
 
-The steps that were used to create a UI library are documented in each respective github issue and can be found here:
-[https://github.com/learnwell/ngx-google-forms/issues/1](https://github.com/learnwell/ngx-google-forms/issues/1)
+The steps that were used to create a UI library are documented in each respective github issue for the `learnwell/ngx-google-forms` repo. 
+1. https://github.com/learnwell/ngx-google-forms/issues/1
+2. https://github.com/learnwell/ngx-google-forms/issues/2
+3. https://github.com/learnwell/ngx-google-forms/issues/3
+4. etc.
 
 ## Generic
 ```
@@ -40,8 +43,9 @@ ng generate library <project-name> --prefix <lib>
 
 ## References
 * [https://blog.angularindepth.com/how-to-build-a-component-library-with-angular-and-storybook-718278ab976#0864](https://blog.angularindepth.com/how-to-build-a-component-library-with-angular-and-storybook-718278ab976#0864)
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYxODcxMDc5LC0xODE0MDM5NTg3LDE2Nj
-Q4NjcxNDgsMTUwMDA3MzgxNF19
+eyJoaXN0b3J5IjpbLTUwMjc1MjM5OCwtMTgxNDAzOTU4NywxNj
+Y0ODY3MTQ4LDE1MDAwNzM4MTRdfQ==
 -->
