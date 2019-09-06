@@ -45,7 +45,7 @@ There was [another](https://stackoverflow.com/questions/46632042/how-to-perform-
 > So if something only qualified for conditional  `A`  of our 4 conditionals (A,B,C,D) then its array would contain the following literal strings: 
 
 ```
-[
+tags: [
   "A",
   "A||B",
   "A||C",
@@ -66,5 +66,5 @@ There was [another](https://stackoverflow.com/questions/46632042/how-to-perform-
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODQxNDYwXX0=
+eyJoaXN0b3J5IjpbLTIxNDQ1Mjk0OTFdfQ==
 -->
