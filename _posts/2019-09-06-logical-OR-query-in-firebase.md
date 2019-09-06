@@ -60,7 +60,7 @@ tags: [
 
 > Then for any of those  `OR`  combinations we can just search  `array-contains`  on whatever we may want (e.g. `A||C`)
 
-I assume some work would go into handling case-sensitivity when storing always sorting alphabeticall and c
+I assume some work (worker and client) would go into handling case-sensitivity and alphabetical sorting, both when creating, deleting, updating the tags ... and especially when querying/reading them.
 
 ## References
 *  https://youtu.be/35RlydUf6xo?t=198
@@ -69,5 +69,5 @@ I assume some work would go into handling case-sensitivity when storing always s
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUwNzQ3NDQ1XX0=
+eyJoaXN0b3J5IjpbLTg4NDIzNTI3M119
 -->
