@@ -8,6 +8,12 @@ tags: [library,angular]
 
 ---
 
+## Specific Example
+
+The steps that were used to create a UI library are documented in each respective github issue and can be found here:
+[https://github.com/learnwell/ngx-google-forms/issues/1](https://github.com/learnwell/ngx-google-forms/issues/1)
+
+## Generic
 ```
 # step 1 - flavor A
 ng new <lib-project-name> --create-application=false
@@ -36,6 +42,6 @@ ng generate library <project-name> --prefix <lib>
 * [https://blog.angularindepth.com/how-to-build-a-component-library-with-angular-and-storybook-718278ab976#0864](https://blog.angularindepth.com/how-to-build-a-component-library-with-angular-and-storybook-718278ab976#0864)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTQwMzk1ODcsMTY2NDg2NzE0OCwxNT
-AwMDczODE0XX0=
+eyJoaXN0b3J5IjpbMzYxODcxMDc5LC0xODE0MDM5NTg3LDE2Nj
+Q4NjcxNDgsMTUwMDA3MzgxNF19
 -->
