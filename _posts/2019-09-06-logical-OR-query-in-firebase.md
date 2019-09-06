@@ -62,6 +62,10 @@ tags: [
 
 I assume some work (worker and client) would go into handling case-sensitivity and alphabetical sorting, both when creating, deleting, updating the tags ... and especially when querying/reading them.
 
+## Brainstorming
+
+How about assigning each `tag` a permanent prime number when i its created and using product of two or mo as the combination being placed in `tags[]` or `tags{}`?
+
 ## References
 *  https://youtu.be/35RlydUf6xo?t=198
 * https://stackoverflow.com/questions/46632042/how-to-perform-compound-queries-with-logical-or-in-cloud-firestore#answer-48832819
@@ -71,5 +75,6 @@ I assume some work (worker and client) would go into handling case-sensitivity a
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzcxNjg5NTgsMTYxODU3NTI4XX0=
+eyJoaXN0b3J5IjpbODk5NDQ3MDQxLC0xNzM3MTY4OTU4LDE2MT
+g1NzUyOF19
 -->
