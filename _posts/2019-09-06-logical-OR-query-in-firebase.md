@@ -64,7 +64,7 @@ I assume some work (worker and client) would go into handling case-sensitivity a
 
 ## Brainstorming
 
-How about assigning each `tag` a permanent prime number when i its created and using product of two or mo as the combination being placed in `tags[]` or `tags{}`?
+How about assigning each `tag` a permanent prime number when i its created and using product of two or more such tags as the combination being placed inside `tags[]` or `tags{}`?
 
 ## References
 *  https://youtu.be/35RlydUf6xo?t=198
@@ -75,6 +75,6 @@ How about assigning each `tag` a permanent prime number when i its created and u
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk5NDQ3MDQxLC0xNzM3MTY4OTU4LDE2MT
+eyJoaXN0b3J5IjpbMzc0ODY4MjQzLC0xNzM3MTY4OTU4LDE2MT
 g1NzUyOF19
 -->
