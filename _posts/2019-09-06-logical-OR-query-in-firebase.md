@@ -38,9 +38,13 @@ getCombinatedStatus.subscribe(results => console.log(results);
 ```
 
 ## Server Side "niche" Workaround
+There was [another](https://stackoverflow.com/questions/46632042/how-to-perform-compound-queries-with-logical-or-in-cloud-firestore#answer-55151765) great solution if it fits your dataset.
 
+> ... luckily the only possible values for ours are A,B,C,D (4) so we have to query for things like A||B, A||C, A||B||C, D, etc
+> So if something only qualified for conditional  `A`  of our 4 conditionals (A,B,C,D) then its array would contain the following literal strings:  `@["A", "A||B", "A||C", "A||D", "A||B||C", "A||B||D", "A||C||D", "A||B||C||D"]`
 
+Then for any of those  `OR`  combinations we can just search  `array-contains`  on whatever we may want (e.g. "A||C")
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NTU5MjI3NF19
+eyJoaXN0b3J5IjpbNjc2OTkyOTMwXX0=
 -->
