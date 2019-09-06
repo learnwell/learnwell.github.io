@@ -38,6 +38,7 @@ getCombinatedStatus.subscribe(results => console.log(results);
 ```
 
 ## Server Side "niche" Workaround
+
 There was [another](https://stackoverflow.com/questions/46632042/how-to-perform-compound-queries-with-logical-or-in-cloud-firestore#answer-55151765) great solution if it fits your dataset.
 
 > The only possible values for ours are A,B,C,D (4) so we have to query for things like `A||B, A||C, A||B||C, D` etc
@@ -66,5 +67,5 @@ tags: [
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2OTA1MTQ2XX0=
+eyJoaXN0b3J5IjpbMTMxMTAxNDI4XX0=
 -->
