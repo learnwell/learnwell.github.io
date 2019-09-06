@@ -14,7 +14,7 @@ This [video]( https://youtu.be/35RlydUf6xo?t=198) offers a great example of how:
 ## Client Side
 But there wasn't any example for client side code to do so, until I found a plausible suggestion on [stackoverflow](https://stackoverflow.com/questions/46632042/how-to-perform-compound-queries-with-logical-or-in-cloud-firestore#answer-48832819).
 
-> bind two Observables using the rxjs merge operator.
+> Bind two Observables using the rxjs merge operator
 
 ```
 import { Observable } from 'rxjs/Observable';
@@ -53,5 +53,5 @@ There was [another](https://stackoverflow.com/questions/46632042/how-to-perform-
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwOTkyMjgxOF19
+eyJoaXN0b3J5IjpbLTE3MDUwNjk0MDBdfQ==
 -->
