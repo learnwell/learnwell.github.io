@@ -2,7 +2,7 @@
 
 layout: page
 title: Math
-permalink: /blogging/
+permalink: /math/
 last_modified_at: June 02, 2019
 tags: [math, typesetting, latex, katex]
 
@@ -60,5 +60,6 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMTcxMDIxOCwtMTEyODk2NTkxMl19
+eyJoaXN0b3J5IjpbLTY3OTMzOTA1MSwxNjExNzEwMjE4LC0xMT
+I4OTY1OTEyXX0=
 -->
