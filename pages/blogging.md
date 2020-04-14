@@ -41,10 +41,13 @@ tags: [blog, blogs, blogging, tip, tips, trick, tricks]
 	```
 * [List](https://pages.github.com/versions/) of supported `jekyll plugins` for `github pages`
 * Relative links or [linking to posts](https://jekyllrb.com/docs/liquid/tags/#linking-to-posts).
+* Open links in new tab
+	* `[link](url){:target="_blank"}`
+	* will work when using `kramdown`
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNjgzMTgwNSwtNzQzNTIzMTc2LDMxOD
-gxMTI0NiwxNzUwMzM3NjgwLDE4NTg1OTQ5NjEsLTE5Njc1NDQ3
-ODFdfQ==
+eyJoaXN0b3J5IjpbLTk3MzA1MjMxMywxMzM2ODMxODA1LC03ND
+M1MjMxNzYsMzE4ODExMjQ2LDE3NTAzMzc2ODAsMTg1ODU5NDk2
+MSwtMTk2NzU0NDc4MV19
 -->
