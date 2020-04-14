@@ -10,9 +10,10 @@ tags: [versus,compare,comparison,pocket,getpocket,polar,getpolarized]
 
 ## Pocket versus Polar
 
-I've used Pocket (aka getpocket) since 
+I've used Pocket (aka `getpocket`) since before I can remember!
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjEyMTkwODJdfQ==
+eyJoaXN0b3J5IjpbLTE1MDczMTgyMzgsLTEwMjEyMTkwODJdfQ
+==
 -->
