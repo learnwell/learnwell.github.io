@@ -33,6 +33,7 @@ tags: [blog, blogs, blogging, tip, tips, trick, tricks]
 * Escape Liquid template tags in Jekyll posts
 	* [Article](https://sarathlal.com/escape-liquid-tag-in-jekyll-posts/)
 * Add `Table of Contents` to Jekyll posts
+* [List](https://pages.github.com/versions/) of supported `jekyll plugins` for `github pages`
 	```
 	{% raw %}
 	* TOC
@@ -42,5 +43,6 @@ tags: [blog, blogs, blogging, tip, tips, trick, tricks]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1ODU5NDk2MSwtMTk2NzU0NDc4MV19
+eyJoaXN0b3J5IjpbMTY1MDkxOTYyMCwxODU4NTk0OTYxLC0xOT
+Y3NTQ0NzgxXX0=
 -->
