@@ -8,10 +8,11 @@ tags: [IR,ochem,infrared,spectra,graph,organic,chemistry]
 
 ---
 
-* 2020-04-14: After discovering `jekyll-crosspost-to-medium` I needed to find a quick way to ensure that  check if the ``
+* 2020-04-14: After discovering `jekyll-crosspost-to-medium` I needed to find a quick way to ensure that there was a reasonable way to use it with the `type-on-strap` template that I host on `github pages` ... so i just combined the fact that `_config.yml` file should have this mentioned as aplugin and went looking on github for anyone who had possible doen this in  public repo
+    * ``
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjY0NDIxNTldfQ==
+eyJoaXN0b3J5IjpbLTE2Nzk1OTAzMjddfQ==
 -->
