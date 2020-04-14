@@ -12,9 +12,11 @@ tags: [versus,compare,comparison,pocket,getpocket,polar,getpolarized]
 
 I've used [Pocket](https://getpocket.com) (aka `getpocket`) since before I can remember! Its simple integration with devices like iPhone very early on like iPhone) made it my choice for bookmarking valuable articles that I was worried about forgetting or valuable blogs whose content might disappear from the web alltogether!
 
-Yet today I've found [Polar]([https://getpolarized.io/](https://getpolarized.io/docs/anki-sync-for-spaced-repetition.html)) (aka getpolarized) which has the potential so be the next iteration private learning, retention and all around excellence. It even has a plugin to anki!
+Yet today I've found [Polar]([https://getpolarized.io/](https://getpolarized.io/docs/anki-sync-for-spaced-repetition.html)) (aka getpolarized) which has the potential so be the next iteration private learning, retention and all around excellence. It even has a [plugin](https://ankiweb.net/shared/info/734898866) to [anki](https://apps.ankiweb.net/)!
+
+The darnedest thing is the naming for both these products requ
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ1NDkwMTMyLC0xMDIxMjE5MDgyXX0=
+eyJoaXN0b3J5IjpbNTI3NTcxMjM2LC0xMDIxMjE5MDgyXX0=
 -->
