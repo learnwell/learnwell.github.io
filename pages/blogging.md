@@ -40,10 +40,10 @@ tags: [blog, blogs, blogging, tip, tips, trick, tricks]
 	{% endraw %}
 	```
 * [List](https://pages.github.com/versions/) of supported `jekyll plugins` for `github pages`
-* Relative links
+* Relative links or [linking to posts](https://jekyllrb.com/docs/liquid/tags/#linking-to-posts).
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTU4MzcwNzYsMTc1MDMzNzY4MCwxOD
-U4NTk0OTYxLC0xOTY3NTQ0NzgxXX0=
+eyJoaXN0b3J5IjpbMTcwNjIwMDA4MCwxNzUwMzM3NjgwLDE4NT
+g1OTQ5NjEsLTE5Njc1NDQ3ODFdfQ==
 -->
