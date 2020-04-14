@@ -16,7 +16,13 @@ Yet today I've found [Polar]([https://getpolarized.io/](https://getpolarized.io/
 
 The darnedest thing is that both these products had to use alternative names for their websites and even those are ripe for a direct comparison - `getpocket` vs `getpolarized`. Given that these technologies address the same way of personal productivity and competence ... its just too much of a coincidence for me!
 
+## Wishful Thinking
+
+I wonder if there is a workflow to bring over my history from pocket into polar.
+
+Or maybe for the pocket folks to start incorporating the open source features of polar into their own platform 🤷🏾‍♂️
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ1Mjk5OTEyLC0xMDIxMjE5MDgyXX0=
+eyJoaXN0b3J5IjpbMzk5NDU0OTUwLC0xMDIxMjE5MDgyXX0=
 -->
