@@ -14,9 +14,10 @@ I've used [Pocket](https://getpocket.com) (aka `getpocket`) since before I can r
 
 Yet today I've found [Polar]([https://getpolarized.io/](https://getpolarized.io/docs/anki-sync-for-spaced-repetition.html)) (aka getpolarized) which has the potential so be the next iteration private learning, retention and all around excellence. It even has a [plugin](https://ankiweb.net/shared/info/734898866) to [anki](https://apps.ankiweb.net/)!
 
-The darnedest thing is that the naming for both these products required them to use alternative names for their websites and even those are ripe for a direct comparison - `getpocket` vs `getpolarized` - given that these technologies address the same way of personal productivity and competence!
+The darnedest thing is that both these products had to use alternative names for their websites and even those are ripe for a direct comparison - `getpocket` vs `getpolarized`. Given that these technologies address the same way of personal productivity and competence ... its just too much of a coincidence for me!
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NzcyMjA4OSwtMTAyMTIxOTA4Ml19
+eyJoaXN0b3J5IjpbLTE1ODI5ODcyNzIsLTEwMjEyMTkwODJdfQ
+==
 -->
