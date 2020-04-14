@@ -19,7 +19,7 @@ tags: [blog, blogs, blogging, tip, tips, trick, tricks]
     ```
 	<img src="https://github.com/learnwell/learnwell.github.io/raw/master/assets/img/input-focus-within-modal.gif" width="350"/>
 	```
-* Use [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap#usage) as a starter template for creating a *Jekyll* and *GitHub Pages* [based blog]({%using-stackedit-with-jekyll-and-github-pages%}).
+* Use [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap#usage) as a starter template for creating a *Jekyll* and *GitHub Pages* [based blog]({% post_url using-stackedit-with-jekyll-and-github-pages %}).
 * Emojis in Jekyll posts
 	1. <u>On Mac</u>, use `ctrl+cmd+space` and select the emoji to embed directly.
 	2. [Emojis on GitHub Pages](https://help.github.com/articles/emoji-on-github-pages/) sometimes break as versions come & go with `Jekyll + kramdown + Github Pages` combination so I've stopped trusting it.
@@ -43,6 +43,6 @@ tags: [blog, blogs, blogging, tip, tips, trick, tricks]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxOTY0NzU0MywxNzUwMzM3NjgwLDE4NT
-g1OTQ5NjEsLTE5Njc1NDQ3ODFdfQ==
+eyJoaXN0b3J5IjpbLTc2ODM2NzI1LDE3NTAzMzc2ODAsMTg1OD
+U5NDk2MSwtMTk2NzU0NDc4MV19
 -->
