@@ -10,7 +10,7 @@ tags: [macbook,keyboard,ipad]
 
 ## Motivation
 
-I wanted to type directly from my macbook keyboard into [anki] on my iPad so I could put together cards faster, while leaving the fancy iPad sketching to the apple pencil on my iPad.
+I wanted to type directly from my macbook keyboard into [anki](https://learnwell.github.io/2020/02/14/anki.html){:target="_blank"} on my iPad so I could put together cards faster, while leaving the fancy iPad sketching to the apple pencil on my iPad.
 
 ## Solution
 
@@ -27,5 +27,5 @@ I'm pretty happy with Type2Phone for now.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDI3ODM5ODVdfQ==
+eyJoaXN0b3J5IjpbMTMxMTY4ODkwMF19
 -->
