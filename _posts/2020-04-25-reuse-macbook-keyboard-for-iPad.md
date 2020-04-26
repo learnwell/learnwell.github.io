@@ -10,10 +10,13 @@ tags: [macbook,keyboard,ipad]
 
 ## Motivation
 
-Type directly from my macbook keyboard into [anki] so I can publish cards faster, while leavign the fancy iPad sketches to the apple pencil.
+I wanted to type directly from my macbook keyboard into [anki] on my iPad so I could put together cards faster, while leaving the fancy iPad sketching to the apple pencil on my iPad.
+
+Evaluated: Typeeto, Type2Phone, Mocha Keyboard, 1Keybaord
+
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzM0Mjg0MjVdfQ==
+eyJoaXN0b3J5IjpbLTk0OTM3NTc0OV19
 -->
