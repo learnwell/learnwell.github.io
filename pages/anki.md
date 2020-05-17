@@ -20,7 +20,7 @@ tags: [anki,filter,filtered,deck,decks]
 	# Due within last 5 days
 	is:due prop:ivl<=5 -"tag:chem112" -flag:1 -flag:2
 	```
-  * Intervals to help setup 3 different decks or filtered decks to study for upcomign tests in a repeatable fashio
+  * Intervals to help setup 3 different decks or filtered decks to study for upcoming tests and only graduating into anki's hands once personal interests have been met.
 	```
 	# Deck for graduating cards on a Daily basis
 	1m 10m 2h 10h 1d max:3d
@@ -42,5 +42,5 @@ tags: [anki,filter,filtered,deck,decks]
 > Written with  [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgxNzg1NDExLC0xMjMwNDY3MzYxXX0=
+eyJoaXN0b3J5IjpbMTc5OTM3NzMxNiwtMTIzMDQ2NzM2MV19
 -->
