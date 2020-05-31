@@ -4,13 +4,13 @@ layout: postMod1
 title: How to create animated GIFs for mechanisms in Organic Chemistry
 author: pulkit
 last_modified_at: May 30, 2020
-tags: [macbook,keyboard,ipad]
+tags: [GIF,gifs,mechanism,mechanisms,ochem,organic,chemistry,create,animate,animated]
 
 ---
 
 ## Motivation
 
-I wanted to type directly from my macbook keyboard into [anki](https://learnwell.github.io/2020/02/14/anki.html){:target="_blank"} on my iPad so I could put together cards faster, while leaving the fancy iPad sketching to the apple pencil on my iPad.
+I’ve been thinking of making GIFs for ochem mechanisms but I wasn’t sure of the time investment. Today, I bit the bullet and after some research I found [ezgif to do it and it took 11 mins to produce this .. wonder if its worth it to change the majority of our reaction log into something like this ...
 
 ## Solution
 
@@ -27,5 +27,5 @@ I'm pretty happy with Type2Phone for now.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUwNDUyOTAyXX0=
+eyJoaXN0b3J5IjpbMjA1NDU2NzE4MV19
 -->
