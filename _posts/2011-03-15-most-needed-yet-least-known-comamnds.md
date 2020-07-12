@@ -1,3 +1,13 @@
+---
+
+layout: postMod1
+title: the title goes here
+author: pulkit
+last_modified_at: December 28, 2018
+tags: [grep,find,linx,unix,cygwin,cmd]
+
+---
+
 This is the most current version of an [older article](http://pulkitsinghal.blogspot.com/2011/03/most-needed-yet-least-known-commands.html) that I had published.
 
 1. `dir /S *.ext`
@@ -37,5 +47,5 @@ This is the most current version of an [older article](http://pulkitsinghal.blog
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NzA1MjA5OF19
+eyJoaXN0b3J5IjpbMTI2NjU0NjEzNiwxMzk3MDUyMDk4XX0=
 -->
