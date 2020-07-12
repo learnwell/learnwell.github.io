@@ -4,7 +4,7 @@ layout: postMod1
 title: Setup Prometheus with Docker Swarm
 author: pulkit
 last_modified_at: July 02, 2018
-tags: [docker,swarm,prometheus]
+tags: [docker,swarm,prometheus,grafana]
 
 ---
 
@@ -24,5 +24,5 @@ Then the manual approach, on another manager node, installed the exporters on ea
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNTE0Mzk0MF19
+eyJoaXN0b3J5IjpbODY4NTE3NTQ4LDExMjUxNDM5NDBdfQ==
 -->
