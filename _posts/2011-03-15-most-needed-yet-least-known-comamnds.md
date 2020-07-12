@@ -8,7 +8,6 @@ tags: [grep,find,linx,unix,cygwin,cmd]
 
 ---
 
-
 1. `dir /S *.ext`
     * Find a file or folder in Windows Command Prompt
 1. `dir /X`
@@ -46,5 +45,5 @@ tags: [grep,find,linx,unix,cygwin,cmd]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3OTcwNjk2NywxMzk3MDUyMDk4XX0=
+eyJoaXN0b3J5IjpbLTEwMTY4MDMyNTksMTM5NzA1MjA5OF19
 -->
