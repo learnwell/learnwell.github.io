@@ -1,14 +1,13 @@
 ---
 
 layout: postMod1
-title: the title goes here
+title: Most needed yet least known commands
 author: pulkit
-last_modified_at: December 28, 2018
+last_modified_at: July 12, 2020
 tags: [grep,find,linx,unix,cygwin,cmd]
 
 ---
 
-This is the most current version of an [older article](http://pulkitsinghal.blogspot.com/2011/03/most-needed-yet-least-known-commands.html) that I had published.
 
 1. `dir /S *.ext`
     * Find a file or folder in Windows Command Prompt
@@ -47,5 +46,5 @@ This is the most current version of an [older article](http://pulkitsinghal.blog
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NjU0NjEzNiwxMzk3MDUyMDk4XX0=
+eyJoaXN0b3J5IjpbMTk3OTcwNjk2NywxMzk3MDUyMDk4XX0=
 -->
