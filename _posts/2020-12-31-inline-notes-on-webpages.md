@@ -11,10 +11,14 @@ tags: []
 ## Motivation
 I have long wanted to highlight text and leave embedded/inline notes on webpages as I browse them. `Google notes` (later named `google keep`) was one such tool that never quite did the job   :unamused:
 
-Today that fire was rekindled while learning anatomy on KenHub. I tried Polar, Pocket and when they btoh
+Today that fire was rekindled while learning anatomy on KenHub. 
+
+Polar had a nice feature where its plugin only clipped the highlighted text from the webpage into the polar repository but
+1. this was not inline, and
+2. it was not possible to merge two clippings 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUzMzQ3Nzc3XX0=
+eyJoaXN0b3J5IjpbLTEwMzczMTMwODhdfQ==
 -->
