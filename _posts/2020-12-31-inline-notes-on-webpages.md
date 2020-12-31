@@ -11,7 +11,7 @@ tags: [highlight, highlighting, inline, note, notes, polar, pocket, chrome]
 ## Motivation
 I have long wanted to highlight text and leave embedded/inline notes on webpages as I browse them. `Google notes` (later named `google keep`) was one such tool that never quite did the job.  :unamused:
 
-Today (December 31, 2020) that fire was rekindled while learning anatomy on KenHub. 
+Today, on December 31, 2020, that fire was rekindled while learning anatomy on [KenHub](https://kenhub.com). 
 
 [Polar](https://getpolarized.io/) had a nice feature where its [chrome extension](https://getpolarized.io/chrome-extension/) only clipped the highlighted text from the webpage into the polar repository but
 1. this was not **inline**, and
@@ -23,5 +23,5 @@ There were some purely chrome based extensions that looked clean and only stuck 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM3NDc2NDIwXX0=
+eyJoaXN0b3J5IjpbLTEwNTcxODUzNzhdfQ==
 -->
