@@ -13,12 +13,12 @@ I have long wanted to highlight text and leave embedded/inline notes on webpages
 
 Today that fire was rekindled while learning anatomy on KenHub. 
 
-Polar had a nice feature where its plugin only clipped the highlighted text from the webpage into the polar repository but
-1. this was not inline, and
-2. it was not possible to merge two clippings 
+[Polar](https://getpolarized.io/) had a nice feature where its [chrome extension](https://getpolarized.io/chrome-extension/) only clipped the highlighted text from the webpage into the polar repository but
+1. this was not **inline**, and
+2. clippings from the same page were **not bundled** together as one source, inside polar. They became 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzczMTMwODhdfQ==
+eyJoaXN0b3J5IjpbNDcyMjUyOTU4XX0=
 -->
