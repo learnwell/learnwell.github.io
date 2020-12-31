@@ -9,10 +9,10 @@ tags: []
 ---
 
 ## Motivation
-I wanted to highlight text and leave embedded/inline not
+I have long wanted to highlight text and leave embedded/inline notes on webpages as I browse them. `Google notes` (later named `google keep`) was one such tool that for one reason or another never quite did the job.
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MzQ4MDEyM119
+eyJoaXN0b3J5IjpbMTQwNzk0NzQwOF19
 -->
