@@ -9,16 +9,17 @@ tags: []
 ---
 
 ## Motivation
-I have long wanted to highlight text and leave embedded/inline notes on webpages as I browse them. `Google notes` (later named `google keep`) was one such tool that never quite did the job   :unamused:
+I have long wanted to highlight text and leave embedded/inline notes on webpages as I browse them. `Google notes` (later named `google keep`) was one such tool that never quite did the job.  :unamused:
 
 Today that fire was rekindled while learning anatomy on KenHub. 
 
 [Polar](https://getpolarized.io/) had a nice feature where its [chrome extension](https://getpolarized.io/chrome-extension/) only clipped the highlighted text from the webpage into the polar repository but
 1. this was not **inline**, and
-2. clippings from the same page were **not bundled** together as one source, inside polar. They became 
+2. clippings from the same page were **not bundled** together as one source, inside polar. They became two separate documents. :disappointed:
 
+Technologies like [Pocket](https://help.getpocket.com/article/1077-what-is-article-view) and [RevNote required the 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcyMjUyOTU4XX0=
+eyJoaXN0b3J5IjpbMjg2Njc2MDc3XX0=
 -->
