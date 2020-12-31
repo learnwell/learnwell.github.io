@@ -1,10 +1,10 @@
 ---
 
 layout: postMod1
-title: the title goes here
+title: Inline notes for websites
 author: pulkit
 last_modified_at: December 31, 2020
-tags: []
+tags: [highlight, inline, note, notes]
 
 ---
 
@@ -21,5 +21,5 @@ Technologies like [Pocket](https://help.getpocket.com/article/1077-what-is-artic
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNjAxNDg4MF19
+eyJoaXN0b3J5IjpbMTM0NjMzMjA3Ml19
 -->
